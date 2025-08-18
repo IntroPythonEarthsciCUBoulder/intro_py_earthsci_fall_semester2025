@@ -1,0 +1,5 @@
+Planet,Number,Solar irradiance (W/m2),Albedo Radius (km2)
+Mercury,0,9083.0,0.068,2440.0
+Venus,1,2636.0,0.77,6050.0
+Earth,2,1360.0,0.31,6370.0
+Mars,3,586.0,0.25,3390.0
