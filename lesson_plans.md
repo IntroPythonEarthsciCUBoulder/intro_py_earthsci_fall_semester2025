@@ -32,11 +32,16 @@
 - Optional: mini-lecture on geologic time by powers of ten (10)
 - Wrap up and recap (5)
 
+POST-NOTES:
+- only got up to initial markdown experimentation, and a very quick hello-world
+
+
 ## Class 2: operators
 
-### Main topics
+### Main topics / goals
 
 #### Computing
+
 
 - Use **operators** to do mathematical calculations
 - Understand how computer data are organized using **files** and **folders**
@@ -48,3 +53,9 @@
 - Define solar irradiance and albedo
 - Identify the Stefan-Boltzmann law
 - Use the Stefan-Boltzmann law to calculate the effective radiating temperature of earth given irradiance and albedo
+
+
+#### POST NOTES
+
+- only got up to showing the equilibrium T equation; didn't have time for them to calculate solutions, or to cover shell commands
+
