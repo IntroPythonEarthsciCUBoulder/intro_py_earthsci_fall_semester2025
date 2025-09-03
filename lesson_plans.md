@@ -59,3 +59,31 @@ POST-NOTES:
 
 - only got up to showing the equilibrium T equation; didn't have time for them to calculate solutions, or to cover shell commands
 
+
+# Class 3: variables and data types, part 1
+
+Main goal is to introduce variables and types, dynamic typing, and the type() function.
+
+Introduce int, float, str, and bool. If time, get people familiar with string indexing and slicing.
+
+Starting the planetary props ex near top of hour, ie, 55 min in
+
+Got up to, barely, booleans, and didn't cover comparison ops except briefly ==
+
+I did show them %whos and how to restart kernel
+
+When we did the ops warmup, lots of mistakes with parens - many are just starting to get the idea.
+
+I thought they would recognize the Te equation from GEOL 2001, but got mostly blank looks. Do they still cover that? Did they just forget?
+
+I kind of sense that precise thinking comes naturally (?) to a few, but most are kind of shooting in the dark.
+
+Overall, this group feels bright and engaged, but I have to remember that they are still young and learning; even things that I might have taken for granted that they knew, like whether Mars is closer or farther from Earth, they don't necessarily know.
+
+I sense they need more practice, and probably less time listening to me... though I suspect a few get it right away and are ready for harder material. Having "extra credit" extensions on assignments, and generally optional extensions on in-class work, would be good for those folks. Like have a "If you have more time" section for the in-class exercises.
+
+A check-in wouldn't be a bad idea, like a mentimeter anonymous question on pace is too slow, too fast, or about right.
+
+
+
+
