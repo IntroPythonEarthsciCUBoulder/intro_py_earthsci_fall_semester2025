@@ -86,4 +86,37 @@ A check-in wouldn't be a bad idea, like a mentimeter anonymous question on pace 
 
 
 
+# Class 4: more vars and types
+
+- finishing comparisons at t+15
+- I set them loose on the first Calwood exercise at 10:10, and that's where we ended at 10:20
+
+
+
+# Class 5: Working with modules and functions; getting help
+
+This was to have been the first of two sessions on functions, plus we ran out of time Monday and so still need to cover list indexing and dicts. (And tuples and sets.) So instead of working on in-class notebook number 5, we had them work on and turn in a notebook of basic exercises that Jo wrote, and then they worked on Code Paper #1. I flipped this class and recorded the material.
+
+Lesson Plan:
+- 5 min intro / review
+- 20 min exercises that Jo is making
+- 5 min intro to code paper; remind about llms
+- 40 min work on paper (turned out to be more like 30 min)
+- 5 min regroup
+
+Recorded for them view before Monday:
+
+- list indexing and slicing
+- dicts
+- tuples and sets
+- working with functions (using 05_working_with_functions)
+- importing modules (same notebook)
+
+People here today: 11 out of 16
+
+
+
+
+
+
 
