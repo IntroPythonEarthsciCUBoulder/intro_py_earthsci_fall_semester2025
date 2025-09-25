@@ -116,6 +116,77 @@ People here today: 11 out of 16
 
 
 
+# Class 6
+
+Post-notes:
+- About 10 people there
+- Walked through a notebook on functions, with alternating presentation and hands-on exercises
+- A fair amount of confusion / uncertainty over syntax, plus the usual notebook "hidden state" issues (like redefining the print() function as a variable)
+- Got up through docstrings, but not the in-class exercise with them
+
+
+
+
+Class #7: branching
+
+- General questions on coding paper?
+- Work through notebook on branching, pausing to do in-class exercises
+- Reserve at least 20 min at end to have them work on paper
+
+post-notes:
+- got up to but not including the gaging station stuff
+- spent a while going over the concept and math behind question 3 on the current code paper, where b and c ask them to find greenhouse magnitude or albedo such that Tsurface remains at the freezing point. They were confused about how to set this up.
+- there's still some confusion about functions, and in particular about passing in arguments: why does the parameter have a different name from the input?
+- syntax is still a challenge for some people
+- generally the branching stuff seemed to go ok
+- people want more practice time
+- I did cover "not" (in response to a question)
+- Did not cover nested ifs, one-line ifs, or pass
+
+Assignment 1:
+- Biggest point of confusion is around 3b and c, which deal with finding either a dT or albedo such that early earth T ~ 0C
+
+
+Class #8: loops
+
+Once again, WAY slower than I'd planned. I had meant to have this schedule:
+
+0-15 min introduce for loops
+15-30 min practice for loops
+30-45 min introduce while loops
+45-60 min practice while loops
+60-75 min introduce background for next assignment
+
+Instead, I found I was still talking at :30 past the start. We let them loose on the for loop exercises, and there was a lot of confusion about setup and syntax, i.e., this was not an easy one for everyone. Then Jo gave an impromptu presentation on using a loop and a function together. Then I went back and showed a solution to the first practice problem, and we were out of time.
+
+
+Class #9: practice session, while loops, and very quick intro to numpy
+
+...to be supplemented by videos...
+
+- Ice cores and next assignment quick overview (as motivation)
+- Jo's practice NB
+- While loops and one quick exercise
+- Work on 1st problem on paper
+- 10 min intro to numpy with videos to follow
+
+
+During/post notes:
+- dang, I really do tend to go slowly: Jo is starting at :25 past the top, instead of the 10-15 I intended!
+- plus I forgot to point them to today's notebook name on canvas
+- Jo is showing how to use the debugger, and then a review notebook.
+- From their work on the review NB, it's clear there's still a lot of confusion about how to write and use functions. Maybe they didn't watch the video... that's the downside of videos
+- Maybe better in future to do IF and loops before covering functions
+
+
+Class #10: Numpy and matplotlib
+
+- about 1/3 of the class is on field trips this week...
+- so, whatever notebook we do should be comprehensive
+
+LP:
+- housekeeping: extension
+
 
 
 
