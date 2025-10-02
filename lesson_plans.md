@@ -188,6 +188,24 @@ LP:
 - housekeeping: extension
 
 
+Class #11: reading data from text files
+
+- Two Python package presentations
+- Questions on current code assignment?
+- Go through in-class notebook #11
+
+- post-notes: this topic is BIG. Either have to scale back or spread over 2 classes.
+- one idea would be to very quickly introduce read(), readline(), and readlines(), don't bother with split(), and then get right to loadtxt() and savetxt()
+
+- there's still a lot of confusion over syntax, and just a need to get accustomed to "thinking in python"
+
+- also, i forgot to record the class for the field trippers
+
+- and when i use external files, those files have to be accessible to the students
+
+
+
+
 
 
 
