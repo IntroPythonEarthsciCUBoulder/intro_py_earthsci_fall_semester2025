@@ -1,0 +1,25 @@
+A potential rubric for final projects:
+
+1. Motivation, objectives
+- Paper has some kind of an introduction and overview (1 pt)
+- What? A reader can understand what the project is meant to accomplish (1)
+- Why? A reader can understand why it's important/interesting (1)
+- How? Paper gives an overview of the methods used (1)
+2. Code and experiments
+- Code runs
+- Code is logical and organized
+- Code uses at least 4 methods/techniques such as: loops, branches, Fns, packages
+- Code doesn't contain leftover mess or hidden bugs/mistakes
+3. Documentation and readability
+- Functions have docstrings
+- Non-obvious lines are commented
+- Text or comments or docstrings explain how the algorithms work
+- Code style is neat and consistent
+4. Results and illustrations
+- Results are presented graphically or in table form or in appropriate text form
+- Results are explained in some fashion (not just a plot but some kind of explanation of what it means)
+- Presentation makes use of some kind of method that we covered in class: matplotlib plots, movies, pandas table, etc.
+- Axes are labeled, units given, multiple curves identified with legend or text, etc.
+5. Equivalent to ~2 code papers
+- If one were to cast the project as a code paper assignment, one could break it into at least 8 individual questions/tasks
+
