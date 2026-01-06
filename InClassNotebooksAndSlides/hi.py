@@ -1,0 +1,6 @@
+
+import greeting
+
+
+greeting.hello()
+

@@ -1,0 +1,1657 @@
+﻿ID,Citation,Site_Name,Drainage area (km^2),tau_*bf,Slope,D50 (m),Width (m),Depth (m),Discharge (m3/s)
+1,"Agouridis et al., 2011 and Brockman, 2010",Banklick Creek at Hwy 1829,77.7,0.0372,0.0051,0.0831,12.1,1,21.2
+2,"Agouridis et al., 2011 and Brockman, 2010",Cave Creek near Fort Springs,6.55,0.0466,0.0074,0.0385,5.3,0.4,1.8
+3,"Agouridis et al., 2011 and Brockman, 2010",Cedar Creek at Hwy 1442,31.34,0.0445,0.005,0.0477,12.6,0.7,9.7
+4,"Agouridis et al., 2011 and Brockman, 2010",Chenoweth Run at Ruckriegel Pky.,14.17,0.0357,0.0053,0.045,13.6,0.5,4.7
+5,"Agouridis et al., 2011 and Brockman, 2010",Cruises Creek at Hwy 17,46.62,0.0513,0.0056,0.0595,12.7,0.9,10.6
+6,"Agouridis et al., 2011 and Brockman, 2010",Eagle Creek at Sadieville,111.11,0.1877,0.0016,0.0062,26.2,1.2,33.4
+7,"Agouridis et al., 2011 and Brockman, 2010",East Hickman Creek at Andover,4.09,0.0925,0.0058,0.0152,4.1,0.4,1.1
+8,"Agouridis et al., 2011 and Brockman, 2010",East Hickman Creek at Delong Rd.,39.11,0.0255,0.0025,0.0534,11.5,0.9,7.5
+9,"Agouridis et al., 2011 and Brockman, 2010",Fourmile Creek at Polar Bridge,8.03,0.0919,0.0184,0.0607,8,0.5,4.4
+10,"Agouridis et al., 2011 and Brockman, 2010",Goose Creek at Old Westport Rd.,15.54,0.0399,0.0053,0.0564,9.5,0.7,4.7
+11,"Agouridis et al., 2011 and Brockman, 2010",Gunpowder Creek at Camp Ernst Rd.,94.79,0.025,0.0035,0.0848,12.12,1,46.4
+12,"Agouridis et al., 2011 and Brockman, 2010",Little Goose Creek near Harrods Creek,15.02,0.0357,0.0061,0.0828,13.7,0.8,7.7
+13,"Agouridis et al., 2011 and Brockman, 2010",Middle Fork Beargrass Creek at Old Cannons Ln.,48.95,0.0566,0.0037,0.0396,12.8,1,15
+14,"Agouridis et al., 2011 and Brockman, 2010",Mud Lick Creek at Hwy 42,94.28,0.0612,0.0053,0.0787,12.11,1.5,57.8
+15,"Agouridis et al., 2011 and Brockman, 2010",North Elkhorn Creek at Bryan Station Rd.,55.68,0.028,0.0032,0.0623,17.3,0.9,7.6
+16,"Agouridis et al., 2011 and Brockman, 2010",North Elkhorn Creek at Man O War Rd.,5.7,0.0735,0.0073,0.0301,5.9,0.5,1.7
+17,"Agouridis et al., 2011 and Brockman, 2010",North Elkhorn Creek at Winchester Rd.,10.49,0.0543,0.0046,0.0308,8.4,0.6,2.1
+18,"Agouridis et al., 2011 and Brockman, 2010",South Elkhorn Creek at Fort Springs,62.16,0.0061,0.0028,0.194,16.5,0.7,15.4
+19,"Agouridis et al., 2011 and Brockman, 2010",Town Branch at Yarnallton Rd.,77.7,0.0134,0.0029,0.1307,21.9,1,30.6
+20,"Agouridis et al., 2011 and Brockman, 2010",Twelvemile Creek at Hwy 1997,101.01,0.0138,0.0025,0.1317,12.13,1.2,38.2
+21,"Agouridis et al., 2011 and Brockman, 2010",UT to East Hickman Creek at Chilesburg,2.49,0.332,0.0063,0.0046,4.2,0.4,1.3
+22,"Agouridis et al., 2011 and Brockman, 2010",West Hickman Creek at Ash Grove Pk.,53.09,0.0114,0.0034,0.1443,17.8,0.8,12.9
+23,"Agouridis et al., 2011 and Brockman, 2010",Wolf Run at Old Frankfort Pk.,24.79,0.0233,0.005,0.1041,11.6,0.8,11.9
+24,"Agouridis et al., 2011 and Brockman, 2010",Woolper Creek at Woolper Rd.,62.68,0.0851,0.0071,0.0455,12.9,0.9,15.3
+25,"Albert, 2004","Rio Grande at Albuquerque, NM",,,0.0011,,105,1.3,141.58
+26,Andrews 1984,"East River at Almont, CO",749,0.0407,0.0067,0.091,26,0.91,37.5
+27,Andrews 1984,"Elk River near Milner, CO",1075,0.0508,0.0037,0.064,36.6,1.45,101
+28,Andrews 1984,"Fraser River at Upper STA, near Winter Park, CO",27.2,0.0724,0.014,0.034,6.98,0.29,2.69
+29,Andrews 1984,"Lake Fork at Gateview, CO",865,0.0391,0.0058,0.079,24.9,0.88,42
+30,Andrews 1984,"Little Grizzly Creek above Hebron, CO",135,0.029,0.0023,0.023,10,0.48,6.7
+31,Andrews 1984,little muddy creek near parshall,16.9,0.047,0.0061,0.024,5,0.31,1.9
+32,Andrews 1984,"North Platte River near Northgate, CO",3706,0.0344,0.0014,0.024,47,0.97,85.2
+33,Andrews 1984,"South Fork of Williams Fork near Leal, CO",70.5,0.0532,0.015,0.073,,0.43,8.36
+34,Andrews 1984,Castle Creek near Aspen,104,0.0672,0.0206,0.091,8,0.49,4.5
+35,Andrews 1984,Chalk Creek near Nathrop,251,0.0623,0.019,0.085,12,0.46,9.8
+36,Andrews 1984,"Crystal River above Avalanche Creek, near Redstone, CO",433,0.0301,0.0058,0.098,34,0.84,49
+37,Andrews 1984,Cunningham Creek near Norrie,18.4,0.0618,0.0092,0.037,6,0.41,2.5
+38,Andrews 1984,East Inlet Creek near Grand Lake,70.5,0.0334,0.0046,0.061,12,0.73,12.2
+39,Andrews 1984,Frazer River near Winter Park,27.2,0.0724,0.014,0.034,7,0.29,2.7
+40,Andrews 1984,Little Snake River near Dixon,738,0.0343,0.0024,0.07,37,1.65,114
+41,Andrews 1984,Little Snake river near Slater,738,0.0399,0.0071,0.122,31,1.13,72.2
+42,Andrews 1984,Michigan River near Cameron Pass,3.96,0.0643,0.026,0.049,2,0.2,0.7
+43,Andrews 1984,North Fork Fryingpan River above Cunningham,31.1,0.0387,0.01,0.061,6,0.39,3.2
+44,Andrews 1984,South Fork Williams Fork near Leal,70.5,0.0535,0.015,0.073,9,0.43,8.4
+45,Andrews 1984,Stillwater Creek above Granby Res.,45.3,0.0436,0.011,0.052,7,0.34,2.2
+46,Andrews 1984,Tomichi Creek at Sargents,386,0.0315,0.0046,0.046,12,0.52,7.1
+47,Andrews 1984,Williams Fork at mouth near Hamilton,883,0.0436,0.002,0.045,24,1.62,46.7
+48,Andrews 1984,Williams Fork near Leal,231,0.0453,0.0044,0.043,18,0.73,22.6
+49,"Andrews, 1984","Little Snake River near Dixon, WY",2558.91,0.0343,0.0024,0.07,36.6,1.65,114
+50,"Andrews, 1984","Yampa River below Diversion, near Hayden, CO",3703.69,0.0307,0.0018,0.058,53.3,1.63,167
+51,"Andrews, 1984","Yampa River near Maybell, CO",8832,0.029,0.00088,0.034,83.8,1.85,255
+52,"Andrews, 1994","Sagehen Creek near Truckee, CA",27.19,0.0428,0.01,0.058,4.85,0.41,2
+53,"Andrews, 2000","East Fork Virgin River near Springdale, UT",888.37,0.0562,0.004,0.025,7.8,0.58,7.1
+54,"Annable, 1996; Li et. Al., 2015","Bear Creek below Brigden, Ontario, Canada",,7.6774,0.00033,0.000062,25.67,2.38,27.94
+55,"Annable, 1996; Li et. Al., 2015","McKenzie Creek near Caledonia, Ontario, Canada",,4.6982,0.0034,0.00025,22.3,0.57,15.29
+56,"Annable, 1996; Li et. Al., 2015","Willow Creek above Little Lake, Ontario, Canada",,9.1345,0.0024,0.00025,13.7,1.57,22.65
+57,"Bartholdy and Kisling-Moller, (1996), Kleinhans and van den Berg, (2011)",Gels Aa,,0.8913,0.0005,0.00051,15,1.5,10
+58,"BC Hydro and Power Authority, 1975",Beatton River near confluence with Peace River,,0.0638,0.00121,0.056,121,4.87,2096
+59,"BC Hydro and Power Authority, 1975",Halfway River BC near confluence with Peace River,,0.0892,0.00221,0.05,178,3.33,1700
+60,"BC Hydro and Power Authority, 1975",Halfway River BC upstream of lower section,,0.0614,0.00189,0.042,170,2.25,1042
+61,"BC Hydro and Power Authority, 1975",Pine River BC near confluence with Peace River,,0.3972,0.01003,0.073,212,4.77,3820
+62,"Bent and Waite, 2013","BRANCH RIVER AT FORESTDALE, RI",236.21,0.0211,0.0022,0.06588,18,1.05,34.26
+63,"Bent and Waite, 2013","CHARLES RIVER AT DOVER, MA",473.97,0.0324,0.0008,0.01813,30.05,1.21,27.01
+64,"Bent and Waite, 2013","Green River at Williamstown, MA",110.33,0.1025,0.0107,0.05956,24.08,0.94,34.55
+65,"Bent and Waite, 2013","GREEN RIVER NEAR COLRAIN, MA",107.23,0.0588,0.0075,0.09281,16.8,1.2,59.75
+66,"Bent and Waite, 2013","Hubbard River near West Hartland, CT",108.78,0.0556,0.0236,0.17945,22.33,0.7,14.36
+67,"Bent and Waite, 2013","Mill River at Northhampton, MA",136.23,0.1478,0.0038,0.01695,25.76,1.09,45.31
+68,"Bent and Waite, 2013","Nipmuc River near Harrisville, RI",41.44,0.0667,0.0021,0.01244,15.77,0.65,9
+69,"Bent and Waite, 2013","NORTH RIVER AT SHATTUCKVILLE, MA",230.51,0.0659,0.0052,0.06695,41,1.4,86.9
+70,"Bent and Waite, 2013","Old Swamp River near South Weymouth, MA",11.65,0.0223,0.0046,0.05001,10.84,0.4,6.4
+71,"Bent and Waite, 2013","Otter River at Otter River, MA",88.32,0.0334,0.0049,0.048,18.2,0.54,10.59
+72,"Bent and Waite, 2013","Priest Brook near Winchendon, MA",50.25,0.0411,0.002,0.01832,16.93,0.62,5.15
+73,"Bent and Waite, 2013","Quaboag River at West Brimfield, MA",388.5,0.0163,0.0025,0.07615,40.37,0.82,28.6
+74,"Bent and Waite, 2013","Salmon Creek at Lime Rock, CT",76.15,0.013,0.0034,0.11912,14.1,0.75,13.88
+75,"Bent and Waite, 2013","Segreganset River at Dighton, MA",27.45,0.0461,0.013,0.10169,9.91,0.59,5.47
+76,"Bent and Waite, 2013","Sevenmile River near Spencer, MA",22.82,0.0424,0.0053,0.03807,9.66,0.5,4.62
+77,"Bent and Waite, 2013","SOUTH RIVER NEAR CONWAY, MA",62.42,0.1284,0.0052,0.03021,17,1.23,48.42
+78,"Bent and Waite, 2013","Squannacook River near West Groton, MA",164.98,0.0234,0.0046,0.11855,22.46,1,21.01
+79,"Bent and Waite, 2013","STONY BROOK NEAR WEST SUFFIELD, CT",26.94,0.0277,0.0064,0.07083,10,0.51,7.76
+80,"Bent and Waite, 2013","Wading River near Norton, MA",112.15,0.0352,0.0024,0.02964,12.39,0.72,8.35
+81,"Bent and Waite, 2013","West Branch Westfield River at Huntington, MA",243.46,0.0301,0.0066,0.128,37.84,0.96,98.26
+82,"Brockman, 2010","FLOYDS FORK AT FISHERVILLE, KY",357.42,0.0153,0.001,0.0872,12.14,2.2,92.6
+83,"California Water Board, 2012; ASCE report by Mussetter Eng. And Jones & Stokes Assoc. 2000",SAN JOAQUIN R NR VERNALIS CA,,0.8621,0.00014,0.0006,127.41,6.1,566.34
+84,"Castro and Jackson, 2001","CHEHALIS RIVER AT PORTER, WA",3351.45,,0.00007,,85.34,5.06,239.08
+85,"Castro and Jackson, 2001","JOHN DAY RIVER AT MCDONALD FERRY, OR",19632.12,,0.0073,,86.87,1.34,177.18
+86,"Castro and Jackson, 2001","SKAGIT RIVER NEAR MOUNT VERNON, WA",8010.84,,0.0002,,182.88,4.97,1122.48
+87,"Castro and Jackson, 2001","TUALATIN RIVER AT WEST LINN, OR",1828.53,,0.0052,,50.29,1.43,79.46
+88,"Castro and Jackson, 2001","YAKIMA RIVER ABOVE AHTANUM CREEK AT UNION GAP, WA",9010.58,,0.0024,,70.1,2.19,227.58
+89,"Castro and Jackson, 2001","YAKIMA RIVER AT KIONA, WA",14542.79,,0.0008,,76.2,1.68,204.28
+90,"Castro and Jackson, 2001; O'Connor et al., 2014","ROGUE RIVER NEAR AGNESS, OR",10201.97,0.0654,0.0011,0.0407,109.73,3.99,805.33
+91,"Castro and Jackson, 2001; O'Connor et al., 2014","South Umpqua River nr Brockway, OR",4325.28,0.0221,0.000674,0.0506,103.63,2.74,280.99
+92,"Chaplin, 2005",Aquashicola Creek at Palmerton Pa.,198.65,0.0204,0.004,0.0988,44.5,0.83,48.7
+93,"Chaplin, 2005",Bixler Run near Loysville Pa.,38.85,0.0263,0.004,0.071,13.2,0.77,12
+94,"Chaplin, 2005",Blockhouse Creek near English Center Pa.,97.64,0.0444,0.006,0.0819,28.1,1,37.9
+95,"Chaplin, 2005",Brandy Run near Girard Pa.,11.53,0.0461,0.012,0.041,8.9,0.26,4.3
+96,"Chaplin, 2005",Browns Creek near Nineveh Pa.,45.32,0.0389,0.001,0.0145,17.5,0.93,17
+97,"Chaplin, 2005",Buffalo Creek near Freeport Pa.,354.83,0.0397,0.002,0.0446,34.1,1.46,79.9
+98,"Chaplin, 2005",Chillisquaque Creek at Washingtonville Pa.,132.87,0.0146,0.001,0.0506,22.7,1.22,49.8
+99,"Chaplin, 2005",Corey Creek near Mainesburg Pa.,31.6,0.0608,0.009,0.0682,21.7,0.76,19.4
+100,"Chaplin, 2005",Crooked Creek below Catlin Hollow at Middlebury Center Pa.,192.44,0.0243,0.001,0.0332,33.2,1.33,74.4
+101,"Chaplin, 2005",East Mahantango Creek near Dalmatia Pa.,419.58,0.0382,0.002,0.0495,40.5,1.56,97.7
+102,"Chaplin, 2005",First Fork Sinnemahoning Creek at Wharton Pa.,471.38,0.0143,0.002,0.107,54.6,1.26,117.4
+103,"Chaplin, 2005",Jordan Creek at Allentown Pa.,196.32,0.013,0.001,0.0382,32.3,0.82,54.9
+104,"Chaplin, 2005",Kettle Creek at Cross Fork Pa.,352.24,0.0107,0.002,0.119,48.5,1.05,79.6
+105,"Chaplin, 2005",Kinzua Creek near Guffey Pa.,352.24,0.0242,0.004,0.0861,19.1,0.86,25.2
+106,"Chaplin, 2005",Kishacoquillas Creek at Reedsville Pa.,424.76,0.0293,0.006,0.18,35.4,1.45,70.5
+107,"Chaplin, 2005",Laurel Hill Creek at Ursina Pa.,313.39,0.0311,0.003,0.0672,49.1,1.15,91.3
+108,"Chaplin, 2005",Little Mahoning Creek at McCormick Pa.,226.37,0.0139,0.001,0.0675,30.5,1.55,59.3
+109,"Chaplin, 2005",Little Pine Creek near Etna Pa.,14.97,0.1771,0.011,0.0207,5.5,0.55,5.7
+110,"Chaplin, 2005",Little Schuylkill River at Tamaqua Pa.,111.11,0.0282,0.007,0.119,16.9,0.79,27.8
+111,"Chaplin, 2005",Little Shenango River at Greenville Pa.,269.36,0.0399,0.002,0.0523,22.1,1.72,58.9
+112,"Chaplin, 2005",Lycoming Creek near Trout Run Pa.,448.07,0.016,0.003,0.133,61.6,1.17,133.9
+113,"Chaplin, 2005",Maiden Creek at Virginville Pa.,411.81,0.0238,0.001,0.0331,47.9,1.3,89.1
+114,"Chaplin, 2005",Marsh Creek at Blanchard Pa.,114.22,0.0365,0.006,0.0778,19.4,0.78,25.1
+115,"Chaplin, 2005",Muncy Creek near Sonestown Pa.,61.64,0.0516,0.01,0.115,20.9,0.98,38.5
+116,"Chaplin, 2005",Newburg Run at Newburg Pa.,13.7,0.0327,0.004,0.0393,12.6,0.53,8.5
+117,"Chaplin, 2005",North Fork Bens Creek at North Fork Pa.,8.94,0.0874,0.031,0.0817,8.3,0.38,2
+118,"Chaplin, 2005",Pohopoco Creek at Kresgeville Pa.,129.24,0.0053,0.001,0.0964,25.1,0.84,22.2
+119,"Chaplin, 2005",Schuylkill River at Landingville Pa.,344.47,0.0349,0.001,0.0269,34.4,1.55,67.7
+120,"Chaplin, 2005",Sevenmile Run near Rasselas Pa.,20.31,0.0519,0.009,0.0735,10.9,0.7,7.1
+121,"Chaplin, 2005","SHERMAN CREEK AT SHERMANS DALE, PA",536.13,0.0132,0.001,0.0516,61.6,1.12,123
+122,"Chaplin, 2005",Toby Creek at Luzerne Pa.,83.92,0.0427,0.012,0.121,15,0.71,21
+123,"Chaplin, 2005",Tonoloway Creek near Needmore Pa.,27.71,0.045,0.008,0.0614,11.1,0.57,8.6
+124,"Chaplin, 2005",Tuscarora Creek near Port Royal Pa.,554.26,0.0195,0.001,0.0581,61,1.87,116.9
+125,"Chaplin, 2005",Tuscarora Creek near Silvara Pa.,30.56,0.0217,0.013,0.116,17.8,0.32,11.2
+126,"Chaplin, 2005",Waldy Run near Emporium Pa.,13.57,0.0344,0.014,0.101,13.5,0.41,3.3
+127,"Chaplin, 2005",Wapwallopen Creek near Wapwallopen Pa.,113.44,0.0523,0.006,0.0584,21.1,0.84,20.2
+128,"Chaplin, 2005",West Branch Clarion River at Wilcox Pa.,163.17,0.0244,0.003,0.067,29.6,0.9,50.7
+129,"Chaplin, 2005",West Branch French Creek near Lowville Pa.,135.46,0.0587,0.001,0.0158,19.3,1.53,27.8
+130,"Chaplin, 2005",Wilson Run at Penfield Pa.,21.6,0.0508,0.007,0.0434,8.6,0.52,5.4
+131,"Chaplin, 2005",Woodcock Creek at Blooming Valley Pa.,80.55,0.0167,0.004,0.11,22.3,0.76,30
+132,"Chaplin, 2005",Young Womans Creek near Renovo Pa.,119.66,0.0362,0.009,0.119,25.8,0.79,22.1
+133,"Chaplin, 2005; Krstolic and Chaplin, 2007","CHOPTANK RIVER NEAR GREENSBORO, MD",,0.5322,0.0003,0.00041,29.6,1.2,19.5
+134,"Chaplin, 2005","JORDAN CREEK NEAR SCHNECKSVILLE, PA",137.27,0.0381,0.003,0.0453,32.3,0.95,49.6
+135,"Chaplin, 2005","Little Lehigh Creek near Allentown, PA",209.27,0.0274,0.001,0.0244,19.42,1.1,17.1
+136,"Chaplin, 2005","Monocacy Creek at Bethlehem, PA",115.25,0.0207,0.003,0.0562,16.64,0.64,11.1
+137,"Chaplin, 2005","Quittapahilla Creek near Bellegrove, PA",192.18,0.0558,0.001,0.0101,21.95,0.93,19.54
+138,"Chaplin, 2005","SPRING CREEK NEAR AXEMANN, PA",225.85,0.0239,0.004,0.0699,20.12,0.69,16.06
+139,"Chaplin, 2005","Spring Creek near Houserville, PA",151.51,0.017,0.002,0.0506,20.06,0.71,13.2
+140,"Chaplin, 2005","Spring Creek near Milesburg, PA",367.78,0.0459,0.001,0.0182,23.68,1.38,25.43
+141,"Chaplin, 2005","TULPEHOCKEN CREEK NEAR BERNVILLE, PA",182.34,0.0225,0.001,0.0242,33.83,0.9,31.54
+142,"Chaplin, 2005","Yellow Breeches Creek near Camp Hill, PA",551.67,0.0414,0.001,0.023,38.71,1.57,68.16
+143,"Charlton et al., 1978","Ceiriog 4-7, Chirk",,0.1055,0.0105,0.082,19,1.36,66
+144,"Charlton et al., 1978","Exe, Thorventon",,0.0449,0.0018,0.043,31,1.77,67
+145,"Charlton et al., 1978","Irfon A, Abernant",,0.0433,0.0024,0.039,26,1.16,66
+146,"Charlton et al., 1978",Afon Lwyd,,0.0633,0.0044,0.075,17.36,1.78,64
+147,"Charlton et al., 1978",Alwen 1-5,,0.0267,0.0064,0.106,14.04,0.73,10
+148,"Charlton et al., 1978",Alwen 5-9,,0.0509,0.013,0.113,9.84,0.73,10.7
+149,"Charlton et al., 1978",Arrow,,0.0891,0.0045,0.041,13.73,1.34,29.5
+150,"Charlton et al., 1978",Ceiriog 1-3,,0.0733,0.0048,0.071,17.63,1.79,66
+151,"Charlton et al., 1978",Derwent,,0.05,0.0017,0.063,34.37,3.06,140
+152,"Charlton et al., 1978",Eachaig,,0.0635,0.0057,0.074,18.41,1.36,58
+153,"Charlton et al., 1978",Glen,,0.039,0.0052,0.063,25.12,0.78,25
+154,"Charlton et al., 1978",Irfon A,,0.0433,0.0024,0.039,26.34,1.16,66
+155,"Charlton et al., 1978",Irfon C,,0.0251,0.0014,0.055,28.67,1.63,81
+156,"Charlton et al., 1978",Kent,,0.075,0.0074,0.113,39.9,1.89,170
+157,"Charlton et al., 1978",Lune,,0.0157,0.0007,0.075,55.78,2.77,260
+158,"Charlton et al., 1978",N Tyne,,0.0438,0.0036,0.104,42.64,2.09,212
+159,"Charlton et al., 1978",Otter,,0.0235,0.0032,0.057,16.73,0.69,14.2
+160,"Charlton et al., 1978",Rookhope,,0.0989,0.0137,0.089,13.7,1.06,36.5
+161,"Charlton et al., 1978",Tees,,0.0425,0.0015,0.077,58,3.6,370
+162,"Charlton et al., 1978",Teign,,0.0411,0.0014,0.051,19.03,2.47,66
+163,"Charlton et al., 1978",Trent,,0.0275,0.0023,0.033,5.24,0.65,2.7
+164,"Charlton et al., 1978",Usk,,0.02,0.0009,0.072,39.33,2.64,157
+165,"Charlton et al., 1978",Wye,,0.0635,0.0007,0.028,59.35,4.19,550
+166,"Charlton et al., 1978",Wyre,,0.0506,0.002,0.04,19.48,1.67,38
+167,"Chase, 2004","Hanging Woman Creek near Birney, MT",1209.53,0.0509,0.014,0.04,2.07,0.24,0.57
+168,"Chase, 2004","Otter Creek At Ashland, MT",1838.89,1.303,0.0003,0.00006,5.79,0.43,0.71
+169,"Chase, 2004","Prairie Dog Creek near Birney, MT",51.02,0.0926,0.004,0.0055,4.57,0.21,0.34
+170,"Chase, 2004","Tongue River at Miles City, MT",13996.31,10.0433,0.001,0.00007,44.81,1.16,46.44
+171,"Chase, 2004","Tongue River at State Line near Decker, MT",3758.08,7.3939,0.001,0.0001,42.67,1.22,55.22
+172,"Chase, 2004","Tongue River at Tongue River dam near Decker, MT",4617.95,0.0276,0.002,0.04,34.14,0.91,42.48
+173,"Chase, 2004","Tongue River below Brandenberg Bridge near Ashland, MT",10046.57,1.2242,0.002,0.001,29.87,1.01,35.96
+174,"Chitale, 1970; Li et al., 2015",Banas (at Abu Road Gujrat state) India,,1.5211,0.00217,0.00477,185.93,5.52,2406.93
+175,"Chitale, 1970; Li et al., 2015",Beaver (Alberta) Canada,,0.798,0.00024,0.0005,54.86,2.74,141.58
+176,"Chitale, 1970; Li et al., 2015","Bennihalla (above Railway Bridge, Gadag Hubli line) India",,6.29,0.000227,0.00004,137.16,1.83,453.07
+177,"Chitale, 1970; Li et al., 2015",Bhagirathi (in West Bengal state) India,,1.1607,0.000058,0.00018,217.93,5.94,1670.69
+178,"Chitale, 1970; Li et al., 2015","Burhi Gandak (at Muzaffarpur, Bihar state) India",,5.2647,0.00019,0.0001,213.36,4.57,1415.84
+179,"Chitale, 1970; Li et al., 2015",Indus (at Hajipur) Pakistan,,1.642,0.0001,0.00018,982.98,4.88,7079.21
+180,"Chitale, 1970; Li et al., 2015","Jhelum (at Shrinager, J. and K. state)  India",,10.4934,0.000137,0.000041,102.11,5.18,396.44
+181,"Chitale, 1970; Li et al., 2015",Jhelum out-fall channel (J. and K. state) India,,0.3515,0.000085,0.00067,152.4,4.57,481.39
+182,"Chitale, 1970; Li et al., 2015",Mississippi (Cairo to Memphis) U.S.,,2.7601,0.0000815,0.0003,2143.96,16.76,42475.27
+183,"Chitale, 1970; Li et al., 2015",Mississippi (Vicksurg to Angola) U.S.,,1.1534,0.0000473,0.0005,1381.35,20.12,42475.27
+184,"Chitale, 1970; Li et al., 2015",Mohor (at Kapadgan Gujrat state) India,,25.69,0.00046,0.000043,152.4,3.96,1132.67
+185,"Chitale, 1970; Li et al., 2015","Mutha (at Poona, Maharashtra state) India",,1.6502,0.00067,0.0015,152.4,6.1,849.51
+186,"Chitale, 1970; Li et al., 2015","Orsong (near Bhadeli, Gujrat state) India",,11.5094,0.001595,0.00032,579.12,3.81,4400.44
+187,"Chitale, 1970; Li et al., 2015",Purna (in Surat District Gujrat state) India,,1.0807,0.0009,0.004,160.02,7.92,1982.18
+188,"Chitale, 1970; Li et al., 2015",Ramganga (in U.P. state) India,,2.4851,0.0001065,0.00019,344.42,7.32,6611.98
+189,"Chitale, 1970; Li et al., 2015","Redihalla (above Railway Bridge, Gadag Hubliline)",,5.2416,0.000227,0.00004,146.3,1.52,339.8
+190,"Chitale, 1970; Li et al., 2015","Salandi (at Bidhyadharpur below Salandi dam, Orissa state) India",,1.2892,0.00067,0.00096,152.4,3.05,849.51
+191,"Chitale, 1970; Li et al., 2015","Saraswati (at Sidhpur, Gujrat state) India",,6.5424,0.00125,0.0003,320.04,2.59,1274.26
+192,"Chitale, 1970; Li et al., 2015",Savannah (in Georgia) U.S.,,0.4318,0.00011,0.0008,106.68,5.18,849.51
+193,"Chitale, 1970; Li et al., 2015","Tapi (at Nanavaracha, Gujrat state) India",,13.5442,0.00047,0.00025,605.33,11.89,21237.63
+194,"Chitale, 1970; Li et al., 2015",Tapi (at Ukai Gujrat state) India,,1.1026,0.000191,0.0016,274.32,15.24,16990.11
+195,"Chitale, 1970; Li et al., 2015","Vatrak (at Kaira, Gujrat state) India",,8.4827,0.000328,0.00015,205.74,6.4,2123.76
+196,"Chitale, 1970; Li et al., 2015","Vatrak (at Mehmadabad, Gujrat state) India",,7.497,0.000342,0.00015,178.31,5.43,1359.21
+197,"Chitale, 1970; Li et al., 2015",Yamuna (at Delhi) India,,2.3264,0.00031,0.00032,365.76,3.96,1982.18
+198,"Chitale, 1970; Li et al., 2015","Yamuna (at Hamirpur, U.P. state) India",,5.8743,0.000159,0.00018,975.36,10.97,30582.19
+199,"Chitale, 1970; Li et al., 2015",Yashwantpur (at railway bridge A.P. state) India,,2.1311,0.0043,0.00205,121.92,1.68,283.17
+200,"Chitale, 1973",Khipra (at Ujjain in M.P. state) India,,0.1397,0.00023,0.005,274.32,5.01,1727.33
+201,"Chitale, 1973; Li et al., 2015",Tonle Sap (at Kompong Chhnang) Cambodia,,6.169890909,0.0000167,0.00001,1402.08,6.096,7079.211648
+202,"Church and Rood, 1983; Li et al., 2015",McClintock River near Whitehorse (p. 66),,1.847,0.00053,0.00044,31,2.53,55
+203,"Church and Rood, 1983; Li et al., 2015",Mekong River at Nong Khai (No: 00249; p. 71),,2.4493,0.00009,0.00031,625,13.92,16950
+204,"Church and Rood, 1983; Li et al., 2015",Mekong River at Wat Sop  (No: 00248; p. 71),,1.5519,0.00007,0.00031,776,11.34,16300
+205,"Church and Rood, 1983; Li et al., 2015","Niger River at Jebba, Nigeria (p. 72)",,0.5253,0.00013,0.00045,515,3,1500
+206,"Church and Rood, 1983; Li et al., 2015",Red Deer River near Buffalo Bridge (No: 00255; p. 72),,1.3778,0.00031,0.0003,187,2.2,850
+207,"Church and Rood, 1983; Li et al., 2015",Red Deer River near Dutchess Bridge (No: 00253; p. 72),,1.8645,0.00027,0.00033,226,3.76,1133
+208,"Church and Rood, 1983; Li et al., 2015",Red Deer River near Jenner Ferry (p. 72),,1.4211,0.0003,0.00038,186,2.97,850
+209,"Church and Rood, 1983; Li et al., 2015","River Bollin at Castle Mill, UK (No: 00234; p. 69)",,5.0649,0.003,0.00042,12,1.17,13
+210,"Cinotto, 2003",Chester Creek near Chester Pa.,158.25,0.0328,0.002,0.0481,21.2,1.3,50.2
+211,"Cinotto, 2003",Conowingo Creek near Buck Pa. ,22.53,0.0389,0.004,0.0436,8.9,0.7,7.4
+212,"Cinotto, 2003",Crum Creek near Newtown Square Pa. ,40.92,0.3409,0.002,0.0032,17.5,0.9,17
+213,"Cinotto, 2003",Manatawny Creek near Pottstown Pa. ,221.44,0.035,0.001,0.0277,27.5,1.6,66.3
+214,"Cinotto, 2003",Perkiomen Creek at East Greenville Pa. ,98.42,0.2552,0.002,0.0038,35.7,0.8,33.7
+215,"Cinotto, 2003",Sucker Run near Coatesville Pa. ,6.66,8.7273,0.009,0.00025,5.4,0.4,4
+216,"Cinotto, 2003",West Branch Brandywine Creek at Coatesville Pa.,118.62,0.0905,0.009,0.0422,23.7,0.7,31.1
+217,"Cinotto, 2003",West Branch Brandywine Creek at Modena Pa.,142.45,0.0798,0.004,0.0243,29.6,0.8,46.5
+218,"Cinotto, 2003",West Branch Perkiomen Creek at Hillegas Pa.,59.57,1.8182,0.004,0.0008,29.4,0.6,28.3
+219,"Cinotto, 2003; Li et al., 2015","West Branch Brandywine Creek near Honey Brook, PA",48.43,0.0565,0.001,0.00733,17.5,0.68,9.43
+220,"Cinotto, 2003","FRENCH CREEK NEAR PHOENIXVILLE, PA",153.07,0.0298,0.004,0.0894,26.5,1.1,40.8
+221,"Cinotto, 2003","Morgan Run near Louisville, MD",72.52,0.0758,0.004,0.027,20.79,0.84,27.47
+222,"Collins and Leventhal, 2013",Bear Valley,,0.1334,0.0133,0.02394,3.99,0.4,2.62
+223,"Collins and Leventhal, 2013",Blackstone 1,,0.0592,0.027,0.059,1.89,0.21,0.36
+224,"Collins and Leventhal, 2013",Blackstone 2,,0.064,0.0277,0.048,2.04,0.18,0.35
+225,"Collins and Leventhal, 2013",Cacade Creek (Fairfax),,0.0441,0.02,0.067,7.59,0.24,2.45
+226,"Collins and Leventhal, 2013",Carriger Creek lower fan,,0.1108,0.016,0.04,10.09,0.46,7.87
+227,"Collins and Leventhal, 2013",Carriger Creek Upstream of Grove,,0.2428,0.08,0.14,5.7,0.7,6.11
+228,"Collins and Leventhal, 2013",Carriger upper fan,,0.1052,0.0348,0.11,8.35,0.55,8.18
+229,"Collins and Leventhal, 2013",Cascade Trib,,0.1821,0.0471,0.043,2.59,0.27,0.85
+230,"Collins and Leventhal, 2013",Cheda Creek 1,,0.1685,0.0141,0.017,4.3,0.34,2.3
+231,"Collins and Leventhal, 2013",Cheda Creek 2,,0.0754,0.0141,0.038,5.18,0.34,2.33
+232,"Collins and Leventhal, 2013",China Camp Creek 1,,0.1327,0.0546,0.038,1.01,0.15,0.16
+233,"Collins and Leventhal, 2013",China Camp Creek 2,,0.1327,0.0546,0.038,1.28,0.15,0.16
+234,"Collins and Leventhal, 2013",China Camp Miwok Meadow,,0.0628,0.0136,0.012,0.52,0.09,0.0255
+235,"Collins and Leventhal, 2013",CORTE MADERA C A ROSS CA,,0.1291,0.0037,0.018,13.2,1.04,26.99
+236,"Collins and Leventhal, 2013",Corte Madera Creek at Ross,,0.0987,0.0037,0.027,12.83,1.19,31.25
+237,"Collins and Leventhal, 2013",Crane Creek at Regional Park,,0.1585,0.0236,0.044,6.07,0.49,5.95
+238,"Collins and Leventhal, 2013",Deer Creeak Middle,,0.2718,0.032,0.0087,1.22,0.12,0.17
+239,"Collins and Leventhal, 2013",Deer Creek Lower,,0.2365,0.0352,0.011,1.65,0.12,0.24
+240,"Collins and Leventhal, 2013",Deer Creek Upper,,0.0955,0.0112,0.013,1.31,0.18,0.23
+241,"Collins and Leventhal, 2013",East Fork Olema Creek,,0.0976,0.0117,0.031,5.36,0.43,3.67
+242,"Collins and Leventhal, 2013",Emu Trib of San Antonio Creek,,0.0594,0.0099,0.04,5.33,0.4,2.97
+243,"Collins and Leventhal, 2013",Giacomini Trib,,0.047,0.0302,0.083,3.72,0.21,0.61
+244,"Collins and Leventhal, 2013",Graham Creek,,0.1287,0.046,0.066,6.07,0.3,3.77
+245,"Collins and Leventhal, 2013",Halleck Creek,,0.1138,0.0109,0.023,6.71,0.4,9.91
+246,"Collins and Leventhal, 2013",Larkspur Creek,,0.0324,0.0114,0.039,2.47,0.18,0.3
+247,"Collins and Leventhal, 2013",Miller Creek,,0.0992,0.0047,0.014,8.96,0.49,6.63
+248,"Collins and Leventhal, 2013",Miller Lucas Site,,0.0931,0.0142,0.031,5.36,0.34,2.46
+249,"Collins and Leventhal, 2013",Miller North Fork,,0.0899,0.0211,0.039,3.78,0.27,1.17
+250,"Collins and Leventhal, 2013",Olema Creek John West Fork,,0.1261,0.0097,0.027,7.41,0.58,7.81
+251,"Collins and Leventhal, 2013",San Antonio Creek near Hwy 101 1,,0.1838,0.0022,0.0084,13.23,1.16,29.94
+252,"Collins and Leventhal, 2013",San Antonio Creek near Hwy 101 2,,0.0965,0.0022,0.016,14.33,1.16,29.53
+253,"Collins and Leventhal, 2013",Sausal Creek 1,,0.0785,0.0067,0.041,11.37,0.79,17.34
+254,"Collins and Leventhal, 2013",Sausal Creek 2,,0.1345,0.0067,0.023,12.28,0.76,17.7
+255,"Collins and Leventhal, 2013",Sleepy Hollow Creek Mainstem,,0.0956,0.0244,0.033,2.93,0.21,0.95
+256,"Collins and Leventhal, 2013",Sleepy Hollow Creek Tributary,,0.2596,0.0445,0.019,1.55,0.18,0.28
+257,"Collins and Leventhal, 2013","Sleepy Hollow Creek, San Anselmo",,0.1197,0.0959,0.074,2.65,0.15,0.28
+258,"Collins and Leventhal, 2013",Sonoma Creek Agua Caliente,,0.1368,0.006,0.044,17.98,1.66,88.89
+259,"Collins and Leventhal, 2013",Sonoma Creek Apex,,0.1119,0.021,0.052,11.22,0.46,9.08
+260,"Collins and Leventhal, 2013",Sonoma Creek Fan,,0.0514,0.006,0.041,10.3,0.58,7.85
+261,"Collins and Leventhal, 2013",Sonoma Creek Lower Fan,,0.0526,0.0075,0.05,11.25,0.58,8.88
+262,"Collins and Leventhal, 2013",Sonoma Sugerloaf 1,,0.1079,0.0114,0.032,9.45,0.5,5.89
+263,"Collins and Leventhal, 2013",Sonoma Sugerloaf 2,,0.1006,0.0125,0.042,7.92,0.56,4.5
+264,"Collins and Leventhal, 2013",Sonoma Sugerloaf 3,,0.1051,0.009,0.025,7.32,0.48,4.02
+265,"Collins and Leventhal, 2013",Steep Ravine Creek,,0.1109,0.0546,0.1,3.2,0.34,1.15
+266,"Collins and Leventhal, 2013",Tributary into Lagunitas Creek,,0.0644,0.034,0.039,3.14,0.12,0.37
+267,"Devauchelle et al., 2011",Tributary to Apalachicola 1,,0.5163,0.01,0.00045,1.2,0.04,0.0107
+268,"Devauchelle et al., 2011",Tributary to Apalachicola 10,,0.202,0.01,0.00045,0.17,0.02,0.00036
+269,"Devauchelle et al., 2011",Tributary to Apalachicola 100,,0.202,0.01,0.00045,0.15,0.02,0.00044
+270,"Devauchelle et al., 2011",Tributary to Apalachicola 101,,0.202,0.01,0.00045,0.15,0.02,0.00043
+271,"Devauchelle et al., 2011",Tributary to Apalachicola 102,,0.202,0.01,0.00045,0.15,0.02,0.00045
+272,"Devauchelle et al., 2011",Tributary to Apalachicola 103,,0.6061,0.01,0.00045,0.25,0.05,0.00352
+273,"Devauchelle et al., 2011",Tributary to Apalachicola 104,,0.6061,0.01,0.00045,0.25,0.05,0.00335
+274,"Devauchelle et al., 2011",Tributary to Apalachicola 105,,0.6061,0.01,0.00045,0.25,0.05,0.00402
+275,"Devauchelle et al., 2011",Tributary to Apalachicola 106,,0.6061,0.01,0.00045,0.25,0.05,0.00313
+276,"Devauchelle et al., 2011",Tributary to Apalachicola 107,,0.6061,0.01,0.00045,0.25,0.05,0.00361
+277,"Devauchelle et al., 2011",Tributary to Apalachicola 108,,0.404,0.01,0.00045,0.5,0.03,0.00363
+278,"Devauchelle et al., 2011",Tributary to Apalachicola 109,,0.404,0.01,0.00045,0.5,0.03,0.00308
+279,"Devauchelle et al., 2011",Tributary to Apalachicola 11,,0.202,0.01,0.00045,0.17,0.02,0.00026
+280,"Devauchelle et al., 2011",Tributary to Apalachicola 110,,0.404,0.01,0.00045,0.5,0.03,0.00346
+281,"Devauchelle et al., 2011",Tributary to Apalachicola 111,,0.404,0.01,0.00045,0.5,0.03,0.00363
+282,"Devauchelle et al., 2011",Tributary to Apalachicola 112,,0.404,0.01,0.00045,0.5,0.03,0.00363
+283,"Devauchelle et al., 2011",Tributary to Apalachicola 113,,0.404,0.01,0.00045,0.5,0.03,0.00363
+284,"Devauchelle et al., 2011",Tributary to Apalachicola 114,,0.5387,0.01,0.00045,0.3,0.04,0.00363
+285,"Devauchelle et al., 2011",Tributary to Apalachicola 115,,0.5387,0.01,0.00045,0.3,0.04,0.0046
+286,"Devauchelle et al., 2011",Tributary to Apalachicola 116,,0.5387,0.01,0.00045,0.3,0.04,0.00394
+287,"Devauchelle et al., 2011",Tributary to Apalachicola 117,,0.5387,0.01,0.00045,0.3,0.04,0.0046
+288,"Devauchelle et al., 2011",Tributary to Apalachicola 118,,0.5387,0.01,0.00045,0.3,0.04,0.00363
+289,"Devauchelle et al., 2011",Tributary to Apalachicola 119,,0.5387,0.01,0.00045,0.3,0.04,0.003
+290,"Devauchelle et al., 2011",Tributary to Apalachicola 12,,0.202,0.01,0.00045,0.17,0.02,0.00031
+291,"Devauchelle et al., 2011",Tributary to Apalachicola 120,,0.5387,0.01,0.00045,0.3,0.04,0.00288
+292,"Devauchelle et al., 2011",Tributary to Apalachicola 121,,0.5387,0.01,0.00045,0.3,0.04,0.00329
+293,"Devauchelle et al., 2011",Tributary to Apalachicola 122,,0.101,0.01,0.00045,0.3,0.01,0.00053
+294,"Devauchelle et al., 2011",Tributary to Apalachicola 123,,0.101,0.01,0.00045,0.3,0.01,0.00065
+295,"Devauchelle et al., 2011",Tributary to Apalachicola 124,,0.101,0.01,0.00045,0.3,0.01,0.00058
+296,"Devauchelle et al., 2011",Tributary to Apalachicola 125,,0.101,0.01,0.00045,0.3,0.01,0.0006
+297,"Devauchelle et al., 2011",Tributary to Apalachicola 126,,0.101,0.01,0.00045,0.3,0.01,0.00057
+298,"Devauchelle et al., 2011",Tributary to Apalachicola 127,,0.101,0.01,0.00045,0.3,0.01,0.00054
+299,"Devauchelle et al., 2011",Tributary to Apalachicola 128,,0.3367,0.01,0.00045,0.3,0.03,0.00309
+300,"Devauchelle et al., 2011",Tributary to Apalachicola 129,,0.3367,0.01,0.00045,0.3,0.03,0.00292
+301,"Devauchelle et al., 2011",Tributary to Apalachicola 13,,0.6061,0.01,0.00045,1,0.05,0.015
+302,"Devauchelle et al., 2011",Tributary to Apalachicola 130,,0.3367,0.01,0.00045,0.3,0.03,0.00273
+303,"Devauchelle et al., 2011",Tributary to Apalachicola 131,,0.3367,0.01,0.00045,0.3,0.03,0.00252
+304,"Devauchelle et al., 2011",Tributary to Apalachicola 132,,0.3367,0.01,0.00045,0.3,0.03,0.00285
+305,"Devauchelle et al., 2011",Tributary to Apalachicola 133,,0.3367,0.01,0.00045,0.3,0.03,0.00279
+306,"Devauchelle et al., 2011",Tributary to Apalachicola 134,,0.404,0.01,0.00045,0.45,0.03,0.00297
+307,"Devauchelle et al., 2011",Tributary to Apalachicola 135,,0.404,0.01,0.00045,0.45,0.03,0.00288
+308,"Devauchelle et al., 2011",Tributary to Apalachicola 136,,0.404,0.01,0.00045,0.45,0.03,0.00325
+309,"Devauchelle et al., 2011",Tributary to Apalachicola 137,,0.404,0.01,0.00045,0.45,0.03,0.00331
+310,"Devauchelle et al., 2011",Tributary to Apalachicola 138,,0.404,0.01,0.00045,0.45,0.03,0.00274
+311,"Devauchelle et al., 2011",Tributary to Apalachicola 139,,0.404,0.01,0.00045,0.45,0.03,0.00344
+312,"Devauchelle et al., 2011",Tributary to Apalachicola 14,,0.6061,0.01,0.00045,1,0.05,0.0171
+313,"Devauchelle et al., 2011",Tributary to Apalachicola 140,,0.404,0.01,0.00045,0.45,0.03,0.00308
+314,"Devauchelle et al., 2011",Tributary to Apalachicola 141,,0.1347,0.01,0.00045,0.17,0.01,0.00083
+315,"Devauchelle et al., 2011",Tributary to Apalachicola 142,,0.1347,0.01,0.00045,0.17,0.01,0.00061
+316,"Devauchelle et al., 2011",Tributary to Apalachicola 143,,0.1347,0.01,0.00045,0.17,0.01,0.00077
+317,"Devauchelle et al., 2011",Tributary to Apalachicola 144,,0.1347,0.01,0.00045,0.17,0.01,0.00067
+318,"Devauchelle et al., 2011",Tributary to Apalachicola 145,,0.1347,0.01,0.00045,0.17,0.01,0.00065
+319,"Devauchelle et al., 2011",Tributary to Apalachicola 146,,0.1347,0.01,0.00045,0.17,0.01,0.00072
+320,"Devauchelle et al., 2011",Tributary to Apalachicola 147,,0.1347,0.01,0.00045,0.17,0.01,0.00067
+321,"Devauchelle et al., 2011",Tributary to Apalachicola 148,,0.202,0.01,0.00045,0.4,0.02,0.00152
+322,"Devauchelle et al., 2011",Tributary to Apalachicola 149,,0.202,0.01,0.00045,0.4,0.02,0.00147
+323,"Devauchelle et al., 2011",Tributary to Apalachicola 15,,0.6061,0.01,0.00045,1,0.05,0.0129
+324,"Devauchelle et al., 2011",Tributary to Apalachicola 150,,0.202,0.01,0.00045,0.4,0.02,0.00126
+325,"Devauchelle et al., 2011",Tributary to Apalachicola 151,,0.202,0.01,0.00045,0.4,0.02,0.00123
+326,"Devauchelle et al., 2011",Tributary to Apalachicola 152,,0.202,0.01,0.00045,0.4,0.02,0.00143
+327,"Devauchelle et al., 2011",Tributary to Apalachicola 153,,0.202,0.01,0.00045,0.4,0.02,0.00132
+328,"Devauchelle et al., 2011",Tributary to Apalachicola 154,,0.202,0.01,0.00045,0.2,0.02,0.00104
+329,"Devauchelle et al., 2011",Tributary to Apalachicola 155,,0.202,0.01,0.00045,0.2,0.02,0.00104
+330,"Devauchelle et al., 2011",Tributary to Apalachicola 156,,0.202,0.01,0.00045,0.2,0.02,0.00114
+331,"Devauchelle et al., 2011",Tributary to Apalachicola 157,,0.202,0.01,0.00045,0.2,0.02,0.0011
+332,"Devauchelle et al., 2011",Tributary to Apalachicola 158,,0.1347,0.01,0.00045,0.13,0.01,0.00064
+333,"Devauchelle et al., 2011",Tributary to Apalachicola 159,,0.1347,0.01,0.00045,0.13,0.01,0.00077
+334,"Devauchelle et al., 2011",Tributary to Apalachicola 16,,0.6061,0.01,0.00045,1,0.05,0.015
+335,"Devauchelle et al., 2011",Tributary to Apalachicola 160,,0.1347,0.01,0.00045,0.13,0.01,0.00067
+336,"Devauchelle et al., 2011",Tributary to Apalachicola 161,,0.1347,0.01,0.00045,0.13,0.01,0.0007
+337,"Devauchelle et al., 2011",Tributary to Apalachicola 162,,0.1347,0.01,0.00045,0.13,0.01,0.00064
+338,"Devauchelle et al., 2011",Tributary to Apalachicola 163,,0.1347,0.01,0.00045,0.13,0.01,0.00067
+339,"Devauchelle et al., 2011",Tributary to Apalachicola 164,,0.1347,0.01,0.00045,0.2,0.01,0.00075
+340,"Devauchelle et al., 2011",Tributary to Apalachicola 165,,0.1347,0.01,0.00045,0.2,0.01,0.00075
+341,"Devauchelle et al., 2011",Tributary to Apalachicola 166,,0.1347,0.01,0.00045,0.2,0.01,0.00073
+342,"Devauchelle et al., 2011",Tributary to Apalachicola 167,,0.1347,0.01,0.00045,0.2,0.01,0.00073
+343,"Devauchelle et al., 2011",Tributary to Apalachicola 168,,0.1347,0.01,0.00045,0.2,0.01,0.00073
+344,"Devauchelle et al., 2011",Tributary to Apalachicola 169,,0.1347,0.01,0.00045,0.2,0.01,0.00075
+345,"Devauchelle et al., 2011",Tributary to Apalachicola 17,,0.6061,0.01,0.00045,1,0.05,0.015
+346,"Devauchelle et al., 2011",Tributary to Apalachicola 170,,0.202,0.01,0.00045,0.25,0.02,0.00091
+347,"Devauchelle et al., 2011",Tributary to Apalachicola 171,,0.202,0.01,0.00045,0.25,0.02,0.00097
+348,"Devauchelle et al., 2011",Tributary to Apalachicola 172,,0.202,0.01,0.00045,0.25,0.02,0.00091
+349,"Devauchelle et al., 2011",Tributary to Apalachicola 173,,0.202,0.01,0.00045,0.25,0.02,0.00097
+350,"Devauchelle et al., 2011",Tributary to Apalachicola 174,,0.202,0.01,0.00045,0.25,0.02,0.00105
+351,"Devauchelle et al., 2011",Tributary to Apalachicola 175,,0.0673,0.01,0.00045,0.1,0.01,0.00021
+352,"Devauchelle et al., 2011",Tributary to Apalachicola 176,,0.0673,0.01,0.00045,0.1,0.01,0.0002
+353,"Devauchelle et al., 2011",Tributary to Apalachicola 177,,0.0673,0.01,0.00045,0.1,0.01,0.00021
+354,"Devauchelle et al., 2011",Tributary to Apalachicola 178,,0.0673,0.01,0.00045,0.1,0.01,0.0002
+355,"Devauchelle et al., 2011",Tributary to Apalachicola 179,,0.8552,0.01,0.00045,1.12,0.06,0.0249
+356,"Devauchelle et al., 2011",Tributary to Apalachicola 18,,0.202,0.01,0.00045,0.35,0.02,0.00189
+357,"Devauchelle et al., 2011",Tributary to Apalachicola 180,,0.8552,0.01,0.00045,1.12,0.06,0.0285
+358,"Devauchelle et al., 2011",Tributary to Apalachicola 181,,0.8552,0.01,0.00045,1.12,0.06,0.0269
+359,"Devauchelle et al., 2011",Tributary to Apalachicola 182,,0.8552,0.01,0.00045,1.83,0.06,0.0328
+360,"Devauchelle et al., 2011",Tributary to Apalachicola 183,,0.8552,0.01,0.00045,1.83,0.06,0.0306
+361,"Devauchelle et al., 2011",Tributary to Apalachicola 184,,0.8552,0.01,0.00045,1.83,0.06,0.0306
+362,"Devauchelle et al., 2011",Tributary to Apalachicola 185,,0.6842,0.01,0.00045,1.02,0.05,0.0112
+363,"Devauchelle et al., 2011",Tributary to Apalachicola 186,,0.6842,0.01,0.00045,1.02,0.05,0.0088
+364,"Devauchelle et al., 2011",Tributary to Apalachicola 187,,0.6842,0.01,0.00045,1.02,0.05,0.0103
+365,"Devauchelle et al., 2011",Tributary to Apalachicola 188,,0.6842,0.01,0.00045,1.02,0.05,0.0111
+366,"Devauchelle et al., 2011",Tributary to Apalachicola 189,,0.3421,0.01,0.00045,0.43,0.03,0.00324
+367,"Devauchelle et al., 2011",Tributary to Apalachicola 19,,0.202,0.01,0.00045,0.35,0.02,0.00189
+368,"Devauchelle et al., 2011",Tributary to Apalachicola 190,,0.3421,0.01,0.00045,0.43,0.03,0.00341
+369,"Devauchelle et al., 2011",Tributary to Apalachicola 191,,0.3421,0.01,0.00045,0.43,0.03,0.00284
+370,"Devauchelle et al., 2011",Tributary to Apalachicola 192,,1.3684,0.01,0.00045,1.04,0.1,0.0311
+371,"Devauchelle et al., 2011",Tributary to Apalachicola 193,,1.3684,0.01,0.00045,1.04,0.1,0.0343
+372,"Devauchelle et al., 2011",Tributary to Apalachicola 194,,1.3684,0.01,0.00045,1.04,0.1,0.0286
+373,"Devauchelle et al., 2011",Tributary to Apalachicola 195,,1.1973,0.01,0.00045,1.49,0.09,0.0521
+374,"Devauchelle et al., 2011",Tributary to Apalachicola 196,,1.1973,0.01,0.00045,1.49,0.09,0.0491
+375,"Devauchelle et al., 2011",Tributary to Apalachicola 197,,1.1973,0.01,0.00045,1.49,0.09,0.0391
+376,"Devauchelle et al., 2011",Tributary to Apalachicola 198,,1.1973,0.01,0.00045,1.49,0.09,0.0429
+377,"Devauchelle et al., 2011",Tributary to Apalachicola 199,,2.2236,0.01,0.00045,2.39,0.17,0.19
+378,"Devauchelle et al., 2011",Tributary to Apalachicola 2,,0.5163,0.01,0.00045,1.2,0.04,0.0117
+379,"Devauchelle et al., 2011",Tributary to Apalachicola 20,,0.202,0.01,0.00045,0.35,0.02,0.00216
+380,"Devauchelle et al., 2011",Tributary to Apalachicola 200,,2.2236,0.01,0.00045,2.39,0.17,0.18
+381,"Devauchelle et al., 2011",Tributary to Apalachicola 201,,2.2236,0.01,0.00045,2.39,0.17,0.18
+382,"Devauchelle et al., 2011",Tributary to Apalachicola 202,,2.5657,0.01,0.00045,1.68,0.19,0.13
+383,"Devauchelle et al., 2011",Tributary to Apalachicola 203,,2.5657,0.01,0.00045,1.68,0.19,0.14
+384,"Devauchelle et al., 2011",Tributary to Apalachicola 204,,2.0525,0.01,0.00045,2.29,0.15,0.16
+385,"Devauchelle et al., 2011",Tributary to Apalachicola 205,,2.0525,0.01,0.00045,2.29,0.15,0.16
+386,"Devauchelle et al., 2011",Tributary to Apalachicola 206,,2.0525,0.01,0.00045,2.29,0.15,0.15
+387,"Devauchelle et al., 2011",Tributary to Apalachicola 207,,1.3684,0.01,0.00045,2.54,0.1,0.0797
+388,"Devauchelle et al., 2011",Tributary to Apalachicola 208,,1.3684,0.01,0.00045,2.54,0.1,0.11
+389,"Devauchelle et al., 2011",Tributary to Apalachicola 209,,1.3684,0.01,0.00045,2.54,0.1,0.0948
+390,"Devauchelle et al., 2011",Tributary to Apalachicola 21,,0.202,0.01,0.00045,0.35,0.02,0.00204
+391,"Devauchelle et al., 2011",Tributary to Apalachicola 210,,1.3684,0.01,0.00045,2.54,0.1,0.11
+392,"Devauchelle et al., 2011",Tributary to Apalachicola 211,,2.2236,0.01,0.00045,2.54,0.17,0.13
+393,"Devauchelle et al., 2011",Tributary to Apalachicola 212,,2.2236,0.01,0.00045,2.54,0.17,0.13
+394,"Devauchelle et al., 2011",Tributary to Apalachicola 213,,2.2236,0.01,0.00045,2.54,0.17,0.11
+395,"Devauchelle et al., 2011",Tributary to Apalachicola 214,,2.0525,0.01,0.00045,2.54,0.15,0.13
+396,"Devauchelle et al., 2011",Tributary to Apalachicola 215,,2.0525,0.01,0.00045,2.54,0.15,0.13
+397,"Devauchelle et al., 2011",Tributary to Apalachicola 216,,2.0525,0.01,0.00045,2.54,0.15,0.17
+398,"Devauchelle et al., 2011",Tributary to Apalachicola 217,,2.0525,0.01,0.00045,2.54,0.15,0.14
+399,"Devauchelle et al., 2011",Tributary to Apalachicola 218,,2.0525,0.01,0.00045,2.16,0.15,0.14
+400,"Devauchelle et al., 2011",Tributary to Apalachicola 219,,2.0525,0.01,0.00045,2.16,0.15,0.15
+401,"Devauchelle et al., 2011",Tributary to Apalachicola 22,,0.2357,0.01,0.00045,0.35,0.02,0.00206
+402,"Devauchelle et al., 2011",Tributary to Apalachicola 220,,2.0525,0.01,0.00045,2.16,0.15,0.11
+403,"Devauchelle et al., 2011",Tributary to Apalachicola 221,,2.0525,0.01,0.00045,2.16,0.15,0.14
+404,"Devauchelle et al., 2011",Tributary to Apalachicola 222,,1.0263,0.01,0.00045,0.89,0.08,0.0246
+405,"Devauchelle et al., 2011",Tributary to Apalachicola 223,,1.0263,0.01,0.00045,0.89,0.08,0.0241
+406,"Devauchelle et al., 2011",Tributary to Apalachicola 224,,1.0263,0.01,0.00045,0.89,0.08,0.0241
+407,"Devauchelle et al., 2011",Tributary to Apalachicola 225,,1.7104,0.01,0.00045,1.4,0.13,0.0644
+408,"Devauchelle et al., 2011",Tributary to Apalachicola 226,,1.7104,0.01,0.00045,1.4,0.13,0.0777
+409,"Devauchelle et al., 2011",Tributary to Apalachicola 227,,1.7104,0.01,0.00045,1.4,0.13,0.0727
+410,"Devauchelle et al., 2011",Tributary to Apalachicola 228,,1.8815,0.01,0.00045,2.41,0.14,0.13
+411,"Devauchelle et al., 2011",Tributary to Apalachicola 229,,1.8815,0.01,0.00045,2.41,0.14,0.13
+412,"Devauchelle et al., 2011",Tributary to Apalachicola 23,,0.2357,0.01,0.00045,0.35,0.02,0.0021
+413,"Devauchelle et al., 2011",Tributary to Apalachicola 230,,1.8815,0.01,0.00045,2.41,0.14,0.1
+414,"Devauchelle et al., 2011",Tributary to Apalachicola 231,,1.8815,0.01,0.00045,2.41,0.14,0.11
+415,"Devauchelle et al., 2011",Tributary to Apalachicola 232,,0.8552,0.01,0.00045,0.81,0.06,0.0179
+416,"Devauchelle et al., 2011",Tributary to Apalachicola 233,,0.8552,0.01,0.00045,0.81,0.06,0.0191
+417,"Devauchelle et al., 2011",Tributary to Apalachicola 234,,0.8552,0.01,0.00045,0.81,0.06,0.0181
+418,"Devauchelle et al., 2011",Tributary to Apalachicola 235,,1.3684,0.01,0.00045,1.52,0.1,0.0508
+419,"Devauchelle et al., 2011",Tributary to Apalachicola 236,,1.3684,0.01,0.00045,1.52,0.1,0.0432
+420,"Devauchelle et al., 2011",Tributary to Apalachicola 237,,1.3684,0.01,0.00045,1.52,0.1,0.0488
+421,"Devauchelle et al., 2011",Tributary to Apalachicola 238,,1.3684,0.01,0.00045,1.52,0.1,0.0445
+422,"Devauchelle et al., 2011",Tributary to Apalachicola 239,,0.4447,0.01,0.00045,0.69,0.03,0.0097
+423,"Devauchelle et al., 2011",Tributary to Apalachicola 24,,0.2357,0.01,0.00045,0.35,0.02,0.0021
+424,"Devauchelle et al., 2011",Tributary to Apalachicola 240,,0.4447,0.01,0.00045,0.69,0.03,0.0119
+425,"Devauchelle et al., 2011",Tributary to Apalachicola 241,,0.4447,0.01,0.00045,0.69,0.03,0.0104
+426,"Devauchelle et al., 2011",Tributary to Apalachicola 242,,0.4447,0.01,0.00045,0.69,0.03,0.0094
+427,"Devauchelle et al., 2011",Tributary to Apalachicola 243,,0.4447,0.01,0.00045,0.69,0.03,0.01
+428,"Devauchelle et al., 2011",Tributary to Apalachicola 244,,1.0263,0.01,0.00045,1.78,0.08,0.0824
+429,"Devauchelle et al., 2011",Tributary to Apalachicola 245,,1.0263,0.01,0.00045,1.78,0.08,0.0813
+430,"Devauchelle et al., 2011",Tributary to Apalachicola 246,,1.0263,0.01,0.00045,1.78,0.08,0.0813
+431,"Devauchelle et al., 2011",Tributary to Apalachicola 247,,0.8552,0.01,0.00045,0.89,0.06,0.0267
+432,"Devauchelle et al., 2011",Tributary to Apalachicola 248,,0.8552,0.01,0.00045,0.89,0.06,0.0225
+433,"Devauchelle et al., 2011",Tributary to Apalachicola 249,,0.8552,0.01,0.00045,0.89,0.06,0.0255
+434,"Devauchelle et al., 2011",Tributary to Apalachicola 25,,0.2357,0.01,0.00045,0.35,0.02,0.00174
+435,"Devauchelle et al., 2011",Tributary to Apalachicola 250,,1.1973,0.01,0.00045,0.84,0.09,0.028
+436,"Devauchelle et al., 2011",Tributary to Apalachicola 251,,1.1973,0.01,0.00045,0.84,0.09,0.0332
+437,"Devauchelle et al., 2011",Tributary to Apalachicola 252,,1.1973,0.01,0.00045,0.84,0.09,0.0326
+438,"Devauchelle et al., 2011",Tributary to Apalachicola 253,,1.1973,0.01,0.00045,0.84,0.09,0.03
+439,"Devauchelle et al., 2011",Tributary to Apalachicola 254,,0.5131,0.01,0.00045,0.51,0.04,0.006
+440,"Devauchelle et al., 2011",Tributary to Apalachicola 255,,0.5131,0.01,0.00045,0.51,0.04,0.0077
+441,"Devauchelle et al., 2011",Tributary to Apalachicola 256,,0.5131,0.01,0.00045,0.51,0.04,0.0072
+442,"Devauchelle et al., 2011",Tributary to Apalachicola 257,,1.1973,0.01,0.00045,1.19,0.09,0.0481
+443,"Devauchelle et al., 2011",Tributary to Apalachicola 258,,1.1973,0.01,0.00045,1.19,0.09,0.0599
+444,"Devauchelle et al., 2011",Tributary to Apalachicola 259,,1.1973,0.01,0.00045,1.19,0.09,0.0509
+445,"Devauchelle et al., 2011",Tributary to Apalachicola 26,,0.2357,0.01,0.00045,0.35,0.02,0.00195
+446,"Devauchelle et al., 2011",Tributary to Apalachicola 260,,1.1973,0.01,0.00045,1.19,0.09,0.0509
+447,"Devauchelle et al., 2011",Tributary to Apalachicola 261,,1.3684,0.01,0.00045,1.42,0.1,0.0464
+448,"Devauchelle et al., 2011",Tributary to Apalachicola 262,,1.3684,0.01,0.00045,1.42,0.1,0.044
+449,"Devauchelle et al., 2011",Tributary to Apalachicola 263,,1.3684,0.01,0.00045,1.42,0.1,0.0436
+450,"Devauchelle et al., 2011",Tributary to Apalachicola 264,,1.0263,0.01,0.00045,1.65,0.08,0.0528
+451,"Devauchelle et al., 2011",Tributary to Apalachicola 265,,1.0263,0.01,0.00045,1.65,0.08,0.0528
+452,"Devauchelle et al., 2011",Tributary to Apalachicola 266,,1.0263,0.01,0.00045,1.65,0.08,0.0498
+453,"Devauchelle et al., 2011",Tributary to Apalachicola 267,,1.3684,0.01,0.00045,1.32,0.1,0.0501
+454,"Devauchelle et al., 2011",Tributary to Apalachicola 268,,1.3684,0.01,0.00045,1.32,0.1,0.0513
+455,"Devauchelle et al., 2011",Tributary to Apalachicola 269,,1.3684,0.01,0.00045,1.32,0.1,0.0561
+456,"Devauchelle et al., 2011",Tributary to Apalachicola 27,,0.2357,0.01,0.00045,0.35,0.02,0.00192
+457,"Devauchelle et al., 2011",Tributary to Apalachicola 270,,0.6842,0.01,0.00045,0.56,0.05,0.008
+458,"Devauchelle et al., 2011",Tributary to Apalachicola 271,,0.6842,0.01,0.00045,0.56,0.05,0.0081
+459,"Devauchelle et al., 2011",Tributary to Apalachicola 272,,0.6842,0.01,0.00045,0.56,0.05,0.0083
+460,"Devauchelle et al., 2011",Tributary to Apalachicola 273,,0.2737,0.01,0.00045,0.56,0.02,0.00275
+461,"Devauchelle et al., 2011",Tributary to Apalachicola 274,,0.2737,0.01,0.00045,0.56,0.02,0.00293
+462,"Devauchelle et al., 2011",Tributary to Apalachicola 275,,0.2737,0.01,0.00045,0.56,0.02,0.00315
+463,"Devauchelle et al., 2011",Tributary to Apalachicola 276,,0.2737,0.01,0.00045,0.56,0.02,0.00219
+464,"Devauchelle et al., 2011",Tributary to Apalachicola 277,,0.2737,0.01,0.00045,0.3,0.02,0.00228
+465,"Devauchelle et al., 2011",Tributary to Apalachicola 278,,0.2737,0.01,0.00045,0.3,0.02,0.00206
+466,"Devauchelle et al., 2011",Tributary to Apalachicola 279,,0.2737,0.01,0.00045,0.3,0.02,0.00194
+467,"Devauchelle et al., 2011",Tributary to Apalachicola 28,,0.202,0.01,0.00045,0.35,0.02,0.00168
+468,"Devauchelle et al., 2011",Tributary to Apalachicola 280,,0.2737,0.01,0.00045,0.3,0.02,0.00228
+469,"Devauchelle et al., 2011",Tributary to Apalachicola 281,,0.5131,0.01,0.00045,0.46,0.04,0.006
+470,"Devauchelle et al., 2011",Tributary to Apalachicola 282,,0.5131,0.01,0.00045,0.46,0.04,0.0061
+471,"Devauchelle et al., 2011",Tributary to Apalachicola 283,,0.5131,0.01,0.00045,0.46,0.04,0.0073
+472,"Devauchelle et al., 2011",Tributary to Apalachicola 284,,0.5131,0.01,0.00045,0.46,0.04,0.007
+473,"Devauchelle et al., 2011",Tributary to Apalachicola 285,,0.5131,0.01,0.00045,0.46,0.04,0.0075
+474,"Devauchelle et al., 2011",Tributary to Apalachicola 286,,0.5131,0.01,0.00045,0.46,0.04,0.00442
+475,"Devauchelle et al., 2011",Tributary to Apalachicola 287,,0.5131,0.01,0.00045,0.46,0.04,0.00367
+476,"Devauchelle et al., 2011",Tributary to Apalachicola 288,,0.5131,0.01,0.00045,0.46,0.04,0.00459
+477,"Devauchelle et al., 2011",Tributary to Apalachicola 289,,0.5131,0.01,0.00045,0.46,0.04,0.00465
+478,"Devauchelle et al., 2011",Tributary to Apalachicola 29,,0.202,0.01,0.00045,0.35,0.02,0.0014
+479,"Devauchelle et al., 2011",Tributary to Apalachicola 290,,0.3421,0.01,0.00045,0.41,0.03,0.005
+480,"Devauchelle et al., 2011",Tributary to Apalachicola 291,,0.3421,0.01,0.00045,0.41,0.03,0.005
+481,"Devauchelle et al., 2011",Tributary to Apalachicola 292,,0.3421,0.01,0.00045,0.41,0.03,0.00492
+482,"Devauchelle et al., 2011",Tributary to Apalachicola 293,,0.8552,0.01,0.00045,0.64,0.06,0.0128
+483,"Devauchelle et al., 2011",Tributary to Apalachicola 294,,0.8552,0.01,0.00045,0.64,0.06,0.0112
+484,"Devauchelle et al., 2011",Tributary to Apalachicola 295,,0.8552,0.01,0.00045,0.64,0.06,0.0128
+485,"Devauchelle et al., 2011",Tributary to Apalachicola 296,,0.8552,0.01,0.00045,0.64,0.06,0.0125
+486,"Devauchelle et al., 2011",Tributary to Apalachicola 297,,0.8552,0.01,0.00045,0.64,0.06,0.0117
+487,"Devauchelle et al., 2011",Tributary to Apalachicola 298,,1.0263,0.01,0.00045,1.27,0.08,0.0283
+488,"Devauchelle et al., 2011",Tributary to Apalachicola 299,,1.0263,0.01,0.00045,1.27,0.08,0.03
+489,"Devauchelle et al., 2011",Tributary to Apalachicola 3,,0.5163,0.01,0.00045,1.2,0.04,0.0107
+490,"Devauchelle et al., 2011",Tributary to Apalachicola 30,,0.202,0.01,0.00045,0.35,0.02,0.00168
+491,"Devauchelle et al., 2011",Tributary to Apalachicola 300,,1.0263,0.01,0.00045,1.27,0.08,0.0255
+492,"Devauchelle et al., 2011",Tributary to Apalachicola 301,,1.0263,0.01,0.00045,1.27,0.08,0.0309
+493,"Devauchelle et al., 2011",Tributary to Apalachicola 302,,2.7367,0.01,0.00045,2.92,0.2,0.29
+494,"Devauchelle et al., 2011",Tributary to Apalachicola 303,,2.7367,0.01,0.00045,2.92,0.2,0.29
+495,"Devauchelle et al., 2011",Tributary to Apalachicola 304,,2.7367,0.01,0.00045,2.92,0.2,0.27
+496,"Devauchelle et al., 2011",Tributary to Apalachicola 305,,2.7367,0.01,0.00045,2.92,0.2,0.3
+497,"Devauchelle et al., 2011",Tributary to Apalachicola 306,,0.6842,0.01,0.00045,0.94,0.05,0.0219
+498,"Devauchelle et al., 2011",Tributary to Apalachicola 307,,0.6842,0.01,0.00045,0.94,0.05,0.0208
+499,"Devauchelle et al., 2011",Tributary to Apalachicola 308,,0.6842,0.01,0.00045,0.94,0.05,0.0203
+500,"Devauchelle et al., 2011",Tributary to Apalachicola 309,,0.6842,0.01,0.00045,0.94,0.05,0.0174
+501,"Devauchelle et al., 2011",Tributary to Apalachicola 31,,0.202,0.01,0.00045,0.35,0.02,0.00168
+502,"Devauchelle et al., 2011",Tributary to Apalachicola 310,,0.6842,0.01,0.00045,0.94,0.05,0.0203
+503,"Devauchelle et al., 2011",Tributary to Apalachicola 311,,0.3421,0.01,0.00045,0.36,0.03,0.00287
+504,"Devauchelle et al., 2011",Tributary to Apalachicola 312,,0.3421,0.01,0.00045,0.36,0.03,0.00328
+505,"Devauchelle et al., 2011",Tributary to Apalachicola 313,,0.3421,0.01,0.00045,0.36,0.03,0.0034
+506,"Devauchelle et al., 2011",Tributary to Apalachicola 314,,0.3421,0.01,0.00045,0.36,0.03,0.00291
+507,"Devauchelle et al., 2011",Tributary to Apalachicola 315,,0.5131,0.01,0.00045,0.64,0.04,0.0068
+508,"Devauchelle et al., 2011",Tributary to Apalachicola 316,,0.5131,0.01,0.00045,0.64,0.04,0.0079
+509,"Devauchelle et al., 2011",Tributary to Apalachicola 317,,0.5131,0.01,0.00045,0.64,0.04,0.0062
+510,"Devauchelle et al., 2011",Tributary to Apalachicola 318,,0.5131,0.01,0.00045,0.64,0.04,0.0072
+511,"Devauchelle et al., 2011",Tributary to Apalachicola 319,,0.5131,0.01,0.00045,0.64,0.04,0.0067
+512,"Devauchelle et al., 2011",Tributary to Apalachicola 32,,0.4714,0.01,0.00045,0.55,0.04,0.0044
+513,"Devauchelle et al., 2011",Tributary to Apalachicola 320,,0.171,0.01,0.00045,0.18,0.01,0.00118
+514,"Devauchelle et al., 2011",Tributary to Apalachicola 321,,0.171,0.01,0.00045,0.18,0.01,0.00235
+515,"Devauchelle et al., 2011",Tributary to Apalachicola 322,,0.171,0.01,0.00045,0.18,0.01,0.00131
+516,"Devauchelle et al., 2011",Tributary to Apalachicola 323,,0.171,0.01,0.00045,0.18,0.01,0.00112
+517,"Devauchelle et al., 2011",Tributary to Apalachicola 324,,0.171,0.01,0.00045,0.18,0.01,0.00107
+518,"Devauchelle et al., 2011",Tributary to Apalachicola 325,,0.5131,0.01,0.00045,0.41,0.04,0.0072
+519,"Devauchelle et al., 2011",Tributary to Apalachicola 326,,0.5131,0.01,0.00045,0.41,0.04,0.0074
+520,"Devauchelle et al., 2011",Tributary to Apalachicola 327,,0.5131,0.01,0.00045,0.41,0.04,0.0074
+521,"Devauchelle et al., 2011",Tributary to Apalachicola 328,,0.3421,0.01,0.00045,0.64,0.03,0.005
+522,"Devauchelle et al., 2011",Tributary to Apalachicola 329,,0.3421,0.01,0.00045,0.64,0.03,0.00492
+523,"Devauchelle et al., 2011",Tributary to Apalachicola 33,,0.4714,0.01,0.00045,0.55,0.04,0.00489
+524,"Devauchelle et al., 2011",Tributary to Apalachicola 330,,0.3421,0.01,0.00045,0.64,0.03,0.00434
+525,"Devauchelle et al., 2011",Tributary to Apalachicola 331,,0.3421,0.01,0.00045,0.64,0.03,0.00492
+526,"Devauchelle et al., 2011",Tributary to Apalachicola 332,,0.6158,0.01,0.00045,0.79,0.05,0.0146
+527,"Devauchelle et al., 2011",Tributary to Apalachicola 333,,0.6158,0.01,0.00045,0.79,0.05,0.0168
+528,"Devauchelle et al., 2011",Tributary to Apalachicola 334,,0.6158,0.01,0.00045,0.79,0.05,0.0155
+529,"Devauchelle et al., 2011",Tributary to Apalachicola 335,,0.6158,0.01,0.00045,0.56,0.05,0.0093
+530,"Devauchelle et al., 2011",Tributary to Apalachicola 336,,0.6158,0.01,0.00045,0.56,0.05,0.0079
+531,"Devauchelle et al., 2011",Tributary to Apalachicola 337,,0.6158,0.01,0.00045,0.56,0.05,0.0105
+532,"Devauchelle et al., 2011",Tributary to Apalachicola 338,,0.6158,0.01,0.00045,0.56,0.05,0.0102
+533,"Devauchelle et al., 2011",Tributary to Apalachicola 339,,0.6158,0.01,0.00045,0.56,0.05,0.011
+534,"Devauchelle et al., 2011",Tributary to Apalachicola 34,,0.4714,0.01,0.00045,0.55,0.04,0.0044
+535,"Devauchelle et al., 2011",Tributary to Apalachicola 340,,0.6158,0.01,0.00045,0.56,0.05,0.0113
+536,"Devauchelle et al., 2011",Tributary to Apalachicola 341,,0.6158,0.01,0.00045,0.51,0.05,0.0068
+537,"Devauchelle et al., 2011",Tributary to Apalachicola 342,,0.6158,0.01,0.00045,0.51,0.05,0.0069
+538,"Devauchelle et al., 2011",Tributary to Apalachicola 343,,0.6158,0.01,0.00045,0.51,0.05,0.0069
+539,"Devauchelle et al., 2011",Tributary to Apalachicola 344,,0.6842,0.01,0.00045,0.64,0.05,0.01
+540,"Devauchelle et al., 2011",Tributary to Apalachicola 345,,0.6842,0.01,0.00045,0.64,0.05,0.0128
+541,"Devauchelle et al., 2011",Tributary to Apalachicola 346,,0.6842,0.01,0.00045,0.64,0.05,0.0128
+542,"Devauchelle et al., 2011",Tributary to Apalachicola 347,,0.6842,0.01,0.00045,0.64,0.05,0.012
+543,"Devauchelle et al., 2011",Tributary to Apalachicola 348,,0.4276,0.01,0.00045,0.38,0.03,0.00315
+544,"Devauchelle et al., 2011",Tributary to Apalachicola 349,,0.4276,0.01,0.00045,0.38,0.03,0.00347
+545,"Devauchelle et al., 2011",Tributary to Apalachicola 35,,0.4714,0.01,0.00045,0.55,0.04,0.0044
+546,"Devauchelle et al., 2011",Tributary to Apalachicola 350,,0.4276,0.01,0.00045,0.38,0.03,0.00358
+547,"Devauchelle et al., 2011",Tributary to Apalachicola 351,,0.4276,0.01,0.00045,0.38,0.03,0.00333
+548,"Devauchelle et al., 2011",Tributary to Apalachicola 352,,0.4276,0.01,0.00045,0.48,0.03,0.0057
+549,"Devauchelle et al., 2011",Tributary to Apalachicola 353,,0.4276,0.01,0.00045,0.48,0.03,0.0052
+550,"Devauchelle et al., 2011",Tributary to Apalachicola 354,,0.4276,0.01,0.00045,0.48,0.03,0.00467
+551,"Devauchelle et al., 2011",Tributary to Apalachicola 355,,0.4276,0.01,0.00045,0.48,0.03,0.0056
+552,"Devauchelle et al., 2011",Tributary to Apalachicola 356,,0.2566,0.01,0.00045,0.22,0.02,0.00084
+553,"Devauchelle et al., 2011",Tributary to Apalachicola 357,,0.2566,0.01,0.00045,0.22,0.02,0.00108
+554,"Devauchelle et al., 2011",Tributary to Apalachicola 358,,0.2566,0.01,0.00045,0.22,0.02,0.00104
+555,"Devauchelle et al., 2011",Tributary to Apalachicola 359,,0.2566,0.01,0.00045,0.22,0.02,0.00091
+556,"Devauchelle et al., 2011",Tributary to Apalachicola 36,,0.4714,0.01,0.00045,0.55,0.04,0.0051
+557,"Devauchelle et al., 2011",Tributary to Apalachicola 360,,0.2566,0.01,0.00045,0.22,0.02,0.00117
+558,"Devauchelle et al., 2011",Tributary to Apalachicola 361,,0.1197,0.01,0.00045,0.2,0.01,0.00068
+559,"Devauchelle et al., 2011",Tributary to Apalachicola 362,,0.1197,0.01,0.00045,0.2,0.01,0.00065
+560,"Devauchelle et al., 2011",Tributary to Apalachicola 363,,0.1197,0.01,0.00045,0.2,0.01,0.00071
+561,"Devauchelle et al., 2011",Tributary to Apalachicola 364,,0.1197,0.01,0.00045,0.2,0.01,0.00071
+562,"Devauchelle et al., 2011",Tributary to Apalachicola 365,,0.171,0.01,0.00045,0.19,0.01,0.00026
+563,"Devauchelle et al., 2011",Tributary to Apalachicola 366,,0.171,0.01,0.00045,0.19,0.01,0.00026
+564,"Devauchelle et al., 2011",Tributary to Apalachicola 367,,0.171,0.01,0.00045,0.19,0.01,0.00027
+565,"Devauchelle et al., 2011",Tributary to Apalachicola 368,,0.5987,0.01,0.00045,0.86,0.04,0.0103
+566,"Devauchelle et al., 2011",Tributary to Apalachicola 369,,0.5987,0.01,0.00045,0.86,0.04,0.0105
+567,"Devauchelle et al., 2011",Tributary to Apalachicola 37,,0.2963,0.01,0.00045,0.35,0.02,0.00225
+568,"Devauchelle et al., 2011",Tributary to Apalachicola 370,,0.5987,0.01,0.00045,0.86,0.04,0.0096
+569,"Devauchelle et al., 2011",Tributary to Apalachicola 371,,0.5987,0.01,0.00045,0.86,0.04,0.0132
+570,"Devauchelle et al., 2011",Tributary to Apalachicola 38,,0.2963,0.01,0.00045,0.35,0.02,0.00225
+571,"Devauchelle et al., 2011",Tributary to Apalachicola 39,,0.2963,0.01,0.00045,0.35,0.02,0.00225
+572,"Devauchelle et al., 2011",Tributary to Apalachicola 4,,0.5163,0.01,0.00045,1.2,0.04,0.0117
+573,"Devauchelle et al., 2011",Tributary to Apalachicola 40,,0.2963,0.01,0.00045,0.35,0.02,0.00225
+574,"Devauchelle et al., 2011",Tributary to Apalachicola 41,,0.1347,0.01,0.00045,0.2,0.01,0.00037
+575,"Devauchelle et al., 2011",Tributary to Apalachicola 42,,0.1347,0.01,0.00045,0.2,0.01,0.00031
+576,"Devauchelle et al., 2011",Tributary to Apalachicola 43,,0.1347,0.01,0.00045,0.2,0.01,0.00031
+577,"Devauchelle et al., 2011",Tributary to Apalachicola 44,,0.1347,0.01,0.00045,0.2,0.01,0.00031
+578,"Devauchelle et al., 2011",Tributary to Apalachicola 45,,0.1347,0.01,0.00045,0.2,0.01,0.00031
+579,"Devauchelle et al., 2011",Tributary to Apalachicola 49,,0.1751,0.01,0.00045,0.15,0.01,0.00078
+580,"Devauchelle et al., 2011",Tributary to Apalachicola 5,,0.202,0.01,0.00045,0.17,0.02,0.00026
+581,"Devauchelle et al., 2011",Tributary to Apalachicola 50,,0.1751,0.01,0.00045,0.15,0.01,0.00078
+582,"Devauchelle et al., 2011",Tributary to Apalachicola 51,,0.1751,0.01,0.00045,0.15,0.01,0.00059
+583,"Devauchelle et al., 2011",Tributary to Apalachicola 52,,0.1751,0.01,0.00045,0.15,0.01,0.00059
+584,"Devauchelle et al., 2011",Tributary to Apalachicola 53,,0.1751,0.01,0.00045,0.15,0.01,0.00078
+585,"Devauchelle et al., 2011",Tributary to Apalachicola 54,,0.1347,0.01,0.00045,0.25,0.01,0.00036
+586,"Devauchelle et al., 2011",Tributary to Apalachicola 55,,0.1347,0.01,0.00045,0.25,0.01,0.00041
+587,"Devauchelle et al., 2011",Tributary to Apalachicola 56,,0.1347,0.01,0.00045,0.25,0.01,0.00036
+588,"Devauchelle et al., 2011",Tributary to Apalachicola 57,,0.1347,0.01,0.00045,0.25,0.01,0.00036
+589,"Devauchelle et al., 2011",Tributary to Apalachicola 58,,0.1347,0.01,0.00045,0.25,0.01,0.00036
+590,"Devauchelle et al., 2011",Tributary to Apalachicola 59,,0.1347,0.01,0.00045,0.25,0.01,0.00036
+591,"Devauchelle et al., 2011",Tributary to Apalachicola 6,,0.202,0.01,0.00045,0.17,0.02,0.00022
+592,"Devauchelle et al., 2011",Tributary to Apalachicola 60,,0.1347,0.01,0.00045,0.2,0.01,0.00048
+593,"Devauchelle et al., 2011",Tributary to Apalachicola 61,,0.1347,0.01,0.00045,0.2,0.01,0.00047
+594,"Devauchelle et al., 2011",Tributary to Apalachicola 62,,0.1347,0.01,0.00045,0.2,0.01,0.00051
+595,"Devauchelle et al., 2011",Tributary to Apalachicola 63,,0.1347,0.01,0.00045,0.2,0.01,0.00051
+596,"Devauchelle et al., 2011",Tributary to Apalachicola 64,,0.1347,0.01,0.00045,0.2,0.01,0.00049
+597,"Devauchelle et al., 2011",Tributary to Apalachicola 65,,0.3367,0.01,0.00045,0.35,0.03,0.00088
+598,"Devauchelle et al., 2011",Tributary to Apalachicola 66,,0.3367,0.01,0.00045,0.35,0.03,0.00072
+599,"Devauchelle et al., 2011",Tributary to Apalachicola 67,,0.3367,0.01,0.00045,0.35,0.03,0.00077
+600,"Devauchelle et al., 2011",Tributary to Apalachicola 68,,0.3367,0.01,0.00045,0.35,0.03,0.00091
+601,"Devauchelle et al., 2011",Tributary to Apalachicola 69,,0.3367,0.01,0.00045,0.35,0.03,0.00065
+602,"Devauchelle et al., 2011",Tributary to Apalachicola 7,,0.202,0.01,0.00045,0.17,0.02,0.00031
+603,"Devauchelle et al., 2011",Tributary to Apalachicola 70,,0.3367,0.01,0.00045,0.35,0.03,0.00084
+604,"Devauchelle et al., 2011",Tributary to Apalachicola 71,,0.202,0.01,0.00045,0.45,0.02,0.00291
+605,"Devauchelle et al., 2011",Tributary to Apalachicola 72,,0.202,0.01,0.00045,0.45,0.02,0.00262
+606,"Devauchelle et al., 2011",Tributary to Apalachicola 73,,0.202,0.01,0.00045,0.45,0.02,0.00262
+607,"Devauchelle et al., 2011",Tributary to Apalachicola 74,,0.202,0.01,0.00045,0.45,0.02,0.00209
+608,"Devauchelle et al., 2011",Tributary to Apalachicola 75,,0.202,0.01,0.00045,0.45,0.02,0.00174
+609,"Devauchelle et al., 2011",Tributary to Apalachicola 76,,0.202,0.01,0.00045,0.45,0.02,0.00262
+610,"Devauchelle et al., 2011",Tributary to Apalachicola 77,,0.202,0.01,0.00045,0.45,0.02,0.00174
+611,"Devauchelle et al., 2011",Tributary to Apalachicola 78,,0.202,0.01,0.00045,0.45,0.02,0.00262
+612,"Devauchelle et al., 2011",Tributary to Apalachicola 79,,0.202,0.01,0.00045,0.45,0.02,0.00174
+613,"Devauchelle et al., 2011",Tributary to Apalachicola 8,,0.202,0.01,0.00045,0.17,0.02,0.00031
+614,"Devauchelle et al., 2011",Tributary to Apalachicola 80,,0.4714,0.01,0.00045,0.22,0.04,0.00347
+615,"Devauchelle et al., 2011",Tributary to Apalachicola 81,,0.4714,0.01,0.00045,0.22,0.04,0.00208
+616,"Devauchelle et al., 2011",Tributary to Apalachicola 82,,0.4714,0.01,0.00045,0.22,0.04,0.0026
+617,"Devauchelle et al., 2011",Tributary to Apalachicola 83,,0.4714,0.01,0.00045,0.22,0.04,0.00347
+618,"Devauchelle et al., 2011",Tributary to Apalachicola 84,,0.4714,0.01,0.00045,0.22,0.04,0.0026
+619,"Devauchelle et al., 2011",Tributary to Apalachicola 85,,0.4714,0.01,0.00045,0.22,0.04,0.00347
+620,"Devauchelle et al., 2011",Tributary to Apalachicola 86,,0.4714,0.01,0.00045,0.22,0.04,0.0026
+621,"Devauchelle et al., 2011",Tributary to Apalachicola 87,,0.1347,0.01,0.00045,0.3,0.01,0.00066
+622,"Devauchelle et al., 2011",Tributary to Apalachicola 88,,0.1347,0.01,0.00045,0.3,0.01,0.00075
+623,"Devauchelle et al., 2011",Tributary to Apalachicola 89,,0.1347,0.01,0.00045,0.3,0.01,0.00067
+624,"Devauchelle et al., 2011",Tributary to Apalachicola 9,,0.202,0.01,0.00045,0.17,0.02,0.00036
+625,"Devauchelle et al., 2011",Tributary to Apalachicola 90,,0.1347,0.01,0.00045,0.3,0.01,0.00073
+626,"Devauchelle et al., 2011",Tributary to Apalachicola 91,,0.1347,0.01,0.00045,0.3,0.01,0.0007
+627,"Devauchelle et al., 2011",Tributary to Apalachicola 92,,0.1347,0.01,0.00045,0.3,0.01,0.00067
+628,"Devauchelle et al., 2011",Tributary to Apalachicola 93,,0.4714,0.01,0.00045,0.9,0.04,0.0108
+629,"Devauchelle et al., 2011",Tributary to Apalachicola 94,,0.4714,0.01,0.00045,0.9,0.04,0.0093
+630,"Devauchelle et al., 2011",Tributary to Apalachicola 95,,0.4714,0.01,0.00045,0.9,0.04,0.0108
+631,"Devauchelle et al., 2011",Tributary to Apalachicola 96,,0.4714,0.01,0.00045,0.9,0.04,0.0108
+632,"Devauchelle et al., 2011",Tributary to Apalachicola 97,,0.4714,0.01,0.00045,0.9,0.04,0.013
+633,"Devauchelle et al., 2011",Tributary to Apalachicola 98,,0.4714,0.01,0.00045,0.9,0.04,0.0108
+634,"Devauchelle et al., 2011",Tributary to Apalachicola 99,,0.4714,0.01,0.00045,0.9,0.04,0.0108
+635,"Doll et al., 2003","VAN SWAMP NEAR HOKE, NC",,,0.0015,,11.89,0.85,25.91
+636,"Duell, 2006; Li et al., 2015","Cow Ck above Gatesville Reservoir, near Azalea, OR",,0.0871,0.000357,0.003,23.16,1.21,32.76
+637,"Duell, 2006; Li et al., 2015","Gassy Ck Nr Nonpareil, OR",,0.0824,0.007,0.024,7.77,0.47,5.78
+638,"Duell, 2006; Li et al., 2015","Elk Ck Nr Drew, OR",,0.1404,0.00323,0.017,22.71,1.22,47.06
+639,"Duell, 2006; Li et al., 2015","South Umpqua River at Tiller, OR",,0.035,0.000417,0.025,44.2,3.46,391.06
+640,"Dunne and Jerolmack, 2020 ",MULLICA RIVER NEAR BATSTO NJ,,1.818181818,0.0008,0.0004,5.9,1.5,4.5
+641,"Dutnell, 2000; Garday et al., 2000","BARON FORK AT ELDON, OK",808.08,0.0504,0.00157,0.02366,51.72,1.25,103
+642,"Dutnell, 2000","BEAVER RIVER AT BEAVER, OK",20683.66,,0.00063,,17.07,0.55,4.6
+643,"Dutnell, 2000","CANADIAN RIVER AT BRIDGEPORT, OK",63967.57,,0.00079,,140.44,0.89,296.48
+644,"Dutnell, 2000","CANADIAN RIVER AT CALVIN, OK",71009.76,,0.00063,,214.61,2,1182.23
+645,"Dutnell, 2000","ILLINOIS RIVER NEAR TAHLEQUAH, OK",2460.49,,0.00013,,51.67,2.23,104.77
+646,"Dutnell, 2000","LITTLE RIVER NEAR SASAKWA, OK",2299.91,,0.00086,,41.73,2.58,135.5
+647,"Dutnell, 2000","LITTLE RIVER NEAR TECUMSEH, OK",1199.17,,0.00052,,24.06,1.13,93.53
+648,"Dutnell, 2000","MUDDY BOGGY CREEK NEAR FARRIS, OK",2820.5,,0.00017,,96.41,3.12,52.56
+649,"Dutnell, 2000","NEOSHO R NR PARSONS, KS",12703.9,,0.0042,,59.8,3.19,295.63
+650,"Dutnell, 2000","NEOSHO RIVER NEAR COMMERCE, OK",15348.28,,0.0032,,108.45,2,310.07
+651,"Dutnell, 2000","NORTH CANADIAN RIVER NEAR EL RENO, OK",34490.9,,0.00066,,35.73,2.41,88.83
+652,"Dutnell, 2000","NORTH CANADIAN RIVER NEAR HARRAH, OK",35677.11,,0.0005,,51.69,2.67,224.69
+653,"Dutnell, 2000","NORTH FORK RED RIVER NEAR CARTER, OK",6868.65,,0.00091,,63.7,1.04,81.61
+654,"Dutnell, 2000","NORTH FORK RED RIVER NEAR HEADRICK, OK",11810.35,,0.00037,,52.64,1.89,165.48
+655,"Dutnell, 2000","SALT FORK ARKANSAS RIVER NR ALVA, OK",2543.37,,0.0016,,36.66,2.05,76.03
+656,"Dutnell, 2000","SALT FORK RED RIVER AT MANGUM, OK",3765.85,,0.00142,,69.49,0.72,76.99
+657,"Dutnell, 2000","SPRING RIVER NEAR QUAPAW, OK",6516.41,,0.00002,,85.1,4.39,568.04
+658,"Elliott and Cartier, 1986","BLACK SULPHUR CREEK NEAR RIO BLANCO, CO.",266.77,0.1361,0.0006,0.00211,15.8,0.79,0.63
+659,"Elliott and Cartier, 1986","BOX ELDER GULCH NEAR RANGELY, CO.",23.85,1.2618,0.0157,0.00641,6.5,0.85,0.47
+660,"Elliott and Cartier, 1986","CORRAL GULCH BELOW WATER GULCH, NR RANGELY, CO.",22.3,2.4334,0.0254,0.00291,4.8,0.46,0.19
+661,"Elliott and Cartier, 1986","CORRAL GULCH NEAR RANGELY, CO",82.36,0.8259,0.0089,0.0032,9.6,0.49,0.4
+662,"Elliott and Cartier, 1986",Dry Fork near DeBeque,282.31,0.2747,0.0069,0.0102,4.88,0.67,0.99
+663,"Elliott and Cartier, 1986",Middle Fork Stewart Gulch near Rio Blanco,62.16,8.7273,0.0116,0.00058,3.05,0.72,0.59
+664,"Elliott and Cartier, 1986",Parachute Creek near Grand Valley,365.19,0.6414,0.0074,0.00867,11.58,1.24,4.81
+665,"Elliott and Cartier, 1986","PICEANCE CREEK AT WHITE RIVER, CO",1688.67,0.4511,0.0024,0.00748,16.7,2.32,4.73
+666,"Elliott and Cartier, 1986",Piceance Creek below Gardenhire Gulch,660.45,1.7445,0.0049,0.00366,5.15,2.15,1.59
+667,"Elliott and Cartier, 1986","PICEANCE CREEK BELOW RIO BLANCO, CO.",458.43,0.576,0.0024,0.00399,16.8,1.58,2.15
+668,"Elliott and Cartier, 1986",Scandard Gulch at mouth near Rio Blanco,20.64,2.4974,0.0168,0.00053,3.08,0.13,0.14
+669,"Elliott and Cartier, 1986",Scandard Gulch near Rio Blanco,17.12,3.5884,0.0196,0.00096,1.92,0.29,0.0419
+670,"Elliott and Cartier, 1986",Sorgum Gulch at mouth near Rio Blanco,9.38,0.7597,0.0195,0.0014,2.87,0.09,0.0261
+671,"Elliott and Cartier, 1986","STEWART GULCH AB WEST FORK NR RIO BLANCO, CO",113.96,1.9318,0.0085,0.00192,4.1,0.72,0.12
+672,"Elliott and Cartier, 1986","West Fork Stewart Gulch at mouth, near Rio Blanco",40.66,2.5589,0.0191,0.00095,3.35,0.21,0.12
+673,"Elliott and Cartier, 1986","WILLOW CREEK NEAR RIO BLANCO, CO.",125.36,1.2569,0.0049,0.00215,10.1,0.91,0.68
+674,"Elliott and Cartier, 1986","YELLOW CREEK NEAR WHITE RIVER, CO.",678.58,0.9504,0.0081,0.00563,14.6,1.09,1.22
+675,"Emmett, 1972; Kleinhans and van den Berg, 2011","Chatanika near Fairbanks, AK",,0.0589,0.0017,0.0182,46.3,1.04,109.6
+676,"Emmett, 1972; Kleinhans and van den Berg, 2011","Gakona at Gakona, AK",1605.79,0.1384,0.0041,0.021,61,1.17,127.4
+677,"Emmett, 1972","Chena River at Fairbanks, AK",5128.18,1.0409,0.0007,0.001,85.34,2.45,258
+678,"Emmett, 1972",Chena River near Two Rivers,2437.18,0.0667,0.0017,0.019,68,1.23,163
+679,"Emmett, 1972",Gulkana River at Gulkana,5091.92,0.1224,0.0042,0.021,152,1.01,510
+680,"Emmett, 1972",Hess Creek near Livengood,1714.57,0.37,0.002,0.0115,27,3.51,141
+681,"Emmett, 1972",Klutina River at Copper Center,2279.19,0.1212,0.004,0.03,46,1.5,199
+682,"Emmett, 1972",Little Chena River at Fairbanks,922.04,0.3152,0.002,0.0135,37,3.51,73
+683,"Emmett, 1972",Salcha River near Salchest,5620.28,0.072,0.0008,0.0188,99,2.79,368
+684,"Emmett, 1972",Squirrel Creek at Tonsina,181.3,0.2574,0.0156,0.018,12,0.49,8.5
+685,"Emmett, 1972",TANANA R AT NENANA AK,71224.73,15.6061,0.0001,0.00002,196.6,5.15,2265.35
+686,"Emmett, 1972",Yukon River at Rampart,516444.01,0.1599,0.0004,0.0134,594,8.84,11553
+687,"Emmett, 1975",Basin Creek near mouth,132.09,0.164,0.0099,0.03,10,0.82,13.5
+688,"Emmett, 1975",Beaver Creek near mouth,38.85,0.1239,0.0152,0.0275,10,0.37,5.5
+689,"Emmett, 1975",Big Boulder Creek above Jim Creek,24.09,0.2951,0.0495,0.0305,13,0.3,5.24
+690,"Emmett, 1975",Big Boulder Creek near mouth,69.67,0.2735,0.035,0.038,6,0.49,6.3
+691,"Emmett, 1975",Big Lake Creek near mouth,80.29,0.8635,0.0604,0.0195,7,0.46,6.85
+692,"Emmett, 1975","Bruno Cr near Clayton, ID",16.29,0.2556,0.0369,0.024,2.44,0.27,1.51
+693,"Emmett, 1975",Champion Creek near mouth,45.32,0.3302,0.0162,0.011,8,0.37,5.5
+694,"Emmett, 1975",E. Fork Salmon River below W. Pass Creek,1401.18,0.092,0.0106,0.051,15,0.73,25.3
+695,"Emmett, 1975",Fourth of July Creek near mouth,47.91,0.3859,0.0263,0.019,8,0.46,5.9
+696,"Emmett, 1975",Germania Creek near mouth,132.09,0.1748,0.013,0.0275,10,0.61,11.6
+697,"Emmett, 1975",Herd Creek near mouth,303.03,0.2104,0.0169,0.037,9,0.76,16.7
+698,"Emmett, 1975","Holman Cr nr Clayton, ID",15.8,0.9296,0.052,0.0155,2.74,0.46,2.75
+699,"Emmett, 1975",Horse Basin Creek near mouth,84.43,0.1244,0.013,0.019,3,0.3,0.54
+700,"Emmett, 1975",Jim Creek near mouth,14.24,0.6184,0.0625,0.0245,3,0.4,2.25
+701,"Emmett, 1975",Little Boulder Creek above Baker Lake,8.55,0.0035,0.0009,0.042,5,0.27,1.7
+702,"Emmett, 1975",Little Boulder Creek below Boulder Chain Lakes,31.6,0.0922,0.0025,0.012,10,0.73,7.62
+703,"Emmett, 1975",Little Boulder Creek near Mouth,47.66,0.3597,0.046,0.031,13,0.4,8.92
+704,"Emmett, 1975",Pat Hughes Creek near mouth,6.47,0.4063,0.081,0.029,5,0.24,1.52
+705,"Emmett, 1975",Peach Creek nr mouth,19.74,0.4236,0.051,0.027,9,0.37,6.29
+706,"Emmett, 1975",Road Creek above Horse Basin Creek,,0.1,0.0165,0.04,3,0.4,1.06
+707,"Emmett, 1975",Road Creek near mouth,220.15,0.4562,0.0356,0.0175,7,0.37,2.42
+708,"Emmett, 1975",Salmon River above E. Fork Salmon River,3107.99,0.0647,0.0046,0.056,50,1.3,145
+709,"Emmett, 1975",Salmon River near Challis,4661.98,0.0364,0.0018,0.045,50,1.5,156
+710,"Emmett, 1975",Salmon River near Galena Summit,45.32,0.1967,0.0118,0.02,12,0.55,10.2
+711,"Emmett, 1975",Slate Creek near mouth,81.84,0.1099,0.026,0.043,6,0.3,3.4
+712,"Emmett, 1975",South Fork E. Fork Salmon River near mouth,42.73,0.1006,0.0157,0.052,9,0.55,8.86
+713,"Emmett, 1975",Squaw Creek near mouth,207.2,0.1463,0.0124,0.0375,9,0.73,12.9
+714,"Emmett, 1975",Thompson Creek above Pat Hughes Creek,58.27,0.0683,0.0128,0.042,10,0.37,5.83
+715,"Emmett, 1975",Thompson Creek near mouth,75.37,0.1,0.0148,0.0305,12,0.34,7.73
+716,"Emmett, 1975",Valley Creek near mouth,380.73,0.0614,0.004,0.03,24,0.76,28.3
+717,"Emmett, 1975",W. Fork E. Fork Salmon River near mouth,23.57,0.2103,0.0307,0.046,4,0.52,3.51
+718,"Emmett, 1975",W. Pass Creek near mouth,68.89,0.1237,0.0208,0.053,7,0.52,6.2
+719,"Emmett, 1975",Warm Springs Creek near mouth,209.79,0.0701,0.0089,0.04,14,0.52,17
+720,"Emmett, 1975",Wickiup Creek near mouth,15.8,0.498,0.0755,0.034,2,0.37,1.9
+721,"Emmett, 1975",Yankee Fork near mouth,489.51,0.075,0.0036,0.0285,16,0.98,20.2
+722,"Foster, 2012","Battle Creek near Encampment, WY",33.67,0.0546,0.013,0.0779,9.91,0.54,8.44
+723,"Foster, 2012","Box Elder Creek at Boxelder, WY",163.17,0.0156,0.003,0.096,12.34,0.83,8.72
+724,"Foster, 2012","Coney Creek above Twin Lakes near Big Horn, WY",8.83,0.0479,0.004,0.0247,3.93,0.49,1.87
+725,"Foster, 2012","Crow Creek near Tipperary, WY",78.22,0.0427,0.013,0.0995,8.84,0.54,6.29
+726,"Foster, 2012","DEER CREEK IN CANYON, NEAR GLENROCK, WY",360.01,0.0158,0.003,0.0783,23.53,0.68,14.61
+727,"Foster, 2012","Dry Creek near Burris, WY",139.08,0.039,0.017,0.128,12.1,0.48,9.43
+728,"Foster, 2012","East Fork Big Goose Creek near Big Horn, WY",52.06,0.0423,0.021,0.1863,12.34,0.62,11.55
+729,"Foster, 2012","East Fork River near Big Sandy, WY",205.13,0.0601,0.016,0.1048,24.84,0.65,30.89
+730,"Foster, 2012",EAST FORK WIND RIVER NR DUBOIS WYO,1105.93,0.0684,0.012,0.0851,45.63,0.8,76.71
+731,"Foster, 2012","ELKHEAD CREEK ABOVE LONG GULCH, NEAR HAYDEN, CO",442.89,0.0369,0.004,0.0671,22.59,1.02,36.36
+732,"Foster, 2012","ENCAMPMENT RIVER AB HOG PARK CR, NR ENCAMPMENT, WY",188.29,0.0326,0.01,0.1748,16.49,0.94,25.26
+733,"Foster, 2012","Gardner River near Mammoth, YNP",512.82,0.0458,0.011,0.1149,22.07,0.79,30.04
+734,"Foster, 2012","Jack Creek above Coyote Draw, near Saratoga, WY",282.31,0.013,0.002,0.0366,26.82,0.39,5.72
+735,"Foster, 2012","LITTLE BIGHORN RIVER AT STATE LINE, MT",471.38,0.044,0.01,0.1046,17.62,0.76,26.36
+736,"Foster, 2012","Little Popo Agie River near Lander, WY",323.75,0.024,0.005,0.0808,15.7,0.64,13.2
+737,"Foster, 2012","Middle Fork Powder River near Barnum, WY",117.07,0.0264,0.007,0.1217,12.07,0.76,11.38
+738,"Foster, 2012","North Brush Creek near Saratoga, WY",96.87,0.0643,0.021,0.128,12.34,0.65,13.71
+739,"Foster, 2012","North Fork Powder River near Hazelton, WY",63.45,0.0275,0.01,0.09,13.08,0.41,5.55
+740,"Foster, 2012","North Fork Shoshone River at Wapiti, WY",1810.4,0.0567,0.012,0.1586,49.13,1.24,149.71
+741,"Foster, 2012","Rock Creek above King Canyon Canal near Arlington, WY",162.91,0.0581,0.014,0.1332,15.03,0.91,27.61
+742,"Foster, 2012","Rock Creek near Red Lodge, MT",271.95,0.0391,0.014,0.15,20.03,0.69,24.81
+743,"Foster, 2012","Shell Creek above Shell Creek Reservoir, WY",59.83,0.0132,0.001,0.0369,9.57,0.8,7.05
+744,"Foster, 2012","Shell Creek near Shell, WY",375.55,0.0415,0.013,0.1396,23.07,0.73,31.01
+745,"Foster, 2012","Slater Fork near Slater, CO",391.09,0.0415,0.001,0.015,14.54,1.03,20.87
+746,"Foster, 2012",Soda Butte Creek at Park Boundary at Silver Gate,80.03,0.0662,0.015,0.077,18.56,0.56,17.13
+747,"Foster, 2012","South Fork Little Wind River above Reservoir near Ft Washakie, WY",233.88,0.0959,0.011,0.032,35.2,0.46,25.6
+748,"Foster, 2012","South Fork Shoshone River near Valley, WY",769.23,0.0702,0.009,0.0744,42.73,0.96,92.65
+749,"Foster, 2012","Tongue River near Dayton, WY",533.54,0.02,0.006,0.1581,29.41,0.87,37.77
+750,"Foster, 2012","West Fork Big Goose Creek near Big Horn, WY",63.2,0.0362,0.02,0.1744,14.48,0.52,9.51
+751,"Foster, 2012","Willow Creek near Crowheart, WY",143.49,0.0381,0.014,0.0848,7.92,0.38,3.68
+752,"Foster, 2012","Willow Creek near Dixon, WY",62.16,0.0179,0.003,0.0482,7.71,0.48,3.79
+753,"Foster, 2012","Wind River near Dubois, WY",600.88,0.0202,0.003,0.095,20.18,1.05,27.21
+754,"Foster, 2012","Wolf Creek at Wolf, WY",97.9,0.0188,0.005,0.0983,9.63,0.61,5.75
+755,"Galay, 1971",Saskatchewan River at Drayton Valley Alta.,,0.1321,0.0015,0.03,244,4.36,2270
+756,Garday et al. 2000 - USDA NRCS,"BARON FORK AT DUTCH MILLS, AR",,0.1305,0.004,0.02547,38.4,1.37,39.13
+757,Garday et al. 2000 - USDA NRCS,"FLINT CREEK NEAR KANSAS, OK",,0.0355,0.00056,0.0172,39.62,1.8,77.02
+758,Garday et al. 2000 - USDA NRCS,"FLINT CREEK NEAR W SILOAM SPRGS, OK",,0.1459,0.0022,0.01602,21.03,1.75,18.07
+759,"Gaurav et al., 2015",Main Kosi 1,,1.3091,0.00024,0.0003,436,2.7,1532
+760,"Gaurav et al., 2015",Main Kosi 10,,0.5926,0.00024,0.00027,78,1.1,39
+761,"Gaurav et al., 2015",Main Kosi 11,,0.3771,0.00024,0.00027,171,0.7,55
+762,"Gaurav et al., 2015",Main Kosi 12,,0.5926,0.00024,0.00027,282,1.1,276
+763,"Gaurav et al., 2015",Main Kosi 13,,1.1874,0.00024,0.000245,113,2,256
+764,"Gaurav et al., 2015",Main Kosi 14,,1.603,0.00024,0.000245,151,2.7,640
+765,"Gaurav et al., 2015",Main Kosi 15,,1.5436,0.00024,0.000245,181,2.6,249
+766,"Gaurav et al., 2015",Main Kosi 16,,1.2562,0.00024,0.00022,363,1.9,730
+767,"Gaurav et al., 2015",Main Kosi 17,,0.7438,0.00027,0.00022,146,1,127
+768,"Gaurav et al., 2015",Main Kosi 18,,1.4132,0.00027,0.00022,132,1.9,326
+769,"Gaurav et al., 2015",Main Kosi 19,,1.2645,0.00027,0.00022,200,1.7,220
+770,"Gaurav et al., 2015",Main Kosi 2,,1.2121,0.00024,0.0003,183,2.5,335
+771,"Gaurav et al., 2015",Main Kosi 20,,2.3377,0.00027,0.000245,58,3.5,228
+772,"Gaurav et al., 2015",Main Kosi 21,,1.5362,0.00027,0.000245,568,2.3,1374
+773,"Gaurav et al., 2015",Main Kosi 22,,2.3377,0.00027,0.000245,56,3.5,235
+774,"Gaurav et al., 2015",Main Kosi 23,,1.4694,0.00027,0.000245,504,2.2,1094
+775,"Gaurav et al., 2015",Main Kosi 24,,0.6011,0.00027,0.000245,144,0.9,66
+776,"Gaurav et al., 2015",Main Kosi 25,,1.4132,0.00027,0.00022,118,1.9,204
+777,"Gaurav et al., 2015",Main Kosi 26,,2.4545,0.00027,0.00018,428,2.7,943
+778,"Gaurav et al., 2015",Main Kosi 27,,1.7273,0.00027,0.00018,145,1.9,274
+779,"Gaurav et al., 2015",Main Kosi 28,,1.0909,0.00027,0.00018,254,1.2,226
+780,"Gaurav et al., 2015",Main Kosi 29,,0.8182,0.00027,0.00018,335,0.9,193
+781,"Gaurav et al., 2015",Main Kosi 3,,1.697,0.00024,0.0003,170,3.5,387
+782,"Gaurav et al., 2015",Main Kosi 30,,1.8182,0.00027,0.00018,217,2,363
+783,"Gaurav et al., 2015",Main Kosi 31,,1.8,0.00027,0.0002,38,2.2,87
+784,"Gaurav et al., 2015",Main Kosi 32,,1.5333,0.00022,0.0002,996,2.3,2846
+785,"Gaurav et al., 2015",Main Kosi 33,,2.8667,0.00022,0.0002,119,4.3,408
+786,"Gaurav et al., 2015",Main Kosi 34,,2.4242,0.00019,0.000095,370,2,713
+787,"Gaurav et al., 2015",Main Kosi 35,,7.8545,0.00048,0.0002,345,5.4,2462
+788,"Gaurav et al., 2015",Main Kosi 36,,5.1469,0.00048,0.00026,558,4.6,2819
+789,"Gaurav et al., 2015",Main Kosi 37,,2.4615,0.00048,0.00026,559,2.2,2584
+790,"Gaurav et al., 2015",Main Kosi 38,,2.3497,0.00042,0.00026,60,2.4,111
+791,"Gaurav et al., 2015",Main Kosi 39,,2.3497,0.00042,0.00026,68,2.4,113
+792,"Gaurav et al., 2015",Main Kosi 4,,1.4545,0.00024,0.0002,29,2,45
+793,"Gaurav et al., 2015",Main Kosi 40,,2.5455,0.00042,0.00026,65,2.6,114
+794,"Gaurav et al., 2015",Main Kosi 41,,6.7455,0.00042,0.0002,68,5.3,113
+795,"Gaurav et al., 2015",Main Kosi 42,,1.3199,0.00042,0.00027,53,1.4,57
+796,"Gaurav et al., 2015",Main Kosi 43,,3.8691,0.00042,0.00025,52,3.8,123
+797,"Gaurav et al., 2015",Main Kosi 44,,3.5636,0.00042,0.00025,38,3.5,98
+798,"Gaurav et al., 2015",Main Kosi 45,,0.8485,0.00042,0.00021,30,0.7,9
+799,"Gaurav et al., 2015",Main Kosi 46,,0.6061,0.00042,0.00021,72,0.5,16
+800,"Gaurav et al., 2015",Main Kosi 47,,0.6061,0.00042,0.00021,50,0.5,9
+801,"Gaurav et al., 2015",Main Kosi 48,,0.9697,0.00042,0.00021,32,0.8,8
+802,"Gaurav et al., 2015",Main Kosi 49,,1.5758,0.00042,0.00021,51,1.3,11
+803,"Gaurav et al., 2015",Main Kosi 5,,1.7455,0.00024,0.0002,639,2.4,2197
+804,"Gaurav et al., 2015",Main Kosi 50,,1.8182,0.00042,0.00021,40,1.5,18
+805,"Gaurav et al., 2015",Main Kosi 51,,0.8485,0.00042,0.00021,73,0.7,9
+806,"Gaurav et al., 2015",Main Kosi 6,,1.6727,0.00024,0.0002,647,2.3,2102
+807,"Gaurav et al., 2015",Main Kosi 7,,0.5926,0.00024,0.00027,78,1.1,42
+808,"Gaurav et al., 2015",Main Kosi 8,,1.6162,0.00024,0.00027,200,3,808
+809,"Gaurav et al., 2015",Main Kosi 9,,1.6162,0.00024,0.00027,182,3,749
+810,"Keaton et al., 2005",Anthony Creek near Anthony. W.Va.,372.96,0.0149,0.0031,0.176,37.2,1.4,66.5
+811,"Keaton et al., 2005",Back Creek near Jones Springs. W.Va.,608.65,0.0791,0.003,0.0368,36.9,1.6,102.8
+812,"Keaton et al., 2005",Big Cedar Creek near Lebanon. Va.,133.64,0.1418,0.0066,0.0141,3,0.5,1.1
+813,"Keaton et al., 2005",Bluestone River at Falls Mills. Va.,114.74,0.0443,0.0017,0.0256,17.2,1.1,19.3
+814,"Keaton et al., 2005",Brumley Creek at Brumley Gap. Va.,55.43,0.0682,0.019,0.135,15.9,0.8,15.3
+815,"Keaton et al., 2005",Bullpasture River at Williamsville. Va.,284.9,0.0317,0.0095,0.2,28.2,1.1,63.7
+816,"Keaton et al., 2005",Catawba Creek near Catawba. Va.,88.84,0.0803,0.0053,0.028,17.3,0.7,29.7
+817,"Keaton et al., 2005",Cedar Creek near Meadowview. Va.,8.86,0.0775,0.0073,0.0514,27.1,0.9,34.3
+818,"Keaton et al., 2005",Christians Creek near Fisherville. Va.,189.07,0.0226,0.0011,0.0472,19.4,1.6,44.7
+819,"Keaton et al., 2005",Cove Creek near Shelleys. Va.,44.55,0.0893,0.0036,0.022,11.2,0.9,9.2
+820,"Keaton et al., 2005",Cowpasture River near Head Waters. Va.,29.01,0.0183,0.0055,0.073,10.9,0.4,4
+821,"Keaton et al., 2005",Crooked Run near Mt. Jackson. Va.,17.12,0.0662,0.0059,0.0324,8.5,0.6,5.1
+822,"Keaton et al., 2005",Dog Creek tributary at Locust Grove. Md.,0.26,0.1962,0.0123,0.0076,2.7,0.2,0.4
+823,"Keaton et al., 2005",Dunlap Creek near Covington. Va.,419.58,0.0384,0.0035,0.0828,35.7,1.5,81.6
+824,"Keaton et al., 2005",Hogue Creek near Hayfield. Va.,41.18,0.0521,0.0054,0.0503,13.4,0.8,17.8
+825,"Keaton et al., 2005",Jackson River near BacoVa.,406.63,0.0232,0.0038,0.149,32.6,1.5,62
+826,"Keaton et al., 2005",Lick Creek near Chatham Hill. Va.,66.82,0.0274,0.0036,0.0636,20.6,0.8,14.7
+827,"Keaton et al., 2005",Linville Creek at Broadway. Va.,118.36,0.0744,0.0027,0.0198,17.9,0.9,22.1
+828,"Keaton et al., 2005",Little Cacapon River near Levels. W.Va.,279.72,0.014,0.0013,0.0731,27.7,1.3,80.4
+829,"Keaton et al., 2005","Marsh Run at Grimes, MD",48.95,0.0977,0.0047,0.0151,7.68,0.52,3.17
+830,"Keaton et al., 2005",Middle Fork Holston River at Groseclose. Va.,19.17,0.0328,0.0035,0.0323,5.3,0.5,2.6
+831,"Keaton et al., 2005",Middle Fork Holston River at Seven Mile Ford. Va.,341.88,0.0521,0.0033,0.0461,25.3,1.2,68.5
+832,"Keaton et al., 2005",North Fork Holston River near Saltville. Va.,572.39,0.0158,0.0016,0.0552,66.4,0.9,66.8
+833,"Keaton et al., 2005",North Fork Shenandoah River at Cootes Store. Va.,543.9,0.0295,0.0016,0.0558,45.4,1.7,104.8
+834,"Keaton et al., 2005",North River near Stokesville. Va.,44.81,0.0401,0.0119,0.108,16.9,0.6,13.1
+835,"Keaton et al., 2005",Passage Creek near Buckton. Va.,224.03,0.0713,0.0124,0.137,23.8,1.3,59.7
+836,"Keaton et al., 2005",Potomac River Tribuatary near Hancock. Md.,3.11,0.0801,0.0241,0.0547,3,0.3,1.6
+837,"Keaton et al., 2005",Potts Creek near Covington. Va.,396.27,0.0395,0.0022,0.0506,35.7,1.5,67.4
+838,"Keaton et al., 2005",Pugh's Run near Woodstock. Va.,8.88,0.1122,0.0228,0.0616,8,0.5,3.1
+839,"Keaton et al., 2005",Reed Creek at Grahams Forge. Va.,668.22,0.0337,0.0033,0.0652,46.6,1.1,85.2
+840,"Keaton et al., 2005",Renick Run near Buchanan. Va.,5.39,0.0703,0.022,0.0759,7.1,0.4,6.7
+841,"Keaton et al., 2005","SMITH CREEK NEAR NEW MARKET, VA",242.42,0.0852,0.0022,0.0219,27.9,1.4,38.2
+842,"Keaton et al., 2005",South Branch Potomac River at Franklin. W.Va.,463.61,0.0398,0.0052,0.103,31.4,1.3,83.8
+843,"Keaton et al., 2005",South Fork Holston River at Riverside near Chilhowie. Va,198.39,0.0213,0.0022,0.0627,22.2,1,32.6
+844,"Keaton et al., 2005",South Fork Roanoke River near Shawsville. Va.,282.31,0.031,0.0024,0.0657,34.4,1.4,67.7
+845,"Keaton et al., 2005",South Fork South Branch Potomac River at Brandywine. W.Va.,266.77,0.0195,0.0035,0.109,28.9,1,34
+846,"Keaton et al., 2005",South River at Harriston. Va.,549.08,0.0331,0.0048,0.123,40.8,1.4,94.6
+847,"Keaton et al., 2005",Tinker Creek near Daleville. Va.,30.3,0.0499,0.0044,0.0374,11.8,0.7,7.5
+848,"Keaton et al., 2005",Town Creek near OldTown. Md.,383.32,0.0382,0.0028,0.0489,40.2,1.1,78.4
+849,"Keaton et al., 2005",Wills Creek near Cumberland. Md.,639.73,0.0212,0.0035,0.12,50.3,1.2,91.2
+850,"Kellerhals et al. 1972; Li et al., 2015",Alberta rivers reach no. 106,,0.0742,0.011,0.052,18,0.58,11.9
+851,"Kellerhals et al. 1972; Li et al., 2015",Alberta rivers reach no. 113,,0.0189,0.0035,0.089,43.9,0.79,53.8
+852,"Kellerhals et al. 1972; Li et al., 2015",Alberta rivers reach no. 18,,0.0904,0.0054,0.042,51.2,1.16,122
+853,"Kellerhals et al. 1972; Li et al., 2015",Alberta rivers reach no. 21,,0.0133,0.00055,0.051,38.1,2.04,113
+854,"Kellerhals et al. 1972; Li et al., 2015",Alberta rivers reach no. 22,,0.0391,0.0033,0.07,79.9,1.37,203
+855,"Kellerhals et al. 1972; Li et al., 2015",Alberta rivers reach no. 27,,0.0314,0.002,0.054,23.4,1.4,29.4
+856,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011","Paddle near Rochfort Bridge, Alberta, Canada",,0.0376,0.0014,0.046,22.9,2.04,46.2
+857,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011","Pembina at Jarvie, Alberta, Canada",,1.0417,0.00011,0.00032,95.1,5,608.9
+858,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011","Vermilion near Mannville, Alberta, Canada",,0.9231,0.00036,0.00026,18.6,1.1,7.9
+859,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 40,,0.1407,0.0057,0.027,49.4,1.1,166
+860,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 42,,0.0619,0.0036,0.043,31.1,1.22,62.3
+861,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 50,,0.0214,0.00035,0.038,123,3.84,1020
+862,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 53,,0.0347,0.0021,0.047,59.4,1.28,187
+863,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 67,,0.0478,0.015,0.145,35.1,0.76,52.4
+864,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 8,,0.0274,0.00052,0.08,280,6.95,5440
+865,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 87,,0.0537,0.0016,0.043,126,2.38,510
+866,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 92,,0.0305,0.0024,0.045,30.5,0.95,42.5
+867,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 94,,0.0338,0.0032,0.056,64.3,0.98,113
+868,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Alberta rivers reach no. 95,,0.0423,0.0037,0.079,76.8,1.49,278
+869,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Athabasca River at Embarras Airport,,1.5313,0.00009,0.00019,441.96,5.33,2605.15
+870,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",East Prarie near Enilda,,6.6054,0.0005,0.00033,38.71,7.19,396.44
+871,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Lesser Slave (Slave Lake/at Hwy 2),,0.8738,0.00011,0.0002,59.44,2.62,107.32
+872,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Medicine River near Eckville,,3.191,0.00051,0.00031,46.33,3.2,130.26
+873,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Peace River at Peace Point,,2.2804,0.000074,0.00022,737.62,11.19,16706.94
+874,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Pembina River below Paddy Creek,,3.1887,0.00033,0.00026,79.25,4.15,566.34
+875,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Red Deer River near Empress/near Bindloss,,1.7813,0.0003,0.00028,225.25,2.74,849.51
+876,"Kellerhals et al., 1972; Kleinhans and van den Berg, 2011",Swan River near Kinuso,,1.5797,0.0002,0.00029,42.06,3.78,148.95
+877,"Kellerhals et al., 1972",Belly River near Stand Off,,0.0653,0.0019,0.03,76,1.7,178
+878,"Kellerhals et al., 1972",Bow River at Lake Louise,,0.0188,0.0035,0.089,44,0.79,53
+879,"Kellerhals et al., 1972",Bow River below Carseland Dam,,0.0688,0.0012,0.026,168,2.46,1075
+880,"Kellerhals et al., 1972",Castle River near Cowley,,0.0423,0.0037,0.079,77,1.49,277
+881,"Kellerhals et al., 1972",Clearwater River above Limestone Creek,,0.1395,0.0057,0.027,49,1.09,165
+882,"Kellerhals et al., 1972",Clearwater River near Rocky Mtn. House,,0.0886,0.0012,0.027,85,3.29,933
+883,"Kellerhals et al., 1972",Crowsnest River at Frank,,0.0304,0.0024,0.045,30,0.94,42
+884,"Kellerhals et al., 1972",Crowsnest River near Lundbreck,,0.0251,0.0032,0.096,31,1.24,65
+885,"Kellerhals et al., 1972",Drywood Creek near Twin Butte,,0.0731,0.011,0.052,18,0.57,11
+886,"Kellerhals et al., 1972",Forty Mile Creek near Banff,,0.0856,0.019,0.078,24,0.58,20
+887,"Kellerhals et al., 1972",Freeman River near Ft. Assiniboine,,0.0391,0.0033,0.07,80,1.37,203
+888,"Kellerhals et al., 1972",Little Red Deer River hear Water Valley,,0.0578,0.0036,0.063,41,1.67,141
+889,"Kellerhals et al., 1972",Little Red Deer River near the mouth,,0.0347,0.0021,0.047,59,1.28,186
+890,"Kellerhals et al., 1972",Little Smokey River near Guy,,0.03,0.00094,0.073,111,3.84,1839
+891,"Kellerhals et al., 1972",Lobstick River near Entwhistle and near Styal,,0.0193,0.0014,0.066,29,1.5,55
+892,"Kellerhals et al., 1972",McLeod River above Embarras River,,0.0423,0.0012,0.086,82,5,1416
+893,"Kellerhals et al., 1972",Mcleod River near Wolk Creek and Edson,,0.0554,0.00084,0.042,134,4.57,1811
+894,"Kellerhals et al., 1972",Milk River at Milk River,,0.0418,0.00059,0.019,53,2.22,268
+895,"Kellerhals et al., 1972",Oldman River near Brocket,,0.0534,0.0016,0.043,126,2.37,509
+896,"Kellerhals et al., 1972",Oldman River near Ft. Macleod,,0.0416,0.0017,0.049,121,1.98,486
+897,"Kellerhals et al., 1972",Peace River at Dunvegan bridge,,0.0281,0.00022,0.053,475,11.15,14998
+898,"Kellerhals et al., 1972","Peace River at Hudson Hope, BC, CAN",,0.0567,0.00074,0.046,479,5.82,7782
+899,"Kellerhals et al., 1972","Peace River near Taylor, BC, CAN",,0.0775,0.00069,0.041,549,7.6,9004
+900,"Kellerhals et al., 1972",Prairie Creek near Rocky Mtn. House,,0.0614,0.0036,0.043,31,1.21,62
+901,"Kellerhals et al., 1972",Red Deer River at Drumheller,,0.0214,0.00035,0.038,123,3.84,1018
+902,"Kellerhals et al., 1972",Rosebud River at Redland,,0.0486,0.0012,0.051,28,3.41,130
+903,"Kellerhals et al., 1972",Rosebud River below Carstairs Creek,,0.0096,0.00051,0.051,27,1.58,42
+904,"Kellerhals et al., 1972",Smoky River at Watino,,0.0273,0.00052,0.08,280,6.94,5433
+905,"Kellerhals et al., 1972",St Mary River near Lethbridge,,0.0444,0.002,0.063,119,2.31,489
+906,"Kellerhals et al., 1972",Wildhay River near Hinton,,0.0896,0.0054,0.042,51,1.15,121
+907,"Kellerhals et al., 1972",Willow Creek near Claresholm,,0.043,0.0008,0.023,35,2.04,100
+908,"Kellerhals et al., 1972",Willow Creek near Nolan,,0.0272,0.00079,0.038,50,2.16,203
+909,"Kellerhals et al., 1972",Wolk Creek at Hwy. 16,,0.0133,0.00055,0.051,38,2.04,113
+910,"King et al., 2004","Bruneau River at Rowland, NV",,0.0765,0.0049,0.04,15,1.03,20.35
+911,"King et al., 2004","Jarbidge River below Jarbidge, NV",,0.0733,0.015,0.0905,20.5,0.73,49
+912,"King et al., 2004; Mueller et al., 2005","Blackmare Creek near Poverty Flat near Cascade, ID",45.58,0.1025,0.0299,0.099,11.13,0.56,3.4
+913,"King et al., 2004; Mueller et al., 2005","Boise River near Twin Springs, ID",2154.87,0.0418,0.0038,0.076,59.1,1.38,167
+914,"King et al., 2004; Mueller et al., 2005","Dollar Creek near Warm Lake near Cascade, ID",42.73,0.0494,0.0146,0.077,10.8,0.43,7.8
+915,"King et al., 2004; Mueller et al., 2005",JOHNSON CREEK AT YELLOW PINE ID,564.62,0.0129,0.004,0.19,24,1.01,39.7
+916,"King et al., 2004; Mueller et al., 2005","Lochsa River near Lowell, ID",3051.01,0.0254,0.0023,0.148,77.3,2.7,446
+917,"King et al., 2004; Mueller et al., 2005","Middle Fork Salmon River at Middle Fork Lodge near Yellow Pine, ID",2698.77,0.0243,0.0041,0.146,61.6,1.43,214
+918,"King et al., 2004; Mueller et al., 2005","North Fork Clearwater River near Canyon Ranger Station, ID",3356.63,0.0089,0.0005,0.095,84,2.78,453
+919,"King et al., 2004; Mueller et al., 2005","Salmon River below Yankee Fork near Clayton, ID",2090.12,0.0361,0.0034,0.104,36.3,1.82,118
+920,"King et al., 2004; Mueller et al., 2005","Salmon River near Shoup, ID",16158.95,0.0222,0.0019,0.096,85.2,1.85,326
+921,"King et al., 2004; Mueller et al., 2005","SELWAY RIVER NEAR LOWELL, ID",4959.83,0.0187,0.0021,0.173,89.2,2.54,652
+922,"King et al., 2004; Mueller et al., 2005","SOUTH FORK PAYETTE RIVER AT LOWMAN, ID",1155.14,0.0209,0.004,0.11,53,0.95,86.4
+923,"King et al., 2004; Mueller et al., 2005","South Fork Salmon River near Krassel Ranger Station, ID",854.7,0.0686,0.0025,0.038,34.2,1.72,70.8
+924,"King et al., 2004; Mueller et al., 2005","Squaw Creek below Bruno Creek near Clayton, ID",185.44,0.058,0.01,0.046,11.3,0.44,5.1
+925,"King et al., 2004; Mueller et al., 2005","Thompson Creek near Clayton, ID",75.37,0.0494,0.0153,0.062,6.4,0.33,2.5
+926,"King et al., 2004; Mueller et al., 2005","Valley Creek at Stanley, ID",380.73,0.0503,0.0042,0.04,24.7,0.79,24.1
+927,"Knighton, 1976",Bollin at Jarman Bridge,,0.1147,0.0193,0.0408,3,0.4,1.1
+928,"Knighton, 1976",Bollin at Mottram Bridge,,0.1379,0.0094,0.0219,10,0.53,4.8
+929,"Knighton, 1976",Dean at Adlington,,0.123,0.0115,0.0238,10,0.42,3.8
+930,"Knighton, 1976",Dean at Lowerhouse Mill,,0.1116,0.0125,0.038,5,0.56,3.5
+931,"Krstolic and Chaplin, 2007","Aylett Creek at Aylett, VA",15.98,0.1316,0.0015,0.004,5.06,0.58,4.81
+932,"Krstolic and Chaplin, 2007","Baily Branch Tributary at Spring Grove, VA",1.84,0.0851,0.0039,0.011,3.14,0.4,1.36
+933,"Krstolic and Chaplin, 2007","Bush Mill Stream near Heathsville, VA",17.66,2.3091,0.0025,0.0005,7.1,0.76,1.41
+934,"Krstolic and Chaplin, 2007","Cat Point Creek near Montross, VA",118.1,1.4316,0.0025,0.001,9.54,0.94,3.1
+935,"Krstolic and Chaplin, 2007","Collins Run Tributary near Providence Forge, VA",0.73,0.3621,0.0049,0.002,2.35,0.24,0.55
+936,"Krstolic and Chaplin, 2007","Reedy Creek near Dawn, VA",43.51,5.6157,0.0038,0.00025,7.89,0.61,3.28
+937,"Latrubesse (PC), Li et al., 2015",Amazon,,1.9345,0.000021,0.00025,2722,38,161330
+938,"Latrubesse (PC), Li et al., 2015",Araguai at Aruana ,,1.3636,0.00015,0.0004,385,6,3200
+939,"Latrubesse (PC), Li et al., 2015",Araguai at Luis Alves,,1.3333,0.0001,0.0003,507,6.6,3700
+940,"Latrubesse (PC), Li et al., 2015",Araguai at Sao Felix,,1.4848,0.000098,0.0003,621,7.5,6000
+941,"Latrubesse (PC), Li et al., 2015",Brahmaputra,,2.4727,0.000068,0.00025,3400,15,60000
+942,"Latrubesse (PC), Li et al., 2015",Japura at Acanaui,,0.8727,0.000036,0.0004,1042,16,21000
+943,"Latrubesse (PC), Li et al., 2015",Japura at Villa Bittencourt,,0.9318,0.000041,0.0004,1028,15,20000
+944,"Latrubesse (PC), Li et al., 2015",Orinoco at Musinacio,,1.5818,0.00006,0.0004,1770,17.4,64600
+945,"Latrubesse (PC), Li et al., 2015",Parana,,1.04,0.000044,0.0003,1320,11.7,17140
+946,"Latrubesse (PC), Li et al., 2015",Parana at Corrientes,,1.0023,0.000049,0.0004,1490,13.5,27330
+947,"Latrubesse (PC), Li et al., 2015",Parana at Curtiembre,,1.2703,0.000048,0.0003,1330,13.1,20500
+948,"Latrubesse (PC), Li et al., 2015",Solimoes 1,,2.0848,0.000016,0.0002,1043,43,90000
+949,"Latrubesse (PC), Li et al., 2015",Solimoes 2,,1.1564,0.000018,0.00025,3201,26.5,120000
+950,"Latrubesse (PC), Li et al., 2015",Solimoes at Santo Antonio,,1.3394,0.000034,0.0003,2140,19.5,70000
+951,"Latrubesse (PC), Li et al., 2015",Solimoes at Teresina,,1.3051,0.000038,0.0003,2160,17,60000
+952,"Latrubesse (PC), Li et al., 2015",Upper Parana at Porto Rico,,3.7422,0.00011,0.0003,1150,16.84,12300
+953,"Lawlor, 2004",Basin Creek near Yaak,70.97,0.1616,0.008,0.021,9.1,0.7,5.4
+954,"Lawlor, 2004",Big Creek at Big Creek Ranger Station near Columbia Falls,212.64,0.0654,0.012,0.089,13.7,0.8,20.4
+955,"Lawlor, 2004",Blacktail Creek near Yaak,22.43,0.09,0.026,0.07,6.4,0.4,2.3
+956,"Lawlor, 2004",Boulder Creek at Maxville,184.67,0.0519,0.018,0.105,10.1,0.5,9.5
+957,"Lawlor, 2004",Burke Gulch,16.83,1.8473,0.05,0.006,2.47,0.37,0.4
+958,"Lawlor, 2004",Cayuse Creek near Trego,13.7,0.1369,0.035,0.031,2.7,0.2,0.5
+959,"Lawlor, 2004",Clark Fork tributary near Drummond,11.94,11.7302,0.012,0.000062,2.7,0.1,1.7
+960,"Lawlor, 2004",Clearwater River near Clearwater,893.55,0.0255,0.003,0.05,36.6,0.7,39.6
+961,"Lawlor, 2004",Deep Creek near Fortine MT,48.95,0.119,0.011,0.028,4.3,0.5,2.1
+962,"Lawlor, 2004",Deer Creek near Seely Lake,51.28,0.0448,0.008,0.0325,6.4,0.3,3.5
+963,"Lawlor, 2004",Dry Creek near Superior,119.92,0.0606,0.013,0.052,7.3,0.4,4
+964,"Lawlor, 2004",East Fork Timber Creek near Haugan,7.04,0.3394,0.014,0.005,3,0.2,0.2
+965,"Lawlor, 2004",Edwards Gulch at Drummond,12.15,60.6061,0.031,0.000062,1.9,0.2,0.4
+966,"Lawlor, 2004",Eightmile Creek near Florence,50.5,0.638,0.01,0.0057,4.3,0.6,1.6
+967,"Lawlor, 2004",Flint Creek at Maxville,538.72,0.0519,0.003,0.028,13.7,0.8,9.8
+968,"Lawlor, 2004",Flower Creek near Libby,28.75,0.1273,0.042,0.1,7.6,0.5,3.7
+969,"Lawlor, 2004",Granite Creek near Libby,61.12,0.0793,0.024,0.11,10.4,0.6,7.4
+970,"Lawlor, 2004",Hayes Creek near Missoula,10.77,0.6182,0.051,0.015,2.5,0.3,0.4
+971,"Lawlor, 2004",Kootenai Creek near Stevensville,74.85,0.0691,0.047,0.165,9.1,0.4,19
+972,"Lawlor, 2004",LITTLE BLACKFOOT RIVER NEAR GARRISON MT,1054.13,0.0552,0.003,0.027,17.37,0.82,25.97
+973,"Lawlor, 2004",Lolo Creek above Sleeman Creek near Lolo,647.5,0.0152,0.004,0.08,17.4,0.5,32.3
+974,"Lawlor, 2004",Marshall Creek near Missoula,14.58,0.1616,0.06,0.045,1.3,0.2,0.3
+975,"Lawlor, 2004",Middle Fork Rock Creek near Philipsburg,318.57,0.0559,0.01,0.065,22.9,0.6,15.7
+976,"Lawlor, 2004",Mill Creek above Bassoo Creek near Niarada,50.76,0.0878,0.028,0.058,5.8,0.3,1.9
+977,"Lawlor, 2004",Mission Creek above reservoir near St. Ignatius,32.12,0.1939,0.016,0.035,11.9,0.7,13.6
+978,"Lawlor, 2004",Monture Creek at Lolo National Forest boundary near Ovando,271.95,0.0364,0.004,0.04,22.3,0.6,32
+979,"Lawlor, 2004","NEVADA CR AB RESERVOIR, NR HELMVILLE, MT",300.44,0.1239,0.004,0.009,11.58,0.46,5.52
+980,"Lawlor, 2004",North Fork Lost Creek near Swan Lake,33.67,0.0226,0.01,0.215,7.9,0.8,6.8
+981,"Lawlor, 2004",Racetrack Creek below Granite Creek near Anaconda,102.3,0.5711,0.007,0.0052,7.6,0.7,7.8
+982,"Lawlor, 2004",Revais Creek below West Fork near Dixon,60.61,0.1061,0.035,0.1,6.7,0.5,5.9
+983,"Lawlor, 2004",Richards Creek near Libby MT,24.6,0.0667,0.033,0.06,2.7,0.2,0.4
+984,"Lawlor, 2004",Shaughnessy Creek near Libby,124.32,0.6364,0.049,0.014,3,0.3,0.8
+985,"Lawlor, 2004",Skalkaho Creek near Hamilton,227.4,0.0455,0.02,0.16,10.1,0.6,10.6
+986,"Lawlor, 2004",South Crow Creek near Ronan,19.61,0.146,0.053,0.11,5.5,0.5,5.6
+987,"Lawlor, 2004",Trapper Creek near Conner,73.81,0.0909,0.015,0.06,14.9,0.6,12.5
+988,"Lawlor, 2004",Valley Creek near Arlee,39.63,0.1515,0.03,0.06,4.6,0.5,1.7
+989,"Lawlor, 2004",West Twin Creek near Bonner,18.98,0.2652,0.05,0.08,5.8,0.7,2.7
+990,"Lawlor, 2004",White Pine Creek near Trout Creek,22.66,0.117,0.028,0.058,7.9,0.4,3.7
+991,"Lawlor, 2004",Wolf Creek near Libby,559.44,0.0289,0.01,0.105,10.4,0.5,17.5
+992,"Lawlor, 2004",Zulu Creek near Yaak,13.65,0.1026,0.022,0.039,4.3,0.3,1.2
+993,"Lawlor, 2004; Li et al., 2015",Basin Creek,70.97,0.2709,0.014,0.021,9.14,0.67,5.41
+994,"Lawlor, 2004; Li et al., 2015",Big Knife Creek,17.82,0.3237,0.033,0.0226,4.57,0.37,1.44
+995,"Li, 2014; Johannesson et al., 1988; Kelly, 2019","MINNESOTA RIVER AT MANKATO, MN",,0.9455,0.0002,0.0006,105,4.68,570
+996,"Lisle and Hilton, 1999; Seidl and Dietrich, 1992",ELDER C NR BRANSCOMB CA,43.77,0.1059,0.022,0.141,11,1.12,16.84
+997,"Lisle, 1977","East Fork River, WY",,0.0196,0.0007,0.026,18,1.2,23
+998,"Lotspeich, 2009","Aquia Creek near Garrisonville, VA",90.65,0.0543,0.005,0.0578,18.23,1.04,37.1
+999,"Lotspeich, 2009","Big Lickinghole Creek Tributary near Ferncliff, VA",1.4,0.9236,0.004,0.0004,1.97,0.15,0.34
+1000,"Lotspeich, 2009","Buffalo Creek near Hampden Sydney, VA",180.26,12.192,0.002,0.0001,13.81,1.01,32.85
+1001,"Lotspeich, 2009","Buffalo River tributary near Amherst, VA",1.17,0.1163,0.015,0.0143,3.44,0.18,0.76
+1002,"Lotspeich, 2009","Contrary Creek near Mineral, VA",14.45,0.0376,0.004,0.0216,15.33,0.34,4.84
+1003,"Lotspeich, 2009","Falls Creek tributary near Victoria, VA",0.96,0.0604,0.006,0.0202,2.93,0.34,0.96
+1004,"Lotspeich, 2009","Fine Creek at Fine Creek Mills, VA",58.02,2.3091,0.001,0.0002,13.87,0.76,24.15
+1005,"Lotspeich, 2009","Mechums River near White Hall, VA",246.83,0.6876,0.001,0.0018,27.95,2.04,117.51
+1006,"Lotspeich, 2009","North Fork Rivanna River near Earlysville, VA",279.72,0.1994,0.002,0.0113,29.38,1.86,100.52
+1007,"Lotspeich, 2009","North Holiday Creek near Toga, VA",3.5,0.0688,0.007,0.0188,2.86,0.3,0.88
+1008,"Lotspeich, 2009","North Meherrin River near Keysville, VA",23.47,0.0693,0.004,0.0224,8.9,0.64,8.58
+1009,"Lotspeich, 2009","Powells Creek near Turbeville, VA",0.75,0.6394,0.009,0.0013,2.39,0.15,0.28
+1010,"Lotspeich, 2009","South Anna River tributary no. 6 near Ashland, VA",0.85,0.1232,0.015,0.0135,2.76,0.18,0.57
+1011,"Lotspeich, 2009","South Branch Chopawamsic Creek near Garrisonville, VA",6.37,2.4938,0.003,0.0004,6.37,0.55,7.7
+1012,"Lotspeich, 2009","S F QUANTICO CREEK NEAR INDEPENDENT HILL, VA",19.74,0.0307,0.002,0.0241,8.66,0.61,5.8
+1013,"Lotspeich, 2009","Sandy River near Danville, VA",287.49,0.0441,0.004,0.0904,41.15,1.65,197.65
+1014,"Lotspeich, 2009","Smith River at Smith River Church near Woolwine, VA",68.12,0.0551,0.006,0.0503,20.91,0.76,32.28
+1015,"Magner and Steffen, 2000",Blue Earth R near Rapidan,6293.68,,0.0004,,45.72,1.83,169.9
+1016,"Magner and Steffen, 2000",Chippewa River near Milan,4869.18,,0.0006,,31.7,1.83,37.94
+1017,"Magner and Steffen, 2000",Cobb R trib near Beauford,21.24,,0.0015,,4.57,0.91,2.78
+1018,"Magner and Steffen, 2000",Cottonwood River at New Ulm,3366.99,,0.0009,,31.09,1.68,96.28
+1019,"Magner and Steffen, 2000",Cottonwood River at Springfield,2012.42,,0.0011,,24.38,1.22,31.15
+1020,"Magner and Steffen, 2000",Cottonwood trib near Balaton,2.33,,0.0066,,0.91,0.3,0.57
+1021,"Magner and Steffen, 2000",Hassel Creek near Clontarf,18.65,,0.0072,,3.05,0.43,1.1
+1022,"Magner and Steffen, 2000",LeSueur R near Rapidan,2874.89,,0.0008,,44.2,1.74,93.45
+1023,"Magner and Steffen, 2000",LeSueur Trib near Mankato,0.26,,0.0195,,0.82,0.18,0.28
+1024,"Magner and Steffen, 2000",Little Chippewa near Starbuck,248.64,,0.0012,,7.62,0.73,2.15
+1025,"Magner and Steffen, 2000",Little Cottonwood R.near Courtland,440.3,,0.0013,,12.19,0.82,11.33
+1026,"Magner and Steffen, 2000",Little Cottonwood R.near Jeffers,25.9,,0.003,,3.05,0.52,2.83
+1027,"Magner and Steffen, 2000",Maple R near Rapidan,875.42,,0.0005,,27.43,1.16,53.8
+1028,"Magner and Steffen, 2000",Mid Br. Rush River near Gaylord,173.53,,0.0006,,15.85,1.22,11.61
+1029,"Magner and Steffen, 2000",NBYM near Ivanhoe,38.07,,0.0016,,3.66,0.49,0.99
+1030,"Magner and Steffen, 2000",Outlet Creek trib near Starbuck,1.55,,0.01,,0.61,0.37,0.24
+1031,"Magner and Steffen, 2000",Rush River near Henderson,1036,,0.0012,,22.86,1.13,29.73
+1032,"Magner and Steffen, 2000",Shakopee,797.72,,0.0007,,15.24,1.22,12.74
+1033,"Magner and Steffen, 2000",Spring Creek near Montevideo,40.92,,0.0011,,4.57,0.46,2.27
+1034,"Magner and Steffen, 2000",Spring Creek near Sleepy Eye,85.47,,0.0005,,8.53,0.7,4.25
+1035,"Magner and Steffen, 2000",Spring Creek trib near Sleepy Eye,10.88,,0.0014,,3.05,0.46,0.68
+1036,"Magner and Steffen, 2000",Tributary to the Yellow Medicine River near Porter,9.58,,0.0057,,1.22,0.4,2.1
+1037,"Magner and Steffen, 2000",Tributary to the Yellow Medicine River near Wilno,0.85,,0.016,,0.91,0.21,0.37
+1038,"Magner and Steffen, 2000",Yellow Medicine R. near Granite,1719.75,,0.0016,,20.73,1.13,25.23
+1039,"Magner and Steffen, 2000",Yellow Medicine SB at Minneota,297.85,,0.0023,,14.33,0.55,8.5
+1040,"Makaske 1998, Kleinhans and van den Berg, (2011)","Columbia at Castledale 1, BC, Canada",,0.8555,0.000104,0.000431,56,5.85,193.5
+1041,"Makaske 1998, Kleinhans and van den Berg, (2011)","Columbia at Castledale 2, BC, Canada",,0.7213,0.000113,0.000301,18.6,3.17,14.8
+1042,"McCandless, 2003",Bear Creek at Forest Park,26.94,0.0895,0.013,0.044,5.3,0.5,7.2
+1043,"McCandless, 2003",Bear Creek at Friendsville,126.65,0.0754,0.021,0.152,14.2,0.9,32.1
+1044,"McCandless, 2003",Big Piney Run near Salisbury,63.45,0.0183,0.004,0.119,13,0.9,21.7
+1045,"McCandless, 2003",Casselman River at Grantsville,161.87,0.0282,0.004,0.086,25.8,1,47.8
+1046,"McCandless, 2003",Crabtree Creek near Swanton,43.25,0.0901,0.028,0.113,7.4,0.6,12.5
+1047,"McCandless, 2003",Evitts Creek near Centerville,78.22,0.0223,0.006,0.114,8.3,0.7,16.9
+1048,"McCandless, 2003",NB Potomac River at Steyer,189.33,0.0346,0.003,0.084,23.7,1.6,76.9
+1049,"McCandless, 2003",Savage River near Barton,127.17,0.0082,0.003,0.222,15.4,1,36.1
+1050,"McCandless, 2003",Savage River near Frostburg,3.88,0.0213,0.013,0.111,2.9,0.3,1.1
+1051,"McCandless, 2003",Sideling Hill Creek near Bellegrove,264.18,0.0713,0.004,0.051,24,1.5,77.2
+1052,"McCandless, 2003",Toliver Run Trib. near Hoyes Run,1.29,1.3939,0.023,0.002,2,0.2,0.7
+1053,"McCandless, 2003",Youghiogheny River Trib. Near Friendsville,0.52,0.1964,0.047,0.029,2,0.2,0.2
+1054,"McCandless, 2003",Beaverdam Branch at Houston DE,,0.6285,0.0007,0.00027,4.5,0.4,1
+1055,"McCandless, 2003",Gravel Run at Beulah MD,,3.6364,0.0014,0.00014,5.5,0.6,1.8
+1056,"McCandless, 2003",Mill Creek near Skipton MD,,0.7163,0.0013,0.00033,8.2,0.3,1.1
+1057,"McCandless, 2003",Sallie Harris Creek near Carmichael MD,,0.5742,0.0002,0.00019,5.3,0.9,2.2
+1058,"McCandless and Everett, 2002","Baisman Run at Broadmoor, Md.",3.81,0.5181,0.016,0.00947,5.76,0.51,3.24
+1059,"McCandless and Everett, 2002","Basin Run at Liberty Grove, Md.",13.75,0.1998,0.0059,0.01031,15.58,0.58,17.38
+1060,"McCandless and Everett, 2002",Beaver Run near Finksburg,36.26,0.0662,0.005,0.03663,12.3,0.8,17.8
+1061,"McCandless and Everett, 2002",Beaverdam Run at Cockeysville,54.13,0.9235,0.0008,0.00063,13.2,1.2,18.8
+1062,"McCandless and Everett, 2002",Big Pipe Creek at Bruceville,264.18,0.0702,0.0013,0.0202,26.3,1.8,75.3
+1063,"McCandless and Everett, 2002","Deer Creek at Rocks, Md.",244.5,0.0956,0.0021,0.01904,30.78,1.43,74.02
+1064,"McCandless and Everett, 2002",Hawlings River near Sandy Spring,69.93,4.4444,0.0022,0.00036,13.7,1.2,29.2
+1065,"McCandless and Everett, 2002",Jones Falls at Sorrento,65.27,0.1259,0.0016,0.0077,16.5,1,25.9
+1066,"McCandless and Everett, 2002",Long Green Creek at Glen Arm,24.35,0.0452,0.0165,0.13281,13.3,0.6,10.3
+1067,"McCandless and Everett, 2002",Morgan Run at Louisville,72.52,0.0985,0.0052,0.032,15.8,1,29
+1068,"McCandless and Everett, 2002",Northeast Creek at Leslie,62.94,0.068,0.012,0.10694,17.7,1,37.8
+1069,"McCandless and Everett, 2002","PATUXENT RIVER NEAR UNITY, MD",90.13,0.1082,0.0021,0.014,15.85,1.19,29.59
+1070,"McCandless and Everett, 2002",Piney Creek at Taneytown,81.07,0.125,0.0025,0.01454,20.1,1.2,39.3
+1071,"McCandless and Everett, 2002",Seneca Creek at Dawsonville,261.59,0.5397,0.0014,0.00283,20.4,1.8,72.5
+1072,"McCandless and Everett, 2002",Winters Run near Benson,90.13,0.1551,0.0052,0.02642,20.4,1.3,55.5
+1073,"McCandless and Everett, 2002; Li et al., 2015","Bennett Creek at Park Mills, Md.",162.65,0.099,0.0019,0.01695,25.36,1.46,52.87
+1074,"McCandless and Everett, 2002; Li et al., 2015","Big Elk Creek at Elk Mills, Md.",136.23,0.0635,0.0014,0.01797,23.62,1.34,59.44
+1075,"McCandless and Everett, 2002; Li et al., 2015","Cranberry Branch near Westminster, Md.",8.81,0.4592,0.0061,0.004,5.82,0.5,4.6
+1076,"McCandless and Everett, 2002; Li et al., 2015","Little Falls at Blue Mount, Md.",137.01,0.9944,0.0019,0.00174,20.73,1.5,47.4
+1077,"McCandless and Everett, 2002; Li et al., 2015","Little Patuxent River at Guilford, Md.",98.42,0.6557,0.0005,0.00071,15.18,1.54,29
+1078,"McCandless and Everett, 2002; Li et al., 2015","Slade Run near Glyndon, Md.",5.41,0.3007,0.012,0.01069,4.03,0.44,3.25
+1079,"McCandless and Everett, 2002; Li et al., 2015",Western Run at Western Run,154.88,0.4309,0.0024,0.00428,22.98,1.27,43.35
+1080,"McCandless, 2003; Li et al., 2015","Sawpit Run near Oldtown, Md.",13.21,0.1919,0.012,0.01386,10.55,0.37,6.22
+1081,"McCandless, 2003; Li et al., 2015","Faulkner Branch at Federalsburg, Md.",,1.195,0.0023,0.00064,5.36,0.55,2.43
+1082,"McCandless, 2003","NANTICOKE RIVER NEAR BRIDGEVILLE, DE",,0.9091,0.0004,0.00032,16.4,1.2,9.6
+1083,"McCandless, 2003","NASSAWANGO CREEK NEAR SNOW HILL, MD",,0.2442,0.0003,0.00067,11.1,0.9,6.3
+1084,"McCandless, 2003","SIDELING HILL CREEK NEAR BELLEGROVE, MD",264.18,0.0708,0.004,0.051,35.75,1.49,77.19
+1085,"McCandless, 2003","Ditch Run near Hancock, Md.",12.43,0.1593,0.011,0.02169,9.05,0.52,5.18
+1086,"McCandless, 2003","Glebe Branch at Valley Lee, Md.",,0.1919,0.01,0.00693,2.26,0.22,0.34
+1087,"McCandless, 2003","MATTAWOMAN CREEK NEAR POMONKEY, MD",,0.0642,0.0014,0.01321,11.3,1,15.3
+1088,"McCandless, 2003","MURDERKILL RIVER NEAR FELTON, DE",,0.1697,0.0004,0.001,10.2,0.7,2.8
+1089,"McCandless, 2003","ST CLEMENT CREEK NEAR CLEMENTS, MD",,2.0979,0.001,0.00026,9.2,0.9,7.7
+1090,"McCandless, 2003","St. Mary's River at Great Mills, Md.",,0.0617,0.0014,0.01311,11.83,0.95,13.16
+1091,"McCandless, 2003","WESTERN BRANCH AT UPPER MARLBORO, MD",,0.7273,0.0002,0.00025,17.3,1.5,19.1
+1092,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Big Fork at Koochiching County, MN",,0.1092,0.000632,0.006,54.9,1.71,154.9
+1093,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Cottonwood at Brown County, MN",,0.6873,0.0006,0.001,24.4,1.89,65
+1094,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Kanaranzi at Rock County, MN",,1.3387,0.00071,0.00045,7.6,1.4,23.4
+1095,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Minesota River at Scott County, MN",,0.5455,0.0001,0.0005,88.4,4.5,427
+1096,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Minnesota River at Nicollet, MN",,1.3644,0.00024,0.0005,42.7,4.69,313.9
+1097,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Mississippi 1 at Aitkin County, MN",,0.2291,0.0001,0.0005,56.4,1.89,73.1
+1098,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Mississippi 2 at Aitkin County, MN",,0.2073,0.0001,0.0005,67.1,1.71,73.1
+1099,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Root River at Houston County, MN",,2.3434,0.0006,0.00045,33.5,2.9,303
+1100,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Rum River at Isanti County, MN",,1.337,0.00026,0.00033,25.9,2.8,90.7
+1101,"McDonald et al. 1993, Kleinhans and van den Berg, 2011","Zumbro River at Wabasha County, MN",,1.2487,0.00053,0.0008,48.8,3.11,252
+1102,"Messinger, 2009","Anglins Creek near Nallen, WV",60.86,0.0786,0.001,0.010668,17.89,1.38,23.53
+1103,"Messinger, 2009","Anthony Creek near Anthony, WV",372.96,0.0093,0.002,0.178308,41.45,1.37,176.13
+1104,"Messinger, 2009","Big Sandy Creek near Rockville, WV",518,0.0126,0.007,0.545592,49.99,1.62,210.39
+1105,"Messinger, 2009","Blackwater River at Davis, WV",222.48,0.0028,0.001,0.370332,33.22,1.71,46.16
+1106,"Messinger, 2009","Buck Run at Leopold, WV",7.54,0.0331,0.005,0.036576,10.91,0.4,2.86
+1107,"Messinger, 2009","Camp Creek near Camp Creek, WV",82.88,0.0199,0.007,0.166116,27.71,0.78,64
+1108,"Messinger, 2009","Cranberry River near Richwood, WV",208.24,0.0249,0.008,0.21336,32.92,1.1,48.7
+1109,"Messinger, 2009","East Fork Twelvepole Creek near Dunlow, WV",97.12,0.0115,0.001,0.056388,20.73,1.07,27.24
+1110,"Messinger, 2009","Middle Fork at Audra, WV",383.32,0.0046,0.004,0.696468,44.81,1.33,101.94
+1111,"Messinger, 2009","Panther Creek near Panther, WV",80.29,0.0213,0.008,0.21336,17.16,0.94,33.98
+1112,"Messinger, 2009","Payne Branch near Oakvale, WV",22.38,0.0404,0.026,0.193548,11.67,0.5,9.23
+1113,"Messinger, 2009","Rock Creek near Danville, WV",31.6,0.0403,0.004,0.071628,12.62,1.19,20.33
+1114,"Messinger, 2009","Second Creek near Second Creek, WV",209.27,0.0215,0.005,0.126492,34.75,0.9,74.19
+1115,"Messinger, 2009","West Fork Little Kanawha River near Rocksdale, WV",530.95,0.0427,0.001,0.039624,46.94,2.79,127.99
+1116,"Messinger, 2009","Williams River at Dyer, WV",331.52,0.0042,0.002,0.44196,45.11,1.53,112.13
+1117,"Messinger, 2009","KINGS CREEK AT WEIRTON, WV",126.65,0.0194,0.004,0.131064,28.8,1.05,55.5
+1118,"Messinger, 2009","LITTLE KANAWHA RIVER NR WILDCAT, WV",290.08,0.0172,0.002,0.09144,48.77,1.3,91.75
+1119,"Messinger, 2009","Sand Run near Buckhannon, WV",37.04,0.019,0.006,0.105156,15.64,0.55,11.33
+1120,"Metcalf, 2004",Alaqua Creek near Portland FL,216.78,12.3232,0.004,0.00048,15.2,2.44,16.76
+1121,"Metcalf, 2004",Barnetts Creek near Thomasville GA,38.85,0.5013,0.0008,0.00059,4.5,0.61,1.27
+1122,"Metcalf, 2004",Bear Creek near Youngstown FL,174.05,2.3947,0.001,0.00041,14.4,1.62,12.43
+1123,"Metcalf, 2004",Big Coldwater Creek near Milton FL,613.83,1.7697,0.0006,0.0003,35.5,1.46,37.66
+1124,"Metcalf, 2004",Little Double Bridges Creek near Enterprise AL,55.43,2.4372,0.00058,0.00015,10.4,1.04,6.14
+1125,"Metcalf, 2004",Little River near Ashburn GA,22.01,0.0735,0.0002,0.00061,7.1,0.37,0.65
+1126,"Metcalf, 2004",Little River near Midway FL,789.95,1.9366,0.0012,0.00086,29.1,2.29,35.68
+1127,"Metcalf, 2004",Newell Branch near Ashburn GA,16.83,0.1923,0.00047,0.0004,6.6,0.27,0.48
+1128,"Metcalf, 2004",Newell Branch near Worth GA,2.33,0.0169,0.00011,0.00071,3.7,0.18,0.2
+1129,"Metcalf, 2004",Shoal River Near Crestview FL,1227.66,3.2485,0.0012,0.00045,40.6,2.01,75.04
+1130,"Metcalf, 2004",Tired Creek near Cairo GA,155.4,0.2004,0.00017,0.00055,10.9,1.07,7.36
+1131,"Metcalf, 2004",UT to Warrior Creek near Norman Park GA,,0.3907,0.0026,0.00121,3.3,0.3,0.59
+1132,"Metcalf, 2004","BIG COLDWATER CREEK NR MILTON, FLA.",613.83,1.7697,0.0006,0.0003,35.5,1.46,37.66
+1133,"Metcalf, 2004",FISH RIVER NEAR SILVER HILL AL,143.23,0.4278,0.00018,0.00038,14.5,1.49,14.95
+1134,"Metcalf et al., 2009, Li et al., 2015","ECONFINA RIVER NEAR PERRY, FLA.",512.82,0.4431,0.0002,0.00061,11.7,2.23,10.62
+1135,"Metcalf, 2004; Li et al., 2015",Bear Creek near Youngstown,174.05,0.1706,0.00023,0.00132,14.45,1.62,12.43
+1136,"Metcalf, 2004; Li et al., 2015",Brushy Creek near Walnut Hill,126.91,0.3403,0.00078,0.00199,11.7,1.43,9.97
+1137,"Metcalf, 2004; Li et al., 2015",Deep Creek near Suwannee Valley,229.47,0.3282,0.00021,0.00065,10.09,1.68,11.27
+1138,"Metcalf, 2004; Li et al., 2015",Fenholloway River near Foley,155.4,1.2023,0.0008,0.00059,6.1,1.46,7.02
+1139,"Metcalf, 2004; Li et al., 2015",Juniper Creek near Niceville,71.48,0.3959,0.00056,0.00081,11.03,0.94,7.19
+1140,"Metcalf, 2004; Li et al., 2015",New River near Lake Butler,494.69,0.2569,0.00017,0.00055,14.17,1.37,8.81
+1141,"Metcalf, 2004; Li et al., 2015",Shoal River near Mossy Head,318.57,0.4397,0.00051,0.00135,18.04,1.92,37.1
+1142,"Minear and Wright, 2013",MERCED R A HAPPY ISLES BRIDGE NR YOSEMITE CA,468.79,0.25,0.011,0.064,34,2.4,120
+1143,"Mistak and Stille, 2008",Brule River near Florence WI,899.81,0.0161,0.0009,0.0339,33.9,1,38.2
+1144,"Mistak and Stille, 2008",Iron River at Caspian MI,238.54,0.1933,0.0028,0.0079,14.9,0.9,6.4
+1145,"Mistak and Stille, 2008",Peshekee River near Champion MI,344.47,0.05,0.0018,0.0371,40.9,1.7,45.3
+1146,"Mistak and Stille, 2008",Pine Creek near Iron Mountain MI,43.51,4.3636,0.0012,0.0001,14.2,0.6,1.4
+1147,"Mistak and Stille, 2008",Sturgeon River near Foster City MI,613.83,0.1818,0.0002,0.0008,32.6,1.2,25.2
+1148,"Monsalve and Silva, 1983; Kleinhans and van den Berg, 2011","Sinu at Sabananeuva-Cano Viega, Colombia",,1.5152,0.0002,0.0004,140,5,1200
+1149,"Monsalve and Silva, 1983; Kleinhans and van den Berg, 2011","Sinu at Tierralta-Guasimal, Colombia",,0.1207,0.0003,0.00452,145,3,980
+1150,"Monsalve and Silva, 1983; Kleinhans and van den Berg, 2011","Sinu at Urra dam-Tierralta, Colombia",,0.176,0.0006,0.0062,160,3,830
+1151,"Moody et al., 2003","RIO GRANDE BLW TAOS JUNCTION BRIDGE NEAR TAOS, NM",25200.6,,0.001,,35.57,1.1,82.12
+1152,"Moody et al., 2003","RIO MORA NEAR TERRERO, NM",137.79,,0.012,,10.06,0.46,5.15
+1153,"Moody et al., 2003","SAN PEDRO RIVER AT CHARLESTON, AZ.",92.2,,0.001,,35.51,1.01,59.47
+1154,"Moody et al., 2003","VERDE RIVER NEAR CLARKDALE, AZ",104.12,,0.009,,37.7,0.94,67.96
+1155,"Moody et al., 2003","WEST CLEAR CREEK NEAR CAMP VERDE, AZ",75.11,,0.013,,31.09,1.16,72.94
+1156,"Mueller et al., 2005","St. Louis Creek nr Fraser, CO",,0.0053,0.0018,0.076,3.4,0.37,3.4
+1157,"Mueller et al., 2005","Wind River at Riverton, WY",,0.046,0.001,0.022,41.6,1.67,142
+1158,"Mueller et al., 2005; Jones and Seitz, 1980","CLEARWATER RIVER AT SPALDING, ID",,0.0129,0.0003,0.074,142.5,5.27,2210
+1159,"Mueller et al., 2005; Jones and Seitz, 1980","SNAKE RIVER NEAR ANATONE, WA",,0.0575,0.001,0.054,187,5.12,2607
+1160,"Mulvihill et al., 2009","Albright Creek at East Homer, NY",17.64,0.0764,0.018,0.07112,9.88,0.5,8.47
+1161,"Mulvihill et al., 2009","Batten Kill below Mill at Battenville, NY",1025.64,0.0329,0.001,0.039116,59.44,2.12,178.96
+1162,"Mulvihill et al., 2009","Biscuit Brook above Pigeon Brook at Frost Valley, NY",9.63,0.0503,0.021,0.133688667,10.96,0.53,7.67
+1163,"Mulvihill et al., 2009","Buck Creek near Inlet, NY",3.32,0.2065,0.033,0.047244,4.83,0.49,2.24
+1164,"Mulvihill et al., 2009","Bushnellsville, Creek at Shandaken, NY",29.53,0.083,0.018,0.086106,10.9,0.66,8.41
+1165,"Mulvihill et al., 2009","Butternut Creek at Morris, NY",83.4,0.0121,0.001,0.061214,20.23,1.22,29.17
+1166,"Mulvihill et al., 2009","Catherine Creek at Montour Falls, NY",106.45,0.0938,0.0074,0.04018,18.48,0.84,32.6
+1167,"Mulvihill et al., 2009","Cayuga Creek near Lancaster, NY",249.68,0.0162,0.002,0.0896,42.43,1.2,89.2
+1168,"Mulvihill et al., 2009","Cayuga Inlet neat Ithaca, NY",91.17,0.0666,0.004,0.0352,17.07,0.97,22.5
+1169,"Mulvihill et al., 2009","Cazenovia Creek at Ebenezer, NY",349.65,0.0429,0.001,0.0207,52.63,1.47,181.2
+1170,"Mulvihill et al., 2009","Cold Spring Brook at China, NY",3.86,0.088,0.02,0.037084,5.18,0.27,1.47
+1171,"Mulvihill et al., 2009","Conewango Creek at Waterboro, NY",751.1,0.0219,0.002,0.0554,46.63,1,79.9
+1172,"Mulvihill et al., 2009","East Branch Au Sable River at Au Sable Forks, NY",512.82,0.0334,0.002,0.055372,54.1,1.52,182.36
+1173,"Mulvihill et al., 2009",East Branch Neversink River at Denning,23.13,0.0301,0.01,0.147066,21.7,0.73,56.07
+1174,"Mulvihill et al., 2009","East Branch of Delaware River at Margaretville, NY",422.17,0.015,0.001,0.061468,45.59,1.52,114.68
+1175,"Mulvihill et al., 2009","Esopus Creek at Allaben, NY",164.98,0.0531,0.008,0.119634,24.52,1.31,78.44
+1176,"Mulvihill et al., 2009","Fishkill Creek at Hopewell Junction, NY",148.41,0.1228,0.001,0.007874,20.14,1.6,31.43
+1177,"Mulvihill et al., 2009","Fivemile Creek near Kanona, NY",173.01,0.0158,0.0035,0.09055,25.78,0.67,37.7
+1178,"Mulvihill et al., 2009","Flint Creek at Phelps, NY",264.18,0.2394,0.01,0.027,24.13,1.07,48.7
+1179,"Mulvihill et al., 2009","Glowegee Creek at West Milton, NY",67.34,2.9091,0.001,0.000254,15.16,1.22,14.36
+1180,"Mulvihill et al., 2009","Hopkinton Brook at Hopkinton, NY",51.8,0.0934,0.014,0.068326,20.45,0.75,15.57
+1181,"Mulvihill et al., 2009","Irondequoit Creek at Railroad Mills near Fischers, NY",101.53,0.1835,0.003,0.0109,15.68,1.1,12.3
+1182,"Mulvihill et al., 2009","Ischua Creek Tributary near Machias, NY",13.26,1.3545,0.002,0.00065,11.55,0.58,2.5
+1183,"Mulvihill et al., 2009","Kisco River below Mount Kisco, NY",45.58,0.0511,0.009,0.103124,15.92,0.97,17.36
+1184,"Mulvihill et al., 2009","Little Elk Creek at Westford, NY",9.66,0.0529,0.017,0.075184,4.92,0.39,1.93
+1185,"Mulvihill et al., 2009","Little Hoosic River at Petersburg, NY",145.3,0.0462,0.004,0.065532,25.51,1.25,70.79
+1186,"Mulvihill et al., 2009","Little Tonawanda Creek at Linden, NY",57.24,0.0265,0.001,0.0183,16.83,0.8,9.9
+1187,"Mulvihill et al., 2009","Little Tonawanda Creek Tributary near Batavia, NY",2.64,8.0808,0.003,0.00006,6.7,0.27,1.1
+1188,"Mulvihill et al., 2009","Merrill Creek Tributary near Texas Valley, NY",13.78,0.0403,0.009,0.063246,11.64,0.47,7.39
+1189,"Mulvihill et al., 2009","Mink Creek at Richfield Springs, NY",26.94,0.0189,0.005,0.099822,12.41,0.62,7.65
+1190,"Mulvihill et al., 2009","Moose River at McKeever, NY",940.17,0.0855,0.001,0.019812,68.99,2.79,182.36
+1191,"Mulvihill et al., 2009","North Branch of Foulertons Brook at Roseland, NJ",108.78,0.1446,0.02,0.040894,4.65,0.49,2.04
+1192,"Mulvihill et al., 2009","North Creek near Ephratah, NY",16.89,0.1958,0.019,0.032258,17.22,0.55,2.83
+1193,"Mulvihill et al., 2009","Northrup Creek at North Greece, NY",26.16,0.0512,0.006,0.0545,11.43,0.77,12.4
+1194,"Mulvihill et al., 2009","Otselic River near Upper Lisle, NY",562.03,0.0372,0.002,0.058674,53.48,1.8,136.77
+1195,"Mulvihill et al., 2009","Plum Brook near Grantville, NY",113.7,0.0319,0.002,0.04572,18.26,1.2,19.2
+1196,"Mulvihill et al., 2009","Roeliff Jansen Kill near Hillsdale, NY",71.22,0.1596,0.005,0.020066,17.33,1.06,19.54
+1197,"Mulvihill et al., 2009","Sage Brook near South New Berlin, NY",1.81,0.1614,0.035,0.028702,3.37,0.22,0.82
+1198,"Mulvihill et al., 2009","Schoharie Creek at Prattsville, NY",613.83,0.0207,0.002,0.102616,97.55,1.75,236.16
+1199,"Mulvihill et al., 2009","Shackham Brook near Truxton, NY",7.64,0.0685,0.014,0.043688,8.01,0.35,4.93
+1200,"Mulvihill et al., 2009","Steele Creek at Ilion, NY",67.86,0.1437,0.011,0.049022,14.68,1.06,9.74
+1201,"Mulvihill et al., 2009","Stony Brook near Dover Plains, NY",5,0.4649,0.052,0.045974,11.38,0.68,2.49
+1202,"Mulvihill et al., 2009","Stony Brook Tributary at South Dansville, NY",8.16,0.0684,0.014,0.0372,8.3,0.3,4.4
+1203,"Mulvihill et al., 2009","Tonawanda Creek at Rapids, NY",903.91,0.0681,0.001,0.0184,57.2,2.07,117.2
+1204,"Mulvihill et al., 2009","Tributary to Mill Creek Tributary near Lowville, NY",4.3,0.1476,0.023,0.025908,10.17,0.27,4.25
+1205,"Mulvihill et al., 2009","Trout Creek near Trout Creek, NY",52.32,0.048,0.005,0.053848,16.48,0.85,17.84
+1206,"Mulvihill et al., 2009","Valley Brook near Morehouseville, NY",8.5,0.0463,0.025,0.147066,10.71,0.45,3.77
+1207,"Mulvihill et al., 2009","West Branch Au Sable River near Lake Placid, NY",300.44,0.6333,0.001,0.002032,35.56,2.12,87.78
+1208,"Mulvihill et al., 2006",IRONDEQUOIT CR ABOVE BLOSSOM RD NEAR ROCHESTER NY,367.78,0.2497,0.003,0.010922,19,1.5,29.73
+1209,"Mulvihill et al., 2009",BISCUIT BK ABOVE PIGEON BK AT FROST VALLEY NY,9.63,0.0505,0.021,0.13369,10.96,0.53,7.67
+1210,"Mulvihill et al., 2009","Bouquet River at Willsboro, NY",699.3,0.0254,0.003,0.122174,49.15,1.71,175.56
+1211,"Mulvihill et al., 2009",BUSHNELLSVILLE CR AT SHANDAKEN NY,29.53,0.0836,0.018,0.08611,10.9,0.66,8.41
+1212,"Mulvihill et al., 2009","Chestnut Creek at Grahamsville, NY",54.13,0.0847,0.012,0.068072,20.86,0.79,34.83
+1213,"Mulvihill et al., 2009",ESOPUS CREEK AT ALLABEN NY,164.98,0.0531,0.008,0.11963,24.52,1.31,78.44
+1214,"Mulvihill et al., 2009","Esopus Creek at Cold Brook, NY",497.28,0.0361,0.005,0.15748,59.34,1.87,200.2
+1215,"Mulvihill et al., 2009","Horse Pound Brook near Lake Carmel, NY",10.2,0.0879,0.009,0.034036,14.6,0.55,5.55
+1216,"Mulvihill et al., 2009","Hunter Brook south of Yorktown, NY",19.22,0.0528,0.019,0.166116,16.75,0.76,19.23
+1217,"Mulvihill et al., 2009","Independence River at Donnattsburg, NY",229.73,0.0469,0.005,0.086614,35.38,1.34,68.53
+1218,"Mulvihill et al., 2009",KINDERHOOK CREEK AT ROSSMAN NY,852.11,0.0126,0.002,0.17094,45.11,1.77,159.71
+1219,"Mulvihill et al., 2009","Mahwah River near Suffern, NY",31.86,0.0519,0.002,0.01905,13.11,0.82,9.17
+1220,"Mulvihill et al., 2009","Manor Kill at West Conesville near Gilboa, NY",83.92,0.2193,0.01,0.213106,17.07,0.7,22.74
+1221,"Mulvihill et al., 2009",NEVERSINK RIVER NEAR CLARYVILLE NY,172.49,0.0238,0.005,0.16307,31.15,1.28,118.36
+1222,"Mulvihill et al., 2009","Platte Kill near Duraven, NY",90.39,0.053,0.01,0.087122,16.96,0.76,33.13
+1223,"Mulvihill et al., 2009","Ramapo River at Ramap, NY",225.07,0.029,0.004,0.084074,33.26,1.01,60.03
+1224,"Mulvihill et al., 2009",SANDY CREEK NEAR ADAMS NY,354.83,0.0272,0.002,0.07696,33.73,1.73,142.43
+1225,"Mulvihill et al., 2009","Tenmile River near Gaylordsville, CT",525.77,0.038,0.002,0.058928,31.48,1.85,85.52
+1226,"Mulvihill et al., 2009","Tremper Kill near Andes, NY",85.99,0.0412,0.01,0.103124,19.96,0.7,25.88
+1227,"Mulvihill et al., 2009","Valatie Kill near Nassau, NY",24.55,0.0312,0.002,0.024892,11.75,0.64,6.43
+1228,"Mulvihill et al., 2009","West Branch Delaware River at Walton, NY",859.88,0.0176,0.001,0.048768,74.22,1.42,188.02
+1229,"Mulvihill et al., 2005",Ball Creek at Stow,23.47,0.0319,0.002,0.019,17.3,0.5,16.4
+1230,"Mulvihill et al., 2005",Big Creek near Howard,16.37,0.0911,0.012,0.0559,7,0.7,8.5
+1231,"Mulvihill et al., 2005",Butternut Creek near Jamesville,83.4,0.0299,0.005,0.0405,25.1,0.4,15.5
+1232,"Mulvihill et al., 2005",Canandaigua Outlet Tributary near Alloway,7.61,12.1212,0.004,0.0001,4.6,0.5,2.2
+1233,"Mulvihill et al., 2005",Catatonk Creek Northwest of Owego,391.09,0.0109,0.001,0.0558,74.7,1,104.8
+1234,"Mulvihill et al., 2005",Cuthrie Run near Big Flats,13.96,0.0748,0.016,0.0648,10.1,0.5,7.5
+1235,"Mulvihill et al., 2005",East Branch Allen Creek at Pittsford,24.6,0.3409,0.003,0.0048,7.6,0.9,3.4
+1236,"Mulvihill et al., 2005",Second Creek Tributary at Alton,2.77,4.2424,0.007,0.0005,3.6,0.5,1.3
+1237,"Mulvihill et al., 2005",OATKA CREEK AT GARBUTT NY,518,0.0232,0.003,0.07061,49.89,0.9,65.41
+1238,"Naito, 2019, PhD thesis; Lauer et al. 2017 geomorphology; Naito and Parker, 2020","MINNESOTA RIVER NEAR JORDAN, MN",41957.84,2.2222,0.00022,0.0003,107,5,700
+1239,"Nordin, 1963; Topping 1997; Nordin and Beverage, 1965; Griffin et al. 2014; Griffin et al., 2005","RIO PUERCO NEAR BERNARDO, NM",,4.5914,0.00125,0.00033,23,2,40
+1240,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Big Salmon River near Carmacks,,0.0235,0.0014,0.049,104,1.36,255
+1241,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Klondike River above Bonanza Creek,,0.0382,0.00159,0.05,87,1.98,354
+1242,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Pelly River at Pelly Crossing,,0.0274,0.00056,0.057,242,4.6,2661
+1243,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Stewart River at Mayo,,0.0332,0.00026,0.022,333,4.64,2280
+1244,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Stewart River at Stewart Crossing,,0.0158,0.00032,0.052,356,4.24,2718
+1245,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Wheaton River near Carcross,,0.033,0.0015,0.027,48,0.98,40
+1246,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Yukon River above Frank Creek,,0.0835,0.0005,0.014,111,3.86,733
+1247,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Yukon River at Carmacks,,0.0197,0.00047,0.067,311,4.63,2890
+1248,"Northwest Hydraulic Consultants and Canada Dept. of Indian and Northern Affairs, 1975",Yukon River at Dawson,,0.0396,0.00056,0.058,493,6.77,9628
+1249,"O'Connor et al., 2014","WILSON RIVER NEAR TILLAMOOK, OR",494,0.0122,0.000471,0.045,52,1.93,416.99
+1250,"Oltman, 1968; Li et al., 2015",Amazon River at Obidos,,1.2758,0.00000875,0.0002,2286,48.12,216340.71
+1251,"Padmanabhan and Johnson, 2010","ROSEAU RIVER BELOW STATE DITCH 51 NR CARIBOU, MN",3677.79,,0.00025,,26.7,1.89,35
+1252,"Padmanabhan and Johnson, 2010","WILD RICE RIVER AT TWIN VALLEY, MN",2419.05,,0.0008,,22.77,1.1,23.42
+1253,"Park, 2015 PhD thesis; slope from Lidar - open topography",RUSSIAN R NR GUERNEVILLE CA,3465.41,0.1451,0.0004,0.0071,138,4.25,875
+1254,"Parker et al., 2003",Bear,,0.012007273,0.0025,0.155,34.024824,1.228344,60.31488324
+1255,"Parker et al., 2003",Challis,,0.066213182,0.0186,0.096,7.65048,0.56388,5.861587245
+1256,"Parker et al., 2003",Lapwai,,0.044524551,0.0074,0.07,11.59764,0.694944,16.14060256
+1257,"Parker et al., 2003",Lemhi,,0.018534303,0.0043,0.108,21.500592,0.768096,25.48516193
+1258,"Parker et al., 2003",LF Payette 1,,0.087427724,0.0068,0.05,27.29484,1.060704,33.98021591
+1259,"Parker et al., 2003",LF Payette McCall,,0.165163234,0.0087,0.0325,27.2796,1.018032,33.98021591
+1260,"Parker et al., 2003",Meadow,,0.107786311,0.0231,0.135,22.728936,1.039368,65.12874716
+1261,"Parker et al., 2003",MF Salmon,,0.02470654,0.0055,0.1575,23.429976,1.167384,41.62576449
+1262,"Parker et al., 2003",Napias,,0.040963905,0.0213,0.1095,8.805672,0.347472,4.247526989
+1263,"Parker et al., 2003",NF Payette,,0.026157382,0.0059,0.155,34.058352,1.133856,56.63369318
+1264,"Parker et al., 2003",Potlach,,0.029550636,0.0022,0.0645,47.75,1.43,186.9
+1265,"Parker et al., 2003",Reeds,,0.032775581,0.0113,0.1675,13.47216,0.801624,24.918825
+1266,"Parker et al., 2003",SF Clearwater Elk,,0.032025149,0.0053,0.107,23.664672,1.0668,43.89111222
+1267,"Parker et al., 2003",SF Clearwater Stites,,0.01566067,0.0026,0.1055,59.8932,1.048512,116.099071
+1268,"Parker et al., 2003",SF Salmon,,0.033496987,0.0019,0.0548,39.084504,1.594104,82.11885512
+1269,"Parker et al., 2003",Wildhorse,,0.076258562,0.0158,0.1175,12.874752,0.935736,24.918825
+1270,"Phillips and Scatena, 2012; Phillips and Jerolmack, 2014","RIO MAMEYES NR SABANA, PR",17.82,0.0658,0.013,0.152,22,1.27,34
+1271,"Pitlick and Cress, 2000",Colorado River reach no. 1,,0.0534,0.0021,0.057,107,2.39,622.67
+1272,"Pitlick and Cress, 2000",Colorado River reach no. 10,,0.0366,0.00034,0.028,168.8,4.97,1543.45
+1273,"Pitlick and Cress, 2000",Colorado River reach no. 2,,0.0548,0.0015,0.052,77.5,3.14,579.53
+1274,"Pitlick and Cress, 2000",Colorado River reach no. 3,,0.0444,0.00175,0.058,102,2.43,608.43
+1275,"Pitlick and Cress, 2000",Colorado River reach no. 4,,0.043,0.0013,0.052,160.5,2.84,978.71
+1276,"Pitlick and Cress, 2000",Colorado River reach no. 5,,0.0473,0.001,0.047,128.5,3.67,1020.76
+1277,"Pitlick and Cress, 2000",Colorado River reach no. 6,,0.0459,0.00066,0.038,137.35,4.37,1319.62
+1278,"Pitlick and Cress, 2000",Colorado River reach no. 8,,0.0611,0.00149,0.07,195.5,4.74,2928.89
+1279,"Pitlick and Cress, 2000",Colorado River reach no. 9,,0.045,0.00047,0.034,127.05,5.37,1428.97
+1280,"Pitlick and Cress, 2000",Colorado River reach no. 9,,0.0564,0.00098,0.063,103.05,5.99,2012.31
+1281,"Pugh and Redman, 2019","ALUM FORK SALINE RIVER NEAR REFORM, AR",69.93,0.2321,0.007,0.0205,37.5,1.21,20
+1282,"Pugh and Redman, 2019; estimated discharge from USGS data","KIAMICHI RIVER NEAR BIG CEDAR, OK",102.56,0.4738,0.004,0.0063,42.2,1.23,25
+1283,"Rachol and Boley-Morse, 2009","Augusta Creek near Augusta, MI",100.75,0.0542,0.00201,0.01,7.5,0.45,2.27
+1284,"Rachol and Boley-Morse, 2009","Belle River at Memphis, MI",391.09,0.169,0.00234,0.011,22.86,1.31,40.72
+1285,"Rachol and Boley-Morse, 2009","Big Sable River near Freesoil, MI",328.93,1.6711,0.00088,0.00025,21.34,0.78,14.1
+1286,"Rachol and Boley-Morse, 2009","Black River near Garnet, MI",72.52,0.0658,0.0179,0.095,10.94,0.58,10.34
+1287,"Rachol and Boley-Morse, 2009","Cass River near Cass City, MI",929.81,0.0058,0.00065,0.078,31.67,1.16,35.28
+1288,"Rachol and Boley-Morse, 2009","Coldwater River near Hodunk, MI",758.87,0.0371,0.0021,0.025,28.32,0.73,24.32
+1289,"Rachol and Boley-Morse, 2009","Deer Creek near Dansville, MI",42.22,1.1381,0.00061,0.0003,8.29,0.92,4.56
+1290,"Rachol and Boley-Morse, 2009","East Branch Pine River near Tustin, MI",155.4,0.1105,0.00687,0.031,10.73,0.82,11.75
+1291,"Rachol and Boley-Morse, 2009","Flowerfield Creek near Flowerfield, MI",110.33,2.518,0.00238,0.00022,9.88,0.38,2.83
+1292,"Rachol and Boley-Morse, 2009","Galien River near Sawyer, MI",209.01,1.8288,0.00045,0.00014,13.29,0.94,7.76
+1293,"Rachol and Boley-Morse, 2009","Kalamazoo River near Marengo, MI",691.53,0.2853,0.00078,0.001,34.5,0.6,18.09
+1294,"Rachol and Boley-Morse, 2009","Looking Glass River near Eagle, MI",725.2,0.0223,0.00073,0.019,27.55,0.96,24
+1295,"Rachol and Boley-Morse, 2009","Middle Branch Black River near South Haven,",214.97,4.2292,0.00065,0.00009,15.12,0.97,10.7
+1296,"Rachol and Boley-Morse, 2009","Middle Branch Ontonagon River near Paulding,",424.76,0.0723,0.00302,0.021,21.4,0.83,22.4
+1297,"Rachol and Boley-Morse, 2009","Mill Creek near Avoca, MI",437.71,0.1036,0.00022,0.002,21.34,1.55,22.06
+1298,"Rachol and Boley-Morse, 2009",North Branch Clinton River at 33 Mile Road n,128.72,0.0232,0.00195,0.021,15.76,0.41,5.3
+1299,"Rachol and Boley-Morse, 2009","North Branch Clinton River near Meade, MI",232.06,0.1712,0.00162,0.009,18.41,1.57,34.66
+1300,"Rachol and Boley-Morse, 2009","North Branch Pentwater River near Pentwater,",109.56,1.1066,0.00068,0.00021,15.24,0.56,5.49
+1301,"Rachol and Boley-Morse, 2009","Pigeon River at Afton, MI",360.01,0.0576,0.00318,0.026,13.11,0.78,11.13
+1302,"Rachol and Boley-Morse, 2009",Pine River at High School Bridge near Hoxeyv,634.55,0.5327,0.00259,0.003,19.63,1.02,24.95
+1303,"Rachol and Boley-Morse, 2009","Portage River at Tiplady Road near Pinckney,",204.87,0.4983,0.0005,0.00038,8.38,0.62,2.61
+1304,"Rachol and Boley-Morse, 2009","Portage River at W Avenue near Vicksburg, MI",176.64,0.1346,0.00047,0.001,15.82,0.47,4.08
+1305,"Rachol and Boley-Morse, 2009","Prairie River near Nottawa, MI",274.54,0.4707,0.00049,0.00025,23.47,0.4,5.47
+1306,"Rachol and Boley-Morse, 2009","Rabbit River near Hopkins, MI",184.93,1.2189,0.00056,0.00023,12.62,0.83,6.6
+1307,"Rachol and Boley-Morse, 2009","Red Cedar River near Williamston, MI",422.17,0.6681,0.00035,0.00027,15,0.85,7.39
+1308,"Rachol and Boley-Morse, 2009","Sashabaw Creek near Drayton Plains, MI",54.13,0.0444,0.00069,0.005,7.32,0.53,1.95
+1309,"Rachol and Boley-Morse, 2009","South Branch Au Sable River near Luzerne, MI",1038.59,0.0305,0.00155,0.021,26.61,0.68,18.7
+1310,"Rachol and Boley-Morse, 2009","South Branch Flint River near Columbiaville,",572.39,0.0252,0.00032,0.006,23.38,0.78,11.41
+1311,"Rachol and Boley-Morse, 2009","South Branch Hog Creek near Allen, MI",126.13,0.0063,0.00024,0.009,19.2,0.39,3.28
+1312,"Rachol and Boley-Morse, 2009","St. Joseph River at Burlington, MI",533.54,0.0214,0.00079,0.013,21.95,0.58,9.66
+1313,"Rachol and Boley-Morse, 2009","St. Joseph River at Clarendon, MI",372.96,0.1926,0.00033,0.00075,22.28,0.72,9.8
+1314,"Rachol and Boley-Morse, 2009","St. Joseph River near Burlington, MI",520.59,0.3566,0.0004,0.00063,27.22,0.93,18.72
+1315,"Rachol and Boley-Morse, 2009","Stony Creek near Romeo, MI",66.3,0.0723,0.00482,0.017,12.31,0.42,5.3
+1316,"Rachol and Boley-Morse, 2009","Sturgeon River near Wolverine, MI",512.82,0.0588,0.00396,0.029,16.46,0.71,14.22
+1317,"Rachol and Boley-Morse, 2009","Thornapple River near Hastings, MI",997.15,0.0462,0.0017,0.03,56.97,1.34,125.02
+1318,"Rachol and Boley-Morse, 2009","Wanadoga Creek near Battle Creek, MI",125.1,0.19,0.00006,0.00007,16.92,0.37,1.67
+1319,"Rachol and Boley-Morse, 2009","West Branch Stony Creek near Washington, MI",58.27,0.089,0.00503,0.012,7.83,0.35,2.35
+1320,"Schumm, 1960; Li et al., 2015","Arikaree River at Haigler, NE",3781.39,4.4335,0.002,0.00025,20.73,0.91,99.11
+1321,"Schumm, 1960; Li et al., 2015","Frenchman Creek at Hamlet, NE",3833.19,5.7813,0.0013,0.00027,10.97,1.98,24.07
+1322,"Schumm, 1960; Li et al., 2015","Greybull River near Basin, WY",2926.69,1.718,0.0015,0.0005,40.84,0.94,88.91
+1323,"Schumm, 1960; Li et al., 2015","Middle Fork Powder River near Kaycee, WY",1165.5,3.048,0.0015,0.0004,14.33,1.34,46.16
+1324,"Schumm, 1960; Li et al., 2015","Owl Creek near Thermopolis, WY",1253.56,5.146,0.0015,0.00021,10.67,1.19,16.57
+1325,"Schumm, 1960; Li et al., 2015","Paradise Creek near Paradise, KS",549.08,2.8817,0.001,0.0005,9.75,2.38,36.81
+1326,"Schumm, 1960; Li et al., 2015","Republican River near Benkleman, NE",12354.25,5.5418,0.003,0.00025,37.49,0.76,61.59
+1327,"Schumm, 1960; Li et al., 2015","South Fork Republican River near Benkleman, NE",6682.17,1.7703,0.002,0.00048,30.48,0.7,127.43
+1328,"Schumm, 1960; Li et al., 2015","South Loup River near Cumro, NE",3470.59,16.1821,0.003,0.00025,43.59,2.23,58.9
+1329,"Schumm, 1960; Li et al., 2015","White River at Interior, SD",,4.2857,0.002,0.0005,89.31,1.77,308.65
+1330,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Carrathool, New South Wales, Australia)",,0.4051,0.000133,0.0013,64.92,6.55,453.07
+1331,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Currawarna, New South Wales, Australia)",,0.6201,0.000115,0.00063,76.81,5.67,396.44
+1332,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Darlington Point, New South Wales, Australia)",,0.577,0.000133,0.00071,67.06,5.1,311.49
+1333,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Hay, New South Wales, Australia)",,0.4834,0.000115,0.00095,74.68,6.67,566.34
+1334,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Maude, New South Wales, Australia)",,0.5089,0.000076,0.00057,50.29,6.32,254.85
+1335,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Narrandera, New South Wales, Australia)",,0.8222,0.00021,0.0009,74.98,5.86,566.34
+1336,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Wantabadgery, New South Wales, Australia)",,0.8166,0.00028,0.00088,73.46,4.17,368.12
+1337,"Schumm, 1960; Li et al., 2015","Murrumbidgee River (Yarrada Lagoon, New South Wales, Australia)",,0.7208,0.000133,0.00052,70.1,4.66,283.17
+1338,"Sherwood and Huitger, 2005","Beaver Creek near Springfield, OH",101.53,0.0808,0.0017,0.01562,15.91,1.23,19.51
+1339,"Sherwood and Huitger, 2005",Big Creek at McClure,46.88,0.2643,0.00161,0.0048,13.1,1.3,
+1340,"Sherwood and Huitger, 2005","Big Four Hollow Creek near Lake Hope, OH",2.62,0.1414,0.0091,0.01343,6.55,0.34,1.53
+1341,"Sherwood and Huitger, 2005",Blake Run near Reily,0.75,0.0693,0.01472,0.03863,4.2,0.3,1.3
+1342,"Sherwood and Huitger, 2005",Bull Creek,8.11,0.2468,0.0059,0.01241,6.64,0.86,5.72
+1343,"Sherwood and Huitger, 2005",Chagrin River at Fullertown,81.33,0.075,0.00751,0.06068,21,1,
+1344,"Sherwood and Huitger, 2005",Clear Creek near Rockbridge,230.51,0.0452,0.00111,0.03123,21.9,2.1,77.3
+1345,"Sherwood and Huitger, 2005",Crooked Creek at Alma,20.75,0.0806,0.00735,0.05527,25.9,1,
+1346,"Sherwood and Huitger, 2005",Dry Run near Bangs,1.29,0.0827,0.01267,0.02785,4.7,0.3,
+1347,"Sherwood and Huitger, 2005",Eagle Creek at Phalanx Station,252.78,0.1012,0.0005,0.00416,33.31,1.39,34.55
+1348,"Sherwood and Huitger, 2005",Etna Creek,2.85,0.1206,0.0078,0.01517,4.51,0.39,1.47
+1349,"Sherwood and Huitger, 2005",Gallman Creek near Monticello,4.92,0.1147,0.00198,0.00523,5.2,0.5,
+1350,"Sherwood and Huitger, 2005",Grand River near Painesville,1774.14,0.0089,0.00058,0.07493,96,1.9,300.2
+1351,"Sherwood and Huitger, 2005",Hayden Run,2.69,0.0732,0.0025,0.0106,4.72,0.51,1.81
+1352,"Sherwood and Huitger, 2005",Higgins Run near Higginsport,1.42,0.1933,0.05042,0.09486,12.1,0.6,20.1
+1353,"Sherwood and Huitger, 2005",Hinkley Creek at Charlestown,20.33,0.0588,0.00157,0.01294,12.1,0.8,5
+1354,"Sherwood and Huitger, 2005",Keith Fork at Keith,101.01,0.1303,0.00273,0.01143,12.8,0.9,
+1355,"Sherwood and Huitger, 2005","Licking River near Newark, OH",1390.82,0.0287,0.0003,0.01471,75.59,2.32,291.66
+1356,"Sherwood and Huitger, 2005",Little Mill Creek near Coshocton,10.41,0.1242,0.00598,0.02917,10.8,1,11
+1357,"Sherwood and Huitger, 2005","Mill Creek near Berlin Center, OH",49.47,0.0408,0.0031,0.04505,11.37,0.98,14.16
+1358,"Sherwood and Huitger, 2005","Mill Creek near Chauncy, OH",3.83,0.1307,0.0067,0.0142,5.79,0.46,2.78
+1359,"Sherwood and Huitger, 2005",No Name Creek at No Name,9.89,0.0963,0.01632,0.0719,14.4,0.7,
+1360,"Sherwood and Huitger, 2005",North Fork at Bath Center,14.45,0.0963,0.00641,0.02823,9.4,0.7,9.1
+1361,"Sherwood and Huitger, 2005","North Fork Massie Creek at Cedarville, OH",74.85,0.0197,0.0003,0.0084,13.99,0.91,3.94
+1362,"Sherwood and Huitger, 2005",Ohio Brush Creek near West Union,1002.33,0.0378,0.00064,0.03793,63.8,3.7,410.6
+1363,"Sherwood and Huitger, 2005","Old Woman Creek at Berlin Road near Huron, OH",57.24,0.1039,0.0019,0.01517,13.93,1.37,17.84
+1364,"Sherwood and Huitger, 2005",Price Creek near Brennersville,53.61,0.0242,0.00146,0.03657,17.9,1,
+1365,"Sherwood and Huitger, 2005",Salt Creek,196.06,0.1322,0.0015,0.01383,30.02,2.01,59.18
+1366,"Sherwood and Huitger, 2005","Salt Creek at Tarlton, OH",29.78,0.0855,0.0065,0.04144,16.73,0.9,26.05
+1367,"Sherwood and Huitger, 2005",Sandusky River near Bucyrus,229.99,0.0265,0.00149,0.0443,29.7,1.3,45.6
+1368,"Sherwood and Huitger, 2005",Sandy Run near Lake Hope,12.92,0.1199,0.00137,0.00554,9.6,0.8,9.4
+1369,"Sherwood and Huitger, 2005","Shade River near Chester, OH",404.04,0.0939,0.0012,0.0179,27.22,2.31,59.47
+1370,"Sherwood and Huitger, 2005",Skull Fork near Londonderry,69.67,0.0175,0.0001,0.00347,10.8,1,
+1371,"Sherwood and Huitger, 2005",Trail Run,14.12,0.1626,0.0051,0.01866,10.52,0.98,16.71
+1372,"Sherwood and Huitger, 2005","Unamed Trib to lost creek near Farmer, OH",10.96,0.1376,0.0018,0.00703,8.9,0.89,7.08
+1373,"Sherwood and Huitger, 2005",Walnut Creek near Boughtonville,12.85,0.0583,0.00568,0.04134,10.2,0.7,
+1374,"Sherwood and Huitger, 2005",Wayne Creek at Waynesville,2.62,0.1974,0.02659,0.04898,6.3,0.6,7.9
+1375,"Sherwood and Huitger, 2005",West Branch Mahoning River near Ravenna,56.46,0.0665,0.00391,0.0392,17.2,1.1,25.8
+1376,"Sherwood and Huitger, 2005",Wood Run near Woodsfield,1.37,0.2321,0.0397,0.05183,7.6,0.5,5.4
+1377,"Sherwood and Huitger, 2005",Yellow Creek at Botzum,79.51,0.0553,0.00496,0.05983,19.3,1.1,35.4
+1378,"Sherwood and Huitger, 2005",Yellow Creek near Hammondsville,380.73,0.0559,0.00333,0.05412,38.5,1.5,82.7
+1379,"Sherwood and Huitger, 2005; Li et al., 2015",Beaver Creek,101.53,0.0808,0.0017,0.01562,15.91,1.23,19.51
+1380,"Sherwood and Huitger, 2005; Li et al., 2015",Beech Creek,45.07,0.1694,0.0029,0.01113,12.8,1.07,21.95
+1381,"Sherwood and Huitger, 2005; Li et al., 2015",Big 4 Hollow Creek,2.62,0.1414,0.0091,0.01343,6.55,0.34,1.53
+1382,"Sherwood and Huitger, 2005; Li et al., 2015",Bokengehalas Creek,94.02,0.0584,0.0021,0.01773,19.17,0.81,15.35
+1383,"Sherwood and Huitger, 2005; Li et al., 2015",Mad River 1,18.93,0.0783,0.0021,0.01169,11.19,0.72,7.93
+1384,"Sherwood and Huitger, 2005; Li et al., 2015",Mill Creek,,0.1307,0.0067,0.0142,5.79,0.46,2.78
+1385,"Sherwood and Huitger, 2005; Li et al., 2015",N Fork Massie Cr,74.85,0.0197,0.0003,0.0084,13.99,0.91,3.94
+1386,"Sherwood and Huitger, 2005; Li et al., 2015",Neff Run,1.97,0.1367,0.0067,0.00978,4.57,0.33,1.02
+1387,"Sherwood and Huitger, 2005; Li et al., 2015",Sandusky Creek,1.89,0.1899,0.0123,0.01699,4.39,0.43,1.87
+1388,"Sherwood and Huitger, 2005; Li et al., 2015",Tar Hollow Creek,3.5,0.2768,0.0087,0.01103,7.74,0.58,3.4
+1389,"Sherwood and Huitger, 2005; Li et al., 2015",UT to Lost Creek,10.96,0.1376,0.0018,0.00703,8.9,0.89,7.08
+1390,"Sherwood and Huitger, 2005",GREENVILLE CREEK NEAR BRADFORD OH,499.87,0.0328,0.0011,0.02786,43.43,1.37,70.51
+1391,"Sherwood and Huitger, 2005",TIFFIN RIVER AT STRYKER OH,1061.9,0.71,0.0001,0.00021,37,2.46,54.65
+1392,"Singer, 2010",Sacramento River 1,,0.0861,0.00092,0.05407919,152.4,8.35,3157.63
+1393,"Singer, 2010",Sacramento River 10,,0.2544,0.00109,0.027525957,114.3,10.6,3368.49
+1394,"Singer, 2010",Sacramento River 100,,3.7562,0.00029,0.000540167,142.9,11.54,1913.59
+1395,"Singer, 2010",Sacramento River 101,,1.2501,0.00005,0.000227494,152.4,9.38,1902.22
+1396,"Singer, 2010",Sacramento River 102,,3.7757,0.00032,0.000548663,161.9,10.68,2178.99
+1397,"Singer, 2010",Sacramento River 103,,1.4626,0.00009,0.000340791,133.4,9.14,1535.98
+1398,"Singer, 2010",Sacramento River 104,,1.0338,0.00007,0.000458557,181,11.17,2608.97
+1399,"Singer, 2010",Sacramento River 105,,1.2869,0.00007,0.000368349,171.5,11.17,2472.03
+1400,"Singer, 2010",Sacramento River 11,,0.1903,0.00073,0.026030896,76.2,11.2,1851.44
+1401,"Singer, 2010",Sacramento River 12,,0.0892,0.00063,0.052944905,114.3,12.37,3451.26
+1402,"Singer, 2010",Sacramento River 13,,0.1854,0.0012,0.050776551,76.2,12.94,2603.78
+1403,"Singer, 2010",Sacramento River 14,,0.0548,0.00059,0.075010983,104.8,11.49,2998.19
+1404,"Singer, 2010",Sacramento River 15,,0.093,0.00035,0.029750039,95.3,13.05,3792.3
+1405,"Singer, 2010",Sacramento River 16,,0.0864,0.00062,0.048538475,114.3,11.16,2896.84
+1406,"Singer, 2010",Sacramento River 17,,0.2888,0.00087,0.023408014,114.3,12.82,3677.94
+1407,"Singer, 2010",Sacramento River 18,,0.1696,0.00104,0.048051609,171.5,12.93,5411.8
+1408,"Singer, 2010",Sacramento River 19,,0.3071,0.00039,0.009433679,152.4,12.26,4688.8
+1409,"Singer, 2010",Sacramento River 2,,0.0574,0.00119,0.077784783,152.4,6.19,1689.57
+1410,"Singer, 2010",Sacramento River 20,,0.3553,0.00008,0.001607392,228.6,11.78,7646.22
+1411,"Singer, 2010",Sacramento River 21,,0.0242,0.00027,0.065737885,133.4,9.72,3719.66
+1412,"Singer, 2010",Sacramento River 22,,0.0409,0.00061,0.081378729,171.5,9,3533.11
+1413,"Singer, 2010",Sacramento River 23,,0.0365,0.0006,0.080884284,161.9,8.11,2980.24
+1414,"Singer, 2010",Sacramento River 24,,0.056,0.00074,0.07314272,104.8,9.14,1608.86
+1415,"Singer, 2010",Sacramento River 25,,0.0437,0.00062,0.059552248,133.4,6.92,1929.47
+1416,"Singer, 2010",Sacramento River 26,,0.0714,0.00071,0.054465858,133.4,9.03,1867.7
+1417,"Singer, 2010",Sacramento River 27,,0.0561,0.00051,0.033150317,114.3,6.02,1403.65
+1418,"Singer, 2010",Sacramento River 28,,0.0898,0.00112,0.069330453,133.4,9.18,1958.53
+1419,"Singer, 2010",Sacramento River 29,,0.1022,0.00077,0.031583553,142.9,6.92,2065.51
+1420,"Singer, 2010",Sacramento River 3,,0.0839,0.00119,0.05526036,95.3,6.43,919.35
+1421,"Singer, 2010",Sacramento River 30,,0.2098,0.00038,0.010095306,95.3,9.2,1402.41
+1422,"Singer, 2010",Sacramento River 31,,0.0552,0.00052,0.045889815,104.8,8.04,1584.8
+1423,"Singer, 2010",Sacramento River 32,,0.126,0.00065,0.028518052,95.3,9.12,1565.16
+1424,"Singer, 2010",Sacramento River 33,,0.1511,0.00079,0.028901133,114.3,9.12,1948.91
+1425,"Singer, 2010",Sacramento River 34,,0.3793,0.00051,0.008106626,114.3,9.95,2171.92
+1426,"Singer, 2010",Sacramento River 35,,0.1479,0.00094,0.044345976,142.9,11.51,3521
+1427,"Singer, 2010",Sacramento River 36,,5.7136,0.00059,0.000598293,114.3,9.56,1802.95
+1428,"Singer, 2010",Sacramento River 37,,0.0957,0.00048,0.033667833,161.9,11.08,2833.89
+1429,"Singer, 2010",Sacramento River 38,,0.0153,0.00018,0.050469445,114.3,7.09,1296.2
+1430,"Singer, 2010",Sacramento River 39,,6.1362,0.00073,0.00069341,104.8,9.62,1380.81
+1431,"Singer, 2010",Sacramento River 4,,0.0793,0.00078,0.034692787,76.2,5.82,825.12
+1432,"Singer, 2010",Sacramento River 40,,0.1417,0.00075,0.018286001,133.4,5.7,1194
+1433,"Singer, 2010",Sacramento River 41,,0.0713,0.00016,0.010966874,104.8,8.06,1249.87
+1434,"Singer, 2010",Sacramento River 42,,0.0544,0.00055,0.039560921,133.4,6.46,1627.99
+1435,"Singer, 2010",Sacramento River 43,,7.4025,0.00135,0.000857414,142.9,7.76,2061.87
+1436,"Singer, 2010",Sacramento River 44,,0.0921,0.00041,0.019140497,171.5,7.09,2639.01
+1437,"Singer, 2010",Sacramento River 45,,0.05,0.00032,0.029475083,181,7.6,2434.63
+1438,"Singer, 2010",Sacramento River 46,,1.4169,0.00022,0.000565194,133.4,6.01,1706.65
+1439,"Singer, 2010",Sacramento River 47,,0.0649,0.00014,0.006420659,85.7,4.91,706.57
+1440,"Singer, 2010",Sacramento River 48,,0.0747,0.00067,0.033957788,114.3,6.25,1428.33
+1441,"Singer, 2010",Sacramento River 49,,9.0645,0.00132,0.000634909,133.4,7.19,1545.07
+1442,"Singer, 2010",Sacramento River 5,,0.1112,0.001,0.043900078,76.2,8.05,1577.02
+1443,"Singer, 2010",Sacramento River 50,,0.133,0.00087,0.03616963,133.4,9.12,2263.05
+1444,"Singer, 2010",Sacramento River 51,,2.2883,0.00021,0.000475227,95.3,8.54,1661.12
+1445,"Singer, 2010",Sacramento River 52,,0.03,0.00025,0.04008103,123.8,7.94,1986
+1446,"Singer, 2010",Sacramento River 53,,1.615,0.00025,0.000601415,142.9,6.41,1996.99
+1447,"Singer, 2010",Sacramento River 54,,0.0474,0.00022,0.015556185,133.4,5.54,1432.59
+1448,"Singer, 2010",Sacramento River 55,,0.2268,0.0003,0.004973704,133.4,6.2,1580.88
+1449,"Singer, 2010",Sacramento River 56,,1.9541,0.0003,0.000577312,133.4,6.2,1580.88
+1450,"Singer, 2010",Sacramento River 57,,10.2057,0.00117,0.000494478,123.8,7.12,1541.87
+1451,"Singer, 2010",Sacramento River 58,,0.252,0.00044,0.007223516,123.8,6.83,1817.07
+1452,"Singer, 2010",Sacramento River 59,,0.0704,0.00022,0.015662801,142.9,8.27,2246.47
+1453,"Singer, 2010",Sacramento River 6,,0.196,0.00161,0.047059965,114.3,9.45,2700.87
+1454,"Singer, 2010",Sacramento River 60,,0.0306,0.00016,0.022964812,123.8,7.25,1759.79
+1455,"Singer, 2010",Sacramento River 61,,0.1181,0.00049,0.021893314,133.4,8.71,2322.92
+1456,"Singer, 2010",Sacramento River 62,,0.2841,0.00132,0.024191561,123.8,8.59,1584.45
+1457,"Singer, 2010",Sacramento River 63,,0.037,0.00011,0.016488908,133.4,9.14,2475.66
+1458,"Singer, 2010",Sacramento River 64,,0.0805,0.00021,0.015907278,95.3,10.06,1226.64
+1459,"Singer, 2010",Sacramento River 65,,8.049,0.00047,0.000358087,85.7,10.12,1144.64
+1460,"Singer, 2010",Sacramento River 66,,0.2273,0.0002,0.005387677,114.3,10.1,1743.78
+1461,"Singer, 2010",Sacramento River 67,,0.1234,0.00055,0.026084972,114.3,9.66,1500.92
+1462,"Singer, 2010",Sacramento River 68,,14.5752,0.00074,0.000355398,85.7,11.55,1326.38
+1463,"Singer, 2010",Sacramento River 69,,0.4394,0.00032,0.003551709,85.7,8.05,1000.01
+1464,"Singer, 2010",Sacramento River 7,,0.0939,0.00062,0.032955358,104.8,8.23,2338.14
+1465,"Singer, 2010",Sacramento River 70,,0.7479,0.00008,0.000793265,95.3,12.24,944.6
+1466,"Singer, 2010",Sacramento River 71,,20.3889,0.00103,0.000353569,95.3,11.55,1122.56
+1467,"Singer, 2010",Sacramento River 72,,0.3827,0.00025,0.004707294,114.3,11.89,1182.24
+1468,"Singer, 2010",Sacramento River 73,,11.4744,0.0005,0.000339634,85.7,12.86,1388.7
+1469,"Singer, 2010",Sacramento River 74,,0.0212,0.00003,0.009986455,95.3,11.66,1456.04
+1470,"Singer, 2010",Sacramento River 75,,1.2294,0.00007,0.000368113,114.3,10.67,1548.48
+1471,"Singer, 2010",Sacramento River 76,,1.9801,0.00013,0.000439965,95.3,11.06,1454.17
+1472,"Singer, 2010",Sacramento River 77,,3.1179,0.00016,0.000329487,85.7,10.59,916.98
+1473,"Singer, 2010",Sacramento River 78,,1.3893,0.00012,0.000581366,85.7,11.11,1256.32
+1474,"Singer, 2010",Sacramento River 79,,2.2976,0.00007,0.000195428,133.4,10.58,1567.21
+1475,"Singer, 2010",Sacramento River 8,,0.0176,0.00015,0.056824158,142.9,11.01,4828.51
+1476,"Singer, 2010",Sacramento River 80,,1.7519,0.00011,0.000411087,95.3,10.8,1482.45
+1477,"Singer, 2010",Sacramento River 81,,1.0437,0.00006,0.000345375,95.3,9.91,1265.94
+1478,"Singer, 2010",Sacramento River 82,,1.7533,0.00009,0.000307239,85.7,9.88,1159.54
+1479,"Singer, 2010",Sacramento River 83,,1.4685,0.0001,0.000373275,95.3,9.04,991.22
+1480,"Singer, 2010",Sacramento River 84,,10.6469,0.00054,0.000357495,85.7,11.63,1096.37
+1481,"Singer, 2010",Sacramento River 85,,3.762,0.00025,0.000392874,95.3,9.75,994.71
+1482,"Singer, 2010",Sacramento River 86,,11.4147,0.00067,0.000406144,85.7,11.42,1076.29
+1483,"Singer, 2010",Sacramento River 87,,0.8786,0.00003,0.00022052,76.2,10.66,795.81
+1484,"Singer, 2010",Sacramento River 88,,7.6485,0.00047,0.000433725,76.2,11.65,967.29
+1485,"Singer, 2010",Sacramento River 89,,1.1244,0.00006,0.000338544,66.7,10.47,670.32
+1486,"Singer, 2010",Sacramento River 9,,0.098,0.00099,0.056973371,152.4,9.31,3063.24
+1487,"Singer, 2010",Sacramento River 90,,5.6336,0.00024,0.000339304,66.7,13.14,894.08
+1488,"Singer, 2010",Sacramento River 91,,4.5402,0.00023,0.000344824,66.7,11.23,764.11
+1489,"Singer, 2010",Sacramento River 92,,0.4184,0.00002,0.00033879,66.7,11.69,787.81
+1490,"Singer, 2010",Sacramento River 93,,1.776,0.00019,0.000795503,66.7,12.27,834.72
+1491,"Singer, 2010",Sacramento River 94,,2.0618,0.0001,0.000332664,66.7,11.32,792.59
+1492,"Singer, 2010",Sacramento River 95,,1.2839,0.00006,0.000350943,76.2,12.39,896.94
+1493,"Singer, 2010",Sacramento River 96,,1.3776,0.00008,0.000378593,76.2,10.76,918.03
+1494,"Singer, 2010",Sacramento River 97,,14.0895,0.00055,0.000337543,85.7,14.27,1320.54
+1495,"Singer, 2010",Sacramento River 98,,14.6366,0.00064,0.000317293,85.7,11.97,1221.05
+1496,"Singer, 2010",Sacramento River 99,,14.0228,0.00079,0.000444765,133.4,13.03,2206.89
+1497,"Soar and Thorne, 2001","Big Black, nr. Bovina, MS",7283.05,1.5335,0.00015,0.00038,64.9,6.41,425
+1498,"Soar and Thorne, 2001","Big Black, Pickins, MS",3866.86,1.4716,0.00021,0.00032,67.6,3.7,279.3
+1499,"Soar and Thorne, 2001","Big Raccoon Creek, Coxville, IN",1160.32,1.7084,0.00054,0.0005,39.4,2.61,145.9
+1500,"Soar and Thorne, 2001","Big Sioux, Akron, IA",20406.53,0.9117,0.00025,0.00059,58.3,3.55,197.2
+1501,"Soar and Thorne, 2001","Black Warrior, Northport, AL",12483.75,3.6359,0.00022,0.00026,109.1,7.09,1324.2
+1502,"Soar and Thorne, 2001","Brazos (site A), nr. Humble Camp, TX",116826.68,2.7174,0.00012,0.00022,121.5,8.22,1451.5
+1503,"Soar and Thorne, 2001","Brazos (site B), nr. Humble Camp, TX",116826.68,2.3636,0.00012,0.00024,126.1,7.8,1308.8
+1504,"Soar and Thorne, 2001","Brouillets Creek, nr. Universal, IN",857.29,0.9772,0.00088,0.00161,28.1,2.95,117.6
+1505,"Soar and Thorne, 2001","Buttahatchee, nr. Sulligent, AL",1222.48,3.3238,0.00044,0.00028,21.7,3.49,92.6
+1506,"Soar and Thorne, 2001","Cahaba, nr. Sprott, AL",3548.29,5.4501,0.00041,0.0003,61,6.58,816.5
+1507,"Soar and Thorne, 2001","Cedar, nr. Conesville, IA",20168.25,0.8094,0.00033,0.00064,210.5,2.59,615.1
+1508,"Soar and Thorne, 2001","Chickasawhay, Leakesville, MS",4377.08,1.872,0.00019,0.00039,78.7,6.34,750.4
+1509,"Soar and Thorne, 2001","Cimarron (site A), nr. Waynoka, OK",34703.28,1.7167,0.00083,0.00063,125.6,2.15,383.6
+1510,"Soar and Thorne, 2001","Cimarron (site B), nr. Waynoka, OK",34703.28,1.4232,0.00083,0.00082,128.5,2.32,415.3
+1511,"Soar and Thorne, 2001","Congaree, Columbia, SC",20331.42,0.6338,0.00014,0.00066,101.2,4.93,555.4
+1512,"Soar and Thorne, 2001","Cossatot, nr. Dequeen, AR",934.99,14.1641,0.00079,0.00012,49.5,3.55,246.7
+1513,"Soar and Thorne, 2001","East Nishnabotna, Red Oak, IA",2315.45,2.6808,0.0006,0.00043,58.6,3.17,307.1
+1514,"Soar and Thorne, 2001","Fishing Creek, nr. Enfield, NC",1362.33,0.2975,0.00017,0.00107,43.3,3.09,114.6
+1515,"Soar and Thorne, 2001","Hatchie, nr. Stanton, TN",1302.76,2.3091,0.00019,0.00019,44.4,3.81,179.3
+1516,"Soar and Thorne, 2001","Iowa (site A), nr. Belle Plaine, IA",6358.43,1.8,0.00033,0.00036,65.4,3.24,287.9
+1517,"Soar and Thorne, 2001","Iowa (site B), nr. Belle Plaine, IA",6358.43,1.434,0.00033,0.00047,71.5,3.37,302.7
+1518,"Soar and Thorne, 2001","Iowa, Iowa City, IA",8471.86,0.8364,0.00023,0.00054,98.6,3.24,362.1
+1519,"Soar and Thorne, 2001","Iowa, Marshalltown, IA",3967.86,1.2045,0.00053,0.00084,61.1,3.15,281.9
+1520,"Soar and Thorne, 2001","Leaf, Hattiesburg, MS",4527.3,2.3377,0.00036,0.00042,78.3,4.5,482.6
+1521,"Soar and Thorne, 2001","Leaf, nr. Collins, MS",1924.36,1.8411,0.00043,0.00062,82.7,4.38,510.5
+1522,"Soar and Thorne, 2001","Licking, Farmers, KY",2141.92,0.46,0.00025,0.00138,43.2,4.19,200.7
+1523,"Soar and Thorne, 2001","Lumber, Boardman, NC",3180.51,1.1451,0.00022,0.00017,39.2,1.46,44.6
+1524,"Soar and Thorne, 2001","Mud, nr. Lewsburg, KY",234.39,3.2606,0.00028,0.00014,16.3,2.69,37.7
+1525,"Soar and Thorne, 2001","Neches, Evadale, TX",20593.01,1.5984,0.00018,0.00023,71.7,3.37,220.1
+1526,"Soar and Thorne, 2001","Neuse, Kinston, NC",6972.25,0.4306,0.00015,0.00057,56.7,2.7,135.4
+1527,"Soar and Thorne, 2001","Nodaway, Clarinda, IA",1973.57,2.4655,0.00042,0.00035,87,3.39,444.6
+1528,"Soar and Thorne, 2001","Nodaway, nr. Burlington Junction, MO",3211.59,2.4866,0.0004,0.00035,119.4,3.59,559.8
+1529,"Soar and Thorne, 2001","Nottoway, nr. Sebrell, VA",3732.18,0.1788,0.00016,0.00128,44.2,2.36,75.4
+1530,"Soar and Thorne, 2001","Pearl, nr. Bogalusa, LA",17024,0.537,0.00013,0.00065,148.6,4.43,657.3
+1531,"Soar and Thorne, 2001","Pearl, nr. Columbia, MS",17024,0.7023,0.0001,0.00051,107.4,5.91,591.3
+1532,"Soar and Thorne, 2001","Pee Dee, Peedee, SC",22869.61,0.6651,0.00012,0.00062,105.2,5.67,690.5
+1533,"Soar and Thorne, 2001","Red (site A), Index, AR",124319.52,1.7198,0.00014,0.00026,218,5.27,1351.5
+1534,"Soar and Thorne, 2001","Red (site B), Index, AR",124319.52,1.6709,0.00014,0.00026,225,5.12,1367.8
+1535,"Soar and Thorne, 2001","Red, Clay City, KY",937.58,0.5803,0.0004,0.0016,35.2,3.83,172.7
+1536,"Soar and Thorne, 2001","Rock, nr. Rock Valley, IA",4123.26,1.5516,0.00051,0.0005,54.3,2.51,181.4
+1537,"Soar and Thorne, 2001","Rough, nr. Dundee, KY",1960.62,2.0444,0.00011,0.00015,37.5,4.6,165.7
+1538,"Soar and Thorne, 2001","Sabine, nr. Bon Wier, TX",21313.03,3.8,0.00014,0.00014,145.6,6.27,1199.3
+1539,"Soar and Thorne, 2001","South, nr. Parkersburg, NC",981.61,0.3859,0.00027,0.00053,19.8,1.25,18
+1540,"Soar and Thorne, 2001","St. Joseph, nr. Newville, IN",1579.89,0.3851,0.00019,0.00061,58.4,2.04,98.2
+1541,"Soar and Thorne, 2001","Sugar Creek, nr. Edinburgh, IN",1227.66,0.3673,0.0004,0.00134,35.1,2.03,69.1
+1542,"Soar and Thorne, 2001","Tallahala Creek, nr. Runnelstown, MS",1585.07,2.9399,0.00058,0.00033,42.6,2.76,173.9
+1543,"Soar and Thorne, 2001","Tombigbee, nr. Amory, MS",4998.68,2.1306,0.00021,0.00027,80.5,4.52,489.4
+1544,"Soar and Thorne, 2001","Trinity, Romayor, TX",44511.57,1.6574,0.00013,0.00028,188.6,5.89,1306.6
+1545,"Soar and Thorne, 2001","Wabash, Montezuma, IN",28795.51,0.4735,0.00007,0.0005,178,5.58,957.9
+1546,"Soar and Thorne, 2001","Wabash, Riverton, IN",34086.86,0.3991,0.00013,0.00091,204.2,4.61,1019
+1547,"Soar and Thorne, 2001","Wapsinicon, nr. De Witt, IA",6050.22,1.3161,0.00049,0.00044,121.8,1.95,267.4
+1548,"Soar and Thorne, 2001","Washita, Anadarko, OK",9427.56,1.6598,0.00038,0.00029,55.1,2.09,130.7
+1549,"Soar and Thorne, 2001","Washita, nr. Dickson, OK",18575.41,4.5117,0.00043,0.00016,142.9,2.77,463.6
+1550,"Soar and Thorne, 2001","White, East Fork, Seymour, IN",6063.17,0.3404,0.00028,0.00163,87.2,3.27,313
+1551,"Soar and Thorne, 2001","White, Petersburg, IN",28813.64,0.755,0.00014,0.00059,171.4,5.25,1030.4
+1552,"Soar and Thorne, 2001","White, West Fork, Newberry, IN",12141.87,0.4463,0.00019,0.00105,123.9,4.07,561.6
+1553,"Soar and Thorne, 2001","Wolf, Rossville, TN",1302.76,1.574,0.00045,0.00035,29.3,2.02,63
+1554,"Southerland, 2003","SAUK RIVER AB WHITE CHUCK RIVER NR  DARRINGTON, WA",393.68,,0.0014,,83,1.55,145.55
+1555,"Stillwater Sciences, 2010",SESPE CREEK NEAR FILLMORE,,0.0857,0.009,0.07,57,1.1,125
+1556,"Struiksma and Klaassen, 1988; Li et al., 2015",Rio Parana (Argentina),,1.0101,0.00005,0.0003,1600,10,16000
+1557,"Sweet and Geratz, 2003",Ahoskie Creek,163.95,,0.0003,,14.3,1.22,4.7
+1558,"Sweet and Geratz, 2003",Bear Creek,149.44,,0.0005,,14.45,1.4,6.82
+1559,"Sweet and Geratz, 2003",Cashie River,279.72,,0.0008,,27.8,0.37,1.82
+1560,"Sweet and Geratz, 2003",Herrings Marsh Run 1,5.83,,0.001,,3.54,0.43,0.81
+1561,"Sweet and Geratz, 2003",Herrings Marsh Run 2,23.59,,0.0001,,7.89,0.7,1.67
+1562,"Sweet and Geratz, 2003",Hood Creek,55.94,,0.0001,,13.32,0.91,2.76
+1563,"Sweet and Geratz, 2003",Nahunta Swamp,208.24,,0.0005,,14.26,1.77,10.51
+1564,"Sweet and Geratz, 2003",New River,243.46,,0.0003,,18.29,2.01,13.3
+1565,"Sweet and Geratz, 2003",Rockfish Creek,241.13,,0.0006,,12.8,1.16,4.93
+1566,"Sweet and Geratz, 2003",Swift Creek,471.38,,0.0001,,27.22,1.86,20.9
+1567,"Sweet and Geratz, 2003",Trent River,435.12,,0.0001,,23.16,2.41,9.63
+1568,"Sweet and Geratz, 2003",Van Swamp,59.57,,0.0008,,6.04,0.55,1.19
+1569,"Topping, 1997; Topping et al 2000","PARIA RIVER AT LEES FERRY, AZ",3651.89,10.5051,0.004,0.0003,23,1.3,90
+1570,"Torizzo and pitlick, 2004","Clear Creek, CO",173.79,0.0689,0.0063,0.041,15.8,0.74,23.6
+1571,"Torizzo and pitlick, 2004","Colorado River, CO",165.24,0.0237,0.001,0.023,12.8,0.9,14.3
+1572,"Torizzo and pitlick, 2004","Halfmoon Creek – Gage site, CO",60.86,0.2008,0.0178,0.036,7.4,0.67,6.2
+1573,"Torizzo and Pitlick, 2004","LEAVENWORTH CREEK AT MOUTH NEAR GEORGETOWN, CO",31.08,0.165,0.0363,0.08,4.5,0.6,3.1
+1574,"Torizzo and pitlick, 2004","North Saint Vrain, CO",84.43,0.0755,0.0117,0.062,14.4,0.66,11.6
+1575,"Torizzo and pitlick, 2004","Rock Creek, CO",123.28,0.0605,0.0049,0.026,8.7,0.53,6.2
+1576,"Torizzo and pitlick, 2004","South Clear Creek, CO",29.27,0.292,0.0432,0.052,5.2,0.58,3.5
+1577,"Torizzo and pitlick, 2004","South Fork Williams Fork, CO",70.97,0.0795,0.0163,0.077,9.1,0.62,9.7
+1578,"Torizzo and pitlick, 2004","Williams Fork above Darling Creek, near Leal, CO",91.17,0.0131,0.0012,0.03,10.8,0.54,12.8
+1579,"Torizzo and pitlick, 2004","Williams Fork downstream Leal, CO",231.8,0.0357,0.0038,0.031,21.2,0.48,23.7
+1580,"Van den Berg, 1995; Li et al., 2015",Assiniboine,,6.6667,0.001,0.0004,200,4.4,290
+1581,"Van den Berg, 1995; Li et al., 2015",Barwon,,2.3232,0.000115,0.00015,40,5,210
+1582,"Van den Berg, 1995; Li et al., 2015",Mississippi,,4.552,0.000248,0.00035,1975,10.6,28000
+1583,"Van den Berg, 1995; Li et al., 2015",Saskatchewan,,1.7333,0.000286,0.0003,600,3,1240
+1584,"Van den Berg, 1995; Li et al., 2015","Sinú River; Bogata, Columbia",,2.1818,0.000288,0.0004,140,5,1200
+1585,"VTDEC, 2006",Black River,,0.0321,0.0004,0.0099,21.52,1.31,48.87
+1586,"VTDEC, 2006",E. Orange Bridge,,0.2951,0.0132,0.0157,8.56,0.58,5.28
+1587,"VTDEC, 2006",Laplatte River,,0.0285,0.001,0.0162,23.59,0.76,20.78
+1588,"VTDEC, 2006",Ottauquechee River,,0.0966,0.0017,0.0104,19.05,0.98,18.72
+1589,"VTDEC, 2006",Sleepers River,,0.0239,0.0007,0.0168,20.91,0.94,37.15
+1590,"VTDEC, 2006; Li et al., 2015",Little Otter Creek,,1.1545,0.002,0.0008,23.59,0.76,24.17
+1591,"VTDEC, 2006; Li et al., 2015",Mad River 2,,0.0721,0.002,0.0205,42.06,1.22,140.45
+1592,"Wallick et al., 2009; O'Connor et al., 2014; width and discharge estimated from USGS gage measurements","Chetco River nr Brookings, OR",,0.1124,0.0014,0.03773,56.5,5,539.7
+1593,"Westergard et al., 2005",Little Delaware River,128.98,0.117,0.004,0.020633333,22.95,1,48.14
+1594,"Westergard et al., 2005",Tioughnioga River,756.28,0.0609,0.001,0.0171,58.17,1.72,106.75
+1595,"Whiting and Moog, 2001","Big Springs, ID",0.15,0.1386,0.00098,0.003,68.4,0.7,20.5
+1596,"Whiting and Moog, 2001","Black Sands Creek, MT",0.08,0.039,0.00092,0.004,25.4,0.28,0.85
+1597,"Whiting and Moog, 2001","Browns Creek A, OR",0.65,0.1427,0.00883,0.009,10.1,0.24,0.28
+1598,"Whiting and Moog, 2001","Browns Creek B, OR",55.9,0.0612,0.00774,0.023,10.3,0.3,1.22
+1599,"Whiting and Moog, 2001","Buffalo River A, ID",0.8,0.1076,0.00296,0.006,14.7,0.36,0.31
+1600,"Whiting and Moog, 2001","Buffalo River B, ID",24.1,0.0725,0.00299,0.01,8.03,0.4,1.39
+1601,"Whiting and Moog, 2001","Buffalo River C, ID",42.7,0.084,0.00126,0.005,34.3,0.55,6.69
+1602,"Whiting and Moog, 2001","Buffalo River D, ID",25,0.1274,0.00284,0.005,24.8,0.37,1.95
+1603,"Whiting and Moog, 2001","Deer Creek, OR",53.1,0.0858,0.031,0.081,3.94,0.37,0.46
+1604,"Whiting and Moog, 2001","Elk Springs Creek, ID",0.28,0.3564,0.049,0.01,0.97,0.12,0.021
+1605,"Whiting and Moog, 2001","Lucky Dog Creek B, ID",5.75,0.0492,0.00174,0.009,7.09,0.42,1.12
+1606,"Whiting and Moog, 2001","Meadow Creek, ID",0.19,0.3564,0.0021,0.001,9.39,0.28,0.36
+1607,"Whiting and Moog, 2001","Mill Creek, ID",1.88,0.3048,0.011,0.007,3.9,0.32,0.19
+1608,"Whiting and Moog, 2001","Moose Creek, ID",39.7,0.0535,0.001,0.006,3.16,0.53,0.66
+1609,"Whiting and Moog, 2001","Reservation Spring, OR",0.12,0.0368,0.0026,0.015,22,0.35,1.58
+1610,"Whiting and Moog, 2001","Snow Creek A, OR",0.33,0.2834,0.0092,0.012,10.9,0.61,1.82
+1611,"Whiting and Moog, 2001","Snow Creek B, OR",3.58,3.0909,0.01,0.001,11.2,0.51,1.08
+1612,"Whiting and Moog, 2001","Spring Creek B, OR",33.8,0.0129,0.00011,0.005,48,0.97,6.77
+1613,"Whiting and Moog, 2001","Toms Creek A, ID",0.94,0.202,0.006,0.0045,6.07,0.25,0.16
+1614,"Whiting and Moog, 2001","Tyler Creek, ID",3.15,0.3647,0.0081,0.007,1.91,0.52,0.55
+1615,"Wilkerson and Parker, 2011","ARIKAREE RIVER AT HAIGLER, NEBR.",,4.3636,0.002,0.00025,32,0.9,40
+1616,"Williams et al., 2013","GREEN RIVER NEAR JENSEN, UT",76819.1,0.57,0.00048,0.0014,120,2.74,665
+1617,"Williams, 1978; Li et al., 2015","San Francisco River near Reserve, New Mexico",906,7.2145,0.0064,0.0005,17.1,0.93,12
+1618,"Williams, 1978","Blacks Fork near Little America, WY",8029,0.0479,0.0008,0.018,58,1.78,226
+1619,"Williams, 1978","Coast Fork Williamette River at London, OR",186,0.0211,0.001,0.072,32,2.51,187
+1620,"Williams, 1978","Cocolamus Creek near Millerstown, PA",147,0.0859,0.0029,0.035,29,1.71,45.3
+1621,"Williams, 1978","Elk River at Clark, CO",533,0.0396,0.0073,0.115,31,1.03,23.8
+1622,"Williams, 1978",Elk River near Prospect TN,4620,0.2061,0.0008,0.014,69,5.95,668
+1623,"Williams, 1978","Embudo Creek at Dixon, NM",790,0.3085,0.0092,0.015,13,0.83,24.5
+1624,"Williams, 1978","Fall Creek near Lowell, OR",305,0.0193,0.0026,0.066,27,0.81,10.5
+1625,"Williams, 1978","GILA RIVER NEAR REDROCK, NEW MEXICO",7327,0.0064,0.00058,0.04,18.6,0.73,24.9
+1626,"Williams, 1978","GREEN RIVER AT MUNFORDVILLE, KY",4636,0.172,0.00085,0.021,99.1,7.01,580.6
+1627,"Williams, 1978","Huntington Creek near Huntington, UT",492,1.412,0.0135,0.0062,16,1.07,73.6
+1628,"Williams, 1978","Jemez River near Jemez, NM",1217,0.2691,0.0074,0.015,15,0.9,12.6
+1629,"Williams, 1978","Keystone Gulch near Dillon, CO",23,0.2168,0.0412,0.038,3,0.33,3
+1630,"Williams, 1978","Luckiamute River near Hoskins, OR",88,0.0114,0.0013,0.045,17,0.65,5.5
+1631,"Williams, 1978","MUDDY CREEK NEAR SHOSHONI, WY",859,0.5631,0.0039,0.0034,8.2,0.81,13.2
+1632,"Williams, 1978","Nestucca River near Beaver, OR",466,0.0034,0.00021,0.045,39.6,1.21,70.8
+1633,"Williams, 1978","PATTERSON CREEK NEAR HEADSVILLE, WV",567,0.0912,0.0007,0.012,42.1,2.58,91.8
+1634,"Williams, 1978",Pine Creek near Escalante UT,202,0.0399,0.0184,0.165,4,0.59,1.7
+1635,"Williams, 1978","Rio Chiquito near Talpa, NM",95,0.1963,0.0237,0.03,4,0.41,6.2
+1636,"Williams, 1978","Rio Fernando de Taos near Taos, NM",186,0.0614,0.0154,0.076,3,0.5,4.5
+1637,"Williams, 1978","Rio Grande del Rancho near Talpa, NM",215,0.026,0.0066,0.06,7,0.39,5
+1638,"Williams, 1978","Rock Creek near Dillion, CO",41,0.0924,0.0416,0.12,7,0.44,7.5
+1639,"Williams, 1978","Rock Creek near Toponas, CO",124,0.0482,0.0037,0.027,10,0.58,5.7
+1640,"Williams, 1978","Row River above Pitcher Creek near  Dorena, OR",546,0.0049,0.00054,0.072,34.1,1.08,11.3
+1641,"Williams, 1978","SAN FRANCISCO R. NR. GLENWOOD, N.M.",4281,0.0381,0.004,0.035,16.5,0.55,22.2
+1642,"Williams, 1978","Sout Fork Cache la Poudre River nr Rustic, CO",233,0.0126,0.0048,0.15,13,0.65,17.6
+1643,"Williams, 1978","South Chickamauga Creek, GA",644,0.359,0.0025,0.013,33,3.08,69.4
+1644,"Williams, 1978","SWEETWATER RIVER NEAR ALCOVA, WY",6034,0.6933,0.0008,0.001,29,1.43,79.3
+1645,"Williams, 1978","Thomas Creek near Scio, OR",282,0.0269,0.003,0.048,25,0.71,8.2
+1646,"Williams, 1978","TOMICHI CREEK AT GUNNISON, CO",2748,0.0364,0.0036,0.042,23.5,0.7,27.5
+1647,"Williams, 1978","Tonto Creek near Roosevelt, AZ",1748,0.0335,0.0012,0.02,,0.92,109.3
+1648,"Williams, 1978",Towanda Creek near Monroeton PA.,556,0.1363,0.0042,0.045,47,2.41,368
+1649,"Williams, 1978","Tygart River nr Daily, WV",484,0.2097,0.001,0.005,32,1.73,116
+1650,"Williams, 1978","White River near Soldier Summit, UT",194,0.3928,0.0025,0.0027,13.7,0.7,12.2
+1651,"Williams, 1978","Winberry Creek near Lowell, OR",114,0.028,0.0042,0.06,13,0.66,10.9
+1652,"Wolman, 1955",East Branch Brandywine Creek at Cornog,,0.02,0.0037,0.083,17,0.74,24
+1653,"Wolman, 1955",East Branch Brandywine Creek at Seven Springs,,0.0342,0.0028,0.064,20,1.29,40
+1654,"Wolman, 1955",East Branch Brandywine Creek at South Downington,,0.0049,0.00066,0.104,18,1.27,45
+1655,"Wolman, 1955",West Branch Brandywine Creek at Embreeville,,0.0304,0.00069,0.022,27,1.6,66
+1656,"Wolman, 1955",West Branch Brandywine Creek at Wanaset,,0.0115,0.00062,0.049,23,1.5,68
